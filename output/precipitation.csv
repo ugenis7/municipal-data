@@ -1,0 +1,2457 @@
+municipality,state,code,variable,min_precipitation,max_precipitation
+Aguascalientes,Aguascalientes,C01001,Rango de precipitación,400,700
+Asientos,Aguascalientes,C01002,Rango de precipitación,400,600
+Calvillo,Aguascalientes,C01003,Rango de precipitación,500,800
+Cosío,Aguascalientes,C01004,Rango de precipitación,400,600
+Jesús María,Aguascalientes,C01005,Rango de precipitación,500,700
+Pabellón de Arteaga,Aguascalientes,C01006,Rango de precipitación,400,600
+Rincón de Romos,Aguascalientes,C01007,Rango de precipitación,400,600
+San José de Gracia,Aguascalientes,C01008,Rango de precipitación,400,800
+Tepezalá,Aguascalientes,C01009,Rango de precipitación,400,600
+El Llano,Aguascalientes,C01010,Rango de precipitación,400,600
+San Francisco de los Romo,Aguascalientes,C01011,Rango de precipitación,400,600
+Ensenada,Baja California,C02001,Rango de precipitación,Menos de 100,500
+Mexicali,Baja California,C02002,Rango de precipitación,Menos de 100,400
+Tecate,Baja California,C02003,Rango de precipitación,100,500
+Tijuana,Baja California,C02004,Rango de precipitación,100,300
+Playas de Rosarito,Baja California,C02005,Rango de precipitación,200,300
+Comondú,Baja California Sur,C03001,Rango de precipitación,Menos de 100,400
+Mulegé,Baja California Sur,C03002,Rango de precipitación,Menos de 100,300
+La Paz,Baja California Sur,C03003,Rango de precipitación,Menos de 100,600
+Los Cabos,Baja California Sur,C03008,Rango de precipitación,200,600
+Loreto,Baja California Sur,C03009,Rango de precipitación,Menos de 100,400
+Calkiní,Campeche,C04001,Rango de precipitación,700,1100
+Campeche,Campeche,C04002,Rango de precipitación,1000,1200
+Carmen,Campeche,C04003,Rango de precipitación,1500,1000
+Champotón,Campeche,C04004,Rango de precipitación,1000,1500
+Hecelchakán,Campeche,C04005,Rango de precipitación,800,1100
+Hopelchén,Campeche,C04006,Rango de precipitación,800,1000
+Palizada,Campeche,C04007,Rango de precipitación,1500,2000
+Tenabo,Campeche,C04008,Rango de precipitación,1000,1100
+Escárcega,Campeche,C04009,Rango de precipitación,1100,1500
+Calakmul,Campeche,C04010,Rango de precipitación,1000,1500
+Candelaria,Campeche,C04011,Rango de precipitación,1200,2000
+Abasolo,Coahuila de Zaragoza,C05001,Rango de precipitación,300,500
+Acuña,Coahuila de Zaragoza,C05002,Rango de precipitación,200,600
+Allende,Coahuila de Zaragoza,C05003,Rango de precipitación,300,500
+Arteaga,Coahuila de Zaragoza,C05004,Rango de precipitación,300,700
+Candela,Coahuila de Zaragoza,C05005,Rango de precipitación,300,500
+Castaños,Coahuila de Zaragoza,C05006,Rango de precipitación,200,500
+Cuatro Ciénegas,Coahuila de Zaragoza,C05007,Rango de precipitación,100,600
+Escobedo,Coahuila de Zaragoza,C05008,Rango de precipitación,300,500
+Francisco I Madero,Coahuila de Zaragoza,C05009,Rango de precipitación,100,400
+Frontera,Coahuila de Zaragoza,C05010,Rango de precipitación,300,500
+General Cepeda,Coahuila de Zaragoza,C05011,Rango de precipitación,100,700
+Guerrero,Coahuila de Zaragoza,C05012,Rango de precipitación,300,600
+Hidalgo,Coahuila de Zaragoza,C05013,Rango de precipitación,400,600
+Jiménez,Coahuila de Zaragoza,C05014,Rango de precipitación,300,600
+Juárez,Coahuila de Zaragoza,C05015,Rango de precipitación,300,500
+Lamadrid,Coahuila de Zaragoza,C05016,Rango de precipitación,200,500
+Matamoros,Coahuila de Zaragoza,C05017,Rango de precipitación,100,300
+Monclova,Coahuila de Zaragoza,C05018,Rango de precipitación,300,500
+Morelos,Coahuila de Zaragoza,C05019,Rango de precipitación,300,500
+Múzquiz,Coahuila de Zaragoza,C05020,Rango de precipitación,300,700
+Nadadores,Coahuila de Zaragoza,C05021,Rango de precipitación,300,500
+Nava,Coahuila de Zaragoza,C05022,Rango de precipitación,400,600
+Ocampo,Coahuila de Zaragoza,C05023,Rango de precipitación,100,600
+Parras,Coahuila de Zaragoza,C05024,Rango de precipitación,100,600
+Piedras Negras,Coahuila de Zaragoza,C05025,Rango de precipitación,400,600
+Progreso,Coahuila de Zaragoza,C05026,Rango de precipitación,300,500
+Ramos Arizpe,Coahuila de Zaragoza,C05027,Rango de precipitación,100,600
+Sabinas,Coahuila de Zaragoza,C05028,Rango de precipitación,300,500
+Sacramento,Coahuila de Zaragoza,C05029,Rango de precipitación,100,400
+Saltillo,Coahuila de Zaragoza,C05030,Rango de precipitación,200,700
+San Buenaventura,Coahuila de Zaragoza,C05031,Rango de precipitación,200,700
+San Juan de Sabinas,Coahuila de Zaragoza,C05032,Rango de precipitación,400,600
+San Pedro,Coahuila de Zaragoza,C05033,Rango de precipitación,100,500
+Sierra Mojada,Coahuila de Zaragoza,C05034,Rango de precipitación,200,500
+Torreón,Coahuila de Zaragoza,C05035,Rango de precipitación,100,400
+Viesca,Coahuila de Zaragoza,C05036,Rango de precipitación,100,400
+Villa Unión,Coahuila de Zaragoza,C05037,Rango de precipitación,300,500
+Zaragoza,Coahuila de Zaragoza,C05038,Rango de precipitación,200,600
+Armería,Colima,C06001,Rango de precipitación,600,1
+Colima,Colima,C06002,Rango de precipitación,600,1300
+Comala,Colima,C06003,Rango de precipitación,800,1300
+Coquimatlán,Colima,C06004,Rango de precipitación,700,1100
+Cuauhtémoc,Colima,C06005,Rango de precipitación,800,1300
+Ixtlahuacán,Colima,C06006,Rango de precipitación,600,1000
+Manzanillo,Colima,C06007,Rango de precipitación,600,1300
+Minatitlán,Colima,C06008,Rango de precipitación,800,2000
+Tecomán,Colima,C06009,Rango de precipitación,600,1100
+Villa de Álvarez,Colima,C06010,Rango de precipitación,800,1300
+Acacoyagua,Chiapas,C07001,Rango de precipitación,2500,4000
+Acala,Chiapas,C07002,Rango de precipitación,900,1500
+Acapetahua,Chiapas,C07003,Rango de precipitación,1500,3500
+Altamirano,Chiapas,C07004,Rango de precipitación,1500,3000
+Amatán,Chiapas,C07005,Rango de precipitación,2500,4500
+Amatenango de la Frontera,Chiapas,C07006,Rango de precipitación,1000,2500
+Amatenango del Valle,Chiapas,C07007,Rango de precipitación,1200,1500
+Ángel Albino Corzo,Chiapas,C07008,Rango de precipitación,2000,4000
+Arriaga,Chiapas,C07009,Rango de precipitación,1200,3000
+Bejucal de Ocampo,Chiapas,C07010,Rango de precipitación,1000,3000
+Bella Vista,Chiapas,C07011,Rango de precipitación,1200,3000
+Berriozábal,Chiapas,C07012,Rango de precipitación,900,2000
+Bochil,Chiapas,C07013,Rango de precipitación,900,2500
+El Bosque,Chiapas,C07014,Rango de precipitación,1500,3000
+Cacahoatán,Chiapas,C07015,Rango de precipitación,4000,4500
+Catazajá,Chiapas,C07016,Rango de precipitación,1500,3000
+Cintalapa,Chiapas,C07017,Rango de precipitación,900,3000
+Coapilla,Chiapas,C07018,Rango de precipitación,1000,3500
+Comitán de Domínguez,Chiapas,C07019,Rango de precipitación,900,1500
+La Concordia,Chiapas,C07020,Rango de precipitación,1000,4000
+Copainalá,Chiapas,C07021,Rango de precipitación,900,2500
+Chalchihuitán,Chiapas,C07022,Rango de precipitación,1500,2500
+Chamula,Chiapas,C07023,Rango de precipitación,1000,2000
+Chanal,Chiapas,C07024,Rango de precipitación,1200,2000
+Chapultenango,Chiapas,C07025,Rango de precipitación,3000,4500
+Chenalhó,Chiapas,C07026,Rango de precipitación,1500,2500
+Chiapa de Corzo,Chiapas,C07027,Rango de precipitación,900,1500
+Chiapilla,Chiapas,C07028,Rango de precipitación,900,1500
+Chicoasén,Chiapas,C07029,Rango de precipitación,900,1200
+Chicomuselo,Chiapas,C07030,Rango de precipitación,1000,3500
+Chilón,Chiapas,C07031,Rango de precipitación,1500,3500
+Escuintla,Chiapas,C07032,Rango de precipitación,2500,4000
+Francisco León,Chiapas,C07033,Rango de precipitación,2000,4500
+Frontera Comalapa,Chiapas,C07034,Rango de precipitación,1000,2000
+Frontera Hidalgo,Chiapas,C07035,Rango de precipitación,1200,2500
+La Grandeza,Chiapas,C07036,Rango de precipitación,2000,3000
+Huehuetán,Chiapas,C07037,Rango de precipitación,1500,4500
+Huixtán,Chiapas,C07038,Rango de precipitación,1200,2000
+Huitiupán,Chiapas,C07039,Rango de precipitación,1500,4000
+Huixtla,Chiapas,C07040,Rango de precipitación,1500,4000
+La Independencia,Chiapas,C07041,Rango de precipitación,900,3500
+Ixhuatán,Chiapas,C07042,Rango de precipitación,3500,4500
+Ixtacomitán,Chiapas,C07043,Rango de precipitación,4000,4500
+Ixtapa,Chiapas,C07044,Rango de precipitación,1000,1500
+Ixtapangajoya,Chiapas,C07045,Rango de precipitación,3500,4500
+Jiquipilas,Chiapas,C07046,Rango de precipitación,900,3000
+Jitotol,Chiapas,C07047,Rango de precipitación,1200,3000
+Juárez,Chiapas,C07048,Rango de precipitación,2000,4000
+Larráinzar,Chiapas,C07049,Rango de precipitación,1000,2500
+La Libertad,Chiapas,C07050,Rango de precipitación,1500,3000
+Mapastepec,Chiapas,C07051,Rango de precipitación,1500,4000
+Las Margaritas,Chiapas,C07052,Rango de precipitación,1000,3500
+Mazapa de Madero,Chiapas,C07053,Rango de precipitación,1000,4500
+Mazatán,Chiapas,C07054,Rango de precipitación,1200,2000
+Metapa,Chiapas,C07055,Rango de precipitación,1500,3500
+Mitontic,Chiapas,C07056,Rango de precipitación,1500,2500
+Motozintla,Chiapas,C07057,Rango de precipitación,1000,4500
+Nicolás Ruíz,Chiapas,C07058,Rango de precipitación,1000,1500
+Ocosingo,Chiapas,C07059,Rango de precipitación,1500,3500
+Ocotepec,Chiapas,C07060,Rango de precipitación,2000,4000
+Ocozocoautla de Espinosa,Chiapas,C07061,Rango de precipitación,900,3000
+Ostuacán,Chiapas,C07062,Rango de precipitación,2500,4500
+Osumacinta,Chiapas,C07063,Rango de precipitación,900,1500
+Oxchuc,Chiapas,C07064,Rango de precipitación,1200,2000
+Palenque,Chiapas,C07065,Rango de precipitación,1500,4500
+Pantelhó,Chiapas,C07066,Rango de precipitación,1500,2500
+Pantepec,Chiapas,C07067,Rango de precipitación,1200,4500
+Pichucalco,Chiapas,C07068,Rango de precipitación,2500,4500
+Pijijiapan,Chiapas,C07069,Rango de precipitación,1500,4000
+El Porvenir,Chiapas,C07070,Rango de precipitación,1200,4000
+Villa Comaltitlán,Chiapas,C07071,Rango de precipitación,1500,4000
+Pueblo Nuevo Solistahuacán,Chiapas,C07072,Rango de precipitación,1500,4500
+Rayón,Chiapas,C07073,Rango de precipitación,1500,4000
+Reforma,Chiapas,C07074,Rango de precipitación,2000,3000
+Las Rosas,Chiapas,C07075,Rango de precipitación,900,1500
+Sabanilla,Chiapas,C07076,Rango de precipitación,1500,3500
+Salto de Agua,Chiapas,C07077,Rango de precipitación,2500,4500
+San Cristóbal de las Casas,Chiapas,C07078,Rango de precipitación,1000,1500
+San Fernando,Chiapas,C07079,Rango de precipitación,900,2000
+Siltepec,Chiapas,C07080,Rango de precipitación,1500,4000
+Simojovel,Chiapas,C07081,Rango de precipitación,1500,2500
+Sitalá,Chiapas,C07082,Rango de precipitación,2000,2500
+Socoltenango,Chiapas,C07083,Rango de precipitación,900,1500
+Solosuchiapa,Chiapas,C07084,Rango de precipitación,4000,5000
+Soyaló,Chiapas,C07085,Rango de precipitación,800,1500
+Suchiapa,Chiapas,C07086,Rango de precipitación,800,1500
+Suchiate,Chiapas,C07087,Rango de precipitación,1000,2000
+Sunuapa,Chiapas,C07088,Rango de precipitación,3500,4500
+Tapachula,Chiapas,C07089,Rango de precipitación,1000,5000
+Tapalapa,Chiapas,C07090,Rango de precipitación,2000,4000
+Tapilula,Chiapas,C07091,Rango de precipitación,2500,4000
+Tecpatán,Chiapas,C07092,Rango de precipitación,1500,3500
+Tenejapa,Chiapas,C07093,Rango de precipitación,1000,2500
+Teopisca,Chiapas,C07094,Rango de precipitación,1000,1500
+Tila,Chiapas,C07096,Rango de precipitación,1500,5000
+Tonalá,Chiapas,C07097,Rango de precipitación,1200,3500
+Totolapa,Chiapas,C07098,Rango de precipitación,800,1500
+La Trinitaria,Chiapas,C07099,Rango de precipitación,800,3500
+Tumbalá,Chiapas,C07100,Rango de precipitación,2000,5000
+Tuxtla Gutiérrez,Chiapas,C07101,Rango de precipitación,800,1200
+Tuxtla Chico,Chiapas,C07102,Rango de precipitación,1200,5000
+Tuzantán,Chiapas,C07103,Rango de precipitación,2000,5000
+Tzimol,Chiapas,C07104,Rango de precipitación,900,1200
+Unión Juárez,Chiapas,C07105,Rango de precipitación,4000,5000
+Venustiano Carranza,Chiapas,C07106,Rango de precipitación,1000,1500
+Villa Corzo,Chiapas,C07107,Rango de precipitación,1000,3500
+Villaflores,Chiapas,C07108,Rango de precipitación,1000,3500
+Yajalón,Chiapas,C07109,Rango de precipitación,1500,3500
+San Lucas,Chiapas,C07110,Rango de precipitación,1000,1500
+Zinacantán,Chiapas,C07111,Rango de precipitación,1000,1500
+San Juan Cancuc,Chiapas,C07112,Rango de precipitación,1500,2500
+Aldama,Chiapas,C07113,Rango de precipitación,1500,2500
+Benemérito de las Américas,Chiapas,C07114,Rango de precipitación,1500,2500
+Maravilla Tenejapa,Chiapas,C07115,Rango de precipitación,2000,3500
+Marqués de Comillas,Chiapas,C07116,Rango de precipitación,1500,3500
+Montecristo de Guerrero,Chiapas,C07117,Rango de precipitación,2500,4000
+San Andrés Duraznal,Chiapas,C07118,Rango de precipitación,1500,3000
+Santiago el Pinar,Chiapas,C07119,Rango de precipitación,1500,2500
+Ahumada,Chihuahua,C08001,Rango de precipitación,100,400
+Aldama,Chihuahua,C08002,Rango de precipitación,200,400
+Allende,Chihuahua,C08003,Rango de precipitación,300,500
+Aquiles Serdán,Chihuahua,C08004,Rango de precipitación,200,400
+Ascensión,Chihuahua,C08005,Rango de precipitación,100,400
+Bachíniva,Chihuahua,C08006,Rango de precipitación,400,600
+Balleza,Chihuahua,C08007,Rango de precipitación,400,1000
+Batopilas,Chihuahua,C08008,Rango de precipitación,500,1200
+Bocoyna,Chihuahua,C08009,Rango de precipitación,600,1000
+Buenaventura,Chihuahua,C08010,Rango de precipitación,200,600
+Camargo,Chihuahua,C08011,Rango de precipitación,200,400
+Carichí,Chihuahua,C08012,Rango de precipitación,400,800
+Casas Grandes,Chih,C08013,Rango de precipitación,200,800
+Camargo,Chihuahua,C08014,Rango de precipitación,200,400
+Coyame del Sotol,Chihuahua,C08015,Rango de precipitación,200,400
+La Cruz,Chihuahua,C08016,Rango de precipitación,200,400
+Cuauhtémoc,Chihuahua,C08017,Rango de precipitación,300,500
+Cusihuiriachi,Chihuahua,C08018,Rango de precipitación,400,600
+Chihuahua,Chihuahua,C08019,Rango de precipitación,200,600
+Chinipas,Chihuahua,C08020,Rango de precipitación,200,1200
+Delicias,Chihuahua,C08021,Rango de precipitación,200,400
+Doctor Belisario Domínguez,Chihuahua,C08022,Rango de precipitación,400,700
+Galeana,Chihuahua,C08023,Rango de precipitación,200,500
+Santa Isabel,Chihuahua,C08024,Rango de precipitación,400,500
+Gómez Farías,Chihuahua,C08025,Rango de precipitación,400,700
+Gran Morelos,Chihuahua,C08026,Rango de precipitación,400,500
+Guachochi,Chihuahua,C08027,Rango de precipitación,500,800
+Guadalupe,Chihuahua,C08028,Rango de precipitación,200,400
+Guadalupe y Calvo,Chihuahua,C08029,Rango de precipitación,600,1200
+Guazapares,Chihuahua,C08030,Rango de precipitación,700,1100
+Guerrero,Chihuahua,C08031,Rango de precipitación,400,1200
+Hidalgo del Parral,Chihuahua,C08032,Rango de precipitación,300,600
+Huejotitán,Chihuahua,C08033,Rango de precipitación,400,600
+Ignacio Zaragoza,Chihuahua,C08034,Rango de precipitación,300,700
+Janos,Chihuahua,C08035,Rango de precipitación,200,700
+Jiménez,Chihuahua,C08036,Rango de precipitación,200,500
+Juárez,Chihuahua,C08037,Rango de precipitación,200,300
+Julimes,Chihuahua,C08038,Rango de precipitación,200,400
+López,Chihuahua,C08039,Rango de precipitación,300,500
+Madera,Chihuahua,C08040,Rango de precipitación,400,1200
+Maguarichi,Chihuahua,C08041,Rango de precipitación,600,1000
+Manuel Benavides,Chihuahua,C08042,Rango de precipitación,100,400
+Matachí,Chihuahua,C08043,Rango de precipitación,400,700
+Matamoros,Chihuahua,C08044,Rango de precipitación,400,600
+Meoqui,Chihuahua,C08045,Rango de precipitación,200,400
+Morelos,Chihuahua,C08046,Rango de precipitación,500,1200
+Moris,Chihuahua,C08047,Rango de precipitación,600,1000
+Namiquipa,Chihuahua,C08048,Rango de precipitación,300,600
+Nonoava,Chihuahua,C08049,Rango de precipitación,400,700
+Nuevo Casas Grandes,Chihuahua,C08050,Rango de precipitación,200,500
+Ocampo,Chihuahua,C08051,Rango de precipitación,600,1200
+Ojinaga,Chihuahua,C08052,Rango de precipitación,200,400
+Praxedis G Guerrero,Chihuahua,C08053,Rango de precipitación,200,300
+Riva Palacio,Chihuahua,C08054,Rango de precipitación,400,600
+Rosales,Chihuahua,C08055,Rango de precipitación,200,500
+Rosario,Chihuahua,C08056,Rango de precipitación,400,700
+San Francisco de Borja,Chihuahua,C08057,Rango de precipitación,400,700
+San Francisco de Conchos,Chihuahua,C08058,Rango de precipitación,300,400
+San Francisco del Oro,Chihuahua,C08059,Rango de precipitación,400,700
+Santa Bárbara,Chihuahua,C08060,Rango de precipitación,400,700
+Satevó,Chihuahua,C08061,Rango de precipitación,300,500
+Saucillo,Chihuahua,C08062,Rango de precipitación,200,400
+Temósachi,Chihuahua,C08063,Rango de precipitación,400,1200
+El Tule,Chihuahua,C08064,Rango de precipitación,700,400
+Urique,Chihuahua,C08065,Rango de precipitación,500,1200
+Uruachi,Chihuahua,C08066,Rango de precipitación,600,1200
+Valle de Zaragoza,Chihuahua,C08067,Rango de precipitación,300,500
+Azcapotzalco,Distrito Federal,C09002,Rango de precipitación,600,800
+Coyoacán,Distrito Federal,C09003,Rango de precipitación,600,900
+Cuajimalpa de Morelos,Distrito Federal,C09004,Rango de precipitación,900,1600
+Gustavo A Madero,Distrito Federal,C09005,Rango de precipitación,500,700
+Iztacalco,Distrito Federal,C09006,Rango de precipitación,500,700
+Iztapalapa,Distrito Federal,C09007,Rango de precipitación,500,700
+La Magdalena Contreras,Distrito Federal,C09008,Rango de precipitación,900,1600
+Milpa Alta,Distrito Federal,C09009,Rango de precipitación,700,1600
+Álvaro Obregón,Distrito Federal,C09010,Rango de precipitación,700,1600
+Tláhuac,Distrito Federal,C09011,Rango de precipitación,600,800
+Tlalpan,Distrito Federal,C09012,Rango de precipitación,600,1600
+Xochimilco,Distrito Federal,C09013,Rango de precipitación,600,1100
+Benito Juárez,Distrito Federal,C09014,Rango de precipitación,600,900
+Cuauhtémoc,Distrito Federal,C09015,Rango de precipitación,500,800
+Miguel Hidalgo,Distrito Federal,C09016,Rango de precipitación,600,900
+Venustiano Carranza,Distrito Federal,C09017,Rango de precipitación,500,700
+Canatlán,Durango,C10001,Rango de precipitación,200,1000
+Canelas,Durango,C10002,Rango de precipitación,1000,1400
+Coneto de Comonfort,Durango,C10003,Rango de precipitación,400,600
+Cuencamé,Durango,C10004,Rango de precipitación,200,600
+Durango,Durango,C10005,Rango de precipitación,400,1200
+Gral Simón Bolívar,Durango,C10006,Rango de precipitación,200,500
+Gómez Palacio,Durango,C10007,Rango de precipitación,100,400
+Guadalupe Victoria,Durango,C10008,Rango de precipitación,400,700
+Guanaceví,Durango,C10009,Rango de precipitación,400,1200
+Hidalgo,Durango,C10010,Rango de precipitación,300,600
+Indé,Durango,C10011,Rango de precipitación,300,600
+Lerdo,Durango,C10012,Rango de precipitación,200,400
+Mapimí,Durango,C10013,Rango de precipitación,200,500
+Mezquital,Durango,C10014,Rango de precipitación,400,1200
+Nazas,Durango,C10015,Rango de precipitación,200,500
+Nombre de Dios,Durango,C10016,Rango de precipitación,400,600
+Ocampo,Durango,C10017,Rango de precipitación,400,800
+El Oro,Durango,C10018,Rango de precipitación,300,600
+Otáez,Durango,C10019,Rango de precipitación,700,1400
+Pánuco de Coronado,Durango,C10020,Rango de precipitación,400,700
+Peñón Blanco,Durango,C10021,Rango de precipitación,300,700
+Poanas,Durango,C10022,Rango de precipitación,400,700
+Pueblo Nuevo,Durango,C10023,Rango de precipitación,800,2000
+Rodeo,Durango,C10024,Rango de precipitación,300,500
+San Bernardo,Durango,C10025,Rango de precipitación,400,800
+San Dimas,Durango,C10026,Rango de precipitación,500,1500
+San Juan de Guadalupe,Durango,C10027,Rango de precipitación,200,400
+San Juan del Río,Durango,C10028,Rango de precipitación,300,600
+San Luis del Cordero,Durango,C10029,Rango de precipitación,200,400
+San Pedro del Gallo,Durango,C10030,Rango de precipitación,200,500
+Santa Clara,Durango,C10031,Rango de precipitación,300,600
+Santiago Papasquiaro,Durango,C10032,Rango de precipitación,300,1300
+Súchil,Durango,C10033,Rango de precipitación,400,700
+Tamazula,Durango,C10034,Rango de precipitación,700,1300
+Tepehuanes,Durango,C10035,Rango de precipitación,400,1300
+Tlahualilo,Durango,C10036,Rango de precipitación,100,300
+Topia,Durango,C10037,Rango de precipitación,700,1400
+Vicente Guerrero,Durango,C10038,Rango de precipitación,400,700
+Nuevo Ideal,Durango,C10039,Rango de precipitación,300,800
+Abasolo,Guanajuato,C11001,Rango de precipitación,700,800
+Acámbaro,Guanajuato,C11002,Rango de precipitación,700,900
+San Miguel de Allende,Guanajuato,C11003,Rango de precipitación,400,900
+Apaseo el Alto,Guanajuato,C11004,Rango de precipitación,500,800
+Apaseo el Grande,Guanajuato,C11005,Rango de precipitación,500,800
+Atarjea,Guanajuato,C11006,Rango de precipitación,500,900
+Celaya,Guanajuato,C11007,Rango de precipitación,600,800
+Manuel Doblado,Guanajuato,C11008,Rango de precipitación,700,900
+Comonfort,Guanajuato,C11009,Rango de precipitación,600,900
+Coroneo,Guanajuato,C11010,Rango de precipitación,700,800
+Cortazar,Guanajuato,C11011,Rango de precipitación,600,800
+Cuerámaro,Guanajuato,C11012,Rango de precipitación,700,900
+Doctor Mora,Guanajuato,C11013,Rango de precipitación,400,600
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,C11014,Rango de precipitación,400,900
+Guanajuato,Guanajuato,C11015,Rango de precipitación,600,900
+Huanímaro,Guanajuato,C11016,Rango de precipitación,700,800
+Irapuato,Guanajuato,C11017,Rango de precipitación,600,900
+Jaral del Progreso,Guanajuato,C11018,Rango de precipitación,600,800
+Jerécuaro,Guanajuato,C11019,Rango de precipitación,700,900
+León,Guanajuato,C11020,Rango de precipitación,600,900
+Moroleón,Guanajuato,C11021,Rango de precipitación,700,900
+Ocampo,Guanajuato,C11022,Rango de precipitación,400,700
+Pénjamo,Guanajuato,C11023,Rango de precipitación,700,900
+Pueblo Nuevo,Guanajuato,C11024,Rango de precipitación,600,800
+Purísima del Rincón,Guanajuato,C11025,Rango de precipitación,600,900
+Romita,Guanajuato,C11026,Rango de precipitación,600,800
+Salamanca,Guanajuato,C11027,Rango de precipitación,600,900
+Salvatierra,Guanajuato,C11028,Rango de precipitación,700,800
+San Diego de la Unión,Guanajuato,C11029,Rango de precipitación,300,700
+San Felipe,Guanajuato,C11030,Rango de precipitación,300,900
+San Francisco del Rincón,Guanajuato,C11031,Rango de precipitación,600,800
+San José Iturbide,Guanajuato,C11032,Rango de precipitación,400,700
+San Luis de la Paz,Guanajuato,C11033,Rango de precipitación,300,700
+Santa Catarina,Guanajuato,C11034,Rango de precipitación,400,800
+Santa Cruz de Juventino Rosas,Guanajuato,C11035,Rango de precipitación,600,900
+Santiago Maravatío,Guanajuato,C11036,Rango de precipitación,700,800
+Silao,Guanajuato,C11037,Rango de precipitación,600,900
+Tarandacuao,Guanajuato,C11038,Rango de precipitación,700,900
+Tarimoro,Guanajuato,C11039,Rango de precipitación,700,800
+Tierra Blanca,Guanajuato,C11040,Rango de precipitación,500,800
+Uriangato,Guanajuato,C11041,Rango de precipitación,700,900
+Valle de Santiago,Guanajuato,C11042,Rango de precipitación,600,900
+Victoria,Guanajuato,C11043,Rango de precipitación,500,800
+Villagrán,Guanajuato,C11044,Rango de precipitación,700,800
+Xichú,Guanajuato,C11045,Rango de precipitación,500,900
+Yuriria,Guanajuato,C11046,Rango de precipitación,700,900
+Acapulco de Juárez,Guerrero,C12001,Rango de precipitación,1000,2000
+Ahuacuotzingo,Guerrero,C12002,Rango de precipitación,700,1200
+Ajuchitlán del Progreso,Guerrero,C12003,Rango de precipitación,1000,2500
+Alcozauca de Guerrero,Guerrero,C12004,Rango de precipitación,800,2500
+Alpoyeca,Guerrero,C12005,Rango de precipitación,700,1000
+Apaxtla,Guerrero,C12006,Rango de precipitación,700,1300
+Arcelia,Guerrero,C12007,Rango de precipitación,800,1100
+Atenango del Río,Guerrero,C12008,Rango de precipitación,700,1000
+Atlamajalcingo del Monte,Guerrero,C12009,Rango de precipitación,800,2500
+Atlixtac,Guerrero,C12010,Rango de precipitación,800,2000
+Atoyac de Álvarez,Guerrero,C12011,Rango de precipitación,1100,2500
+Ayutla de los Libres,Guerrero,C12012,Rango de precipitación,1300,2000
+Azoyú,Guerrero,C12013,Rango de precipitación,1100,2000
+Benito Juárez,Guerrero,C12014,Rango de precipitación,1000,1200
+Buenavista de Cuéllar,Guerrero,C12015,Rango de precipitación,800,1100
+Coahuayutla de José María Izazaga,Guerrero,C12016,Rango de precipitación,500,1300
+Cocula,Guerrero,C12017,Rango de precipitación,1000,1300
+Copala,Guerrero,C12018,Rango de precipitación,1000,1500
+Copalillo,Guerrero,C12019,Rango de precipitación,700,1000
+Copanatoyac,Guerrero,C12020,Rango de precipitación,700,1500
+Coyuca de Benítez,Guerrero,C12021,Rango de precipitación,1000,2500
+Coyuca de Catalán,Guerrero,C12022,Rango de precipitación,800,2000
+Cuajinicuilapa,Guerrero,C12023,Rango de precipitación,1100,1300
+Cualác,Guerrero,C12024,Rango de precipitación,700,1200
+Cuautepec,Guerrero,C12025,Rango de precipitación,1100,1300
+Cuetzala del Progreso,Guerrero,C12026,Rango de precipitación,700,1500
+Cutzamala de Pinzón,Guerrero,C12027,Rango de precipitación,800,1100
+Chilapa de Álvarez,Guerrero,C12028,Rango de precipitación,800,2000
+Chilpancingo de los Bravo,Guerrero,C12029,Rango de precipitación,800,2500
+Florencio Villarreal,Guerrero,C12030,Rango de precipitación,1100,1300
+General Canuto A Neri,Guerrero,C12031,Rango de precipitación,1000,1200
+General Heliodoro Castillo,Guerrero,C12032,Rango de precipitación,700,2500
+Huamuxtitlán,Guerrero,C12033,Rango de precipitación,700,1000
+Huitzuco de los Figueroa,Guerrero,C12034,Rango de precipitación,700,1100
+Iguala de la Independencia,Guerrero,C12035,Rango de precipitación,700,1100
+Igualapa,Guerrero,C12036,Rango de precipitación,1100,2000
+Ixcateopan de Cuauhtémoc,Guerrero,C12037,Rango de precipitación,1000,1300
+José Azueta,Guerrero,C12038,Rango de precipitación,800,2000
+Juan R Escudero,Guerrero,C12039,Rango de precipitación,1300,2000
+Leonardo Bravo,Guerrero,C12040,Rango de precipitación,700,2000
+Malinaltepec,Guerrero,C12041,Rango de precipitación,1100,2500
+Mártir de Cuilapan,Guerrero,C12042,Rango de precipitación,700,1200
+Metlatónoc,Guerrero,C12043,Rango de precipitación,800,3000
+Mochitlán,Guerrero,C12044,Rango de precipitación,1100,2000
+Olinalá,Guerrero,C12045,Rango de precipitación,600,1200
+Ometepec,Guerrero,C12046,Rango de precipitación,1000,2500
+Pedro Ascencio Alquisiras,Guerrero,C12047,Rango de precipitación,1000,1500
+Petatlán,Guerrero,C12048,Rango de precipitación,800,2000
+Pilcaya,Guerrero,C12049,Rango de precipitación,800,1300
+Pungarabato,Guerrero,C12050,Rango de precipitación,800,1200
+Quechultenango,Guerrero,C12051,Rango de precipitación,1300,2000
+San Luis Acatlán,Guerrero,C12052,Rango de precipitación,1000,2000
+San Marcos,Guerrero,C12053,Rango de precipitación,1100,2000
+San Miguel Totolapan,Guerrero,C12054,Rango de precipitación,700,2500
+Taxco de Alarcón,Guerrero,C12055,Rango de precipitación,800,1500
+Tecoanapa,Guerrero,C12056,Rango de precipitación,1300,2000
+Técpan de Galeana,Guerrero,C12057,Rango de precipitación,800,2000
+Teloloapan,Guerrero,C12058,Rango de precipitación,800,1300
+Tepecoacuilco de Trujano,Guerrero,C12059,Rango de precipitación,700,1000
+Tetipac,Guerrero,C12060,Rango de precipitación,800,1300
+Tixtla de Guerrero,Guerrero,C12061,Rango de precipitación,800,1300
+Tlacoachistlahuaca,Guerrero,C12062,Rango de precipitación,1500,3000
+Tlacoapa,Guerrero,C12063,Rango de precipitación,1300,2000
+Tlalchapa,Guerrero,C12064,Rango de precipitación,800,1100
+Tlalixtaquilla de Maldonado,Guerrero,C12065,Rango de precipitación,700,1000
+Tlapa de Comonfort,Guerrero,C12066,Rango de precipitación,700,1100
+Tlapehuala,Guerrero,C12067,Rango de precipitación,800,1200
+La Unión de Isidoro Montes de Oca,Guerrero,C12068,Rango de precipitación,600,1300
+Xalpatláhuac,Guerrero,C12069,Rango de precipitación,700,1100
+Xochihuehuetlán,Guerrero,C12070,Rango de precipitación,700,1000
+Xochistlahuaca,Guerrero,C12071,Rango de precipitación,1500,3000
+Zapotitlán Tablas,Guerrero,C12072,Rango de precipitación,800,2000
+Zirándaro,Guerrero,C12073,Rango de precipitación,600,1300
+Zitlala,Guerrero,C12074,Rango de precipitación,700,1100
+Eduardo Neri,Guerrero,C12075,Rango de precipitación,600,1200
+Acatepec,Guerrero,C12076,Rango de precipitación,1300,2000
+Marquelia,Guerrero,C12077,Rango de precipitación,1100,1300
+Cochoapa el Grande,Guerrero,C12078,Rango de precipitación,1100,3000
+José Joaquín de Herrera,Guerrero,C12079,Rango de precipitación,1100,1300
+Juchitán,Guerrero,C12080,Rango de precipitación,1000,1200
+Iliatenco,Guerrero,C12081,Rango de precipitación,1500,2000
+Acatlán,Hidalgo,C13001,Rango de precipitación,500,900
+Acaxochitlán,Hidalgo,C13002,Rango de precipitación,700,1600
+Actopan,Hidalgo,C13003,Rango de precipitación,400,900
+Agua Blanca de Iturbide,Hidalgo,C13004,Rango de precipitación,600,1600
+Ajacuba,Hidalgo,C13005,Rango de precipitación,500,700
+Alfajayucan,Hidalgo,C13006,Rango de precipitación,400,700
+Almoloya,Hidalgo,C13007,Rango de precipitación,500,700
+Apan,Hidalgo,C13008,Rango de precipitación,500,800
+El Arenal,Hidalgo,C13009,Rango de precipitación,500,900
+Atitalaquia,Hidalgo,C13010,Rango de precipitación,500,700
+Atlapexco,Hidalgo,C13011,Rango de precipitación,1900,2100
+Atotonilco el Grande,Hidalgo,C13012,Rango de precipitación,400,1100
+Atotonilco de Tula,Hidalgo,C13013,Rango de precipitación,500,700
+Calnali,Hidalgo,C13014,Rango de precipitación,1900,2100
+Cardonal,Hidalgo,C13015,Rango de precipitación,300,1100
+Cuautepec de Hinojosa,Hidalgo,C13016,Rango de precipitación,500,1100
+Chapantongo,Hidalgo,C13017,Rango de precipitación,500,700
+Chapulhuacán,Hidalgo,C13018,Rango de precipitación,900,2100
+Chilcuautla,Hidalgo,C13019,Rango de precipitación,400,600
+Eloxochitlán,Hidalgo,C13020,Rango de precipitación,400,1100
+Emiliano Zapata,Hidalgo,C13021,Rango de precipitación,500,700
+Epazoyucan,Hidalgo,C13022,Rango de precipitación,400,900
+Francisco I Madero,Hidalgo,C13023,Rango de precipitación,400,600
+Huasca de Ocampo,Hidalgo,C13024,Rango de precipitación,500,1100
+Huautla,Hidalgo,C13025,Rango de precipitación,1400,1600
+Huazalingo,Hidalgo,C13026,Rango de precipitación,1900,2100
+Huehuetla,Hidalgo,C13027,Rango de precipitación,1900,2600
+Huejutla de Reyes,Hidalgo,C13028,Rango de precipitación,1400,2100
+Huichapan,Hidalgo,C13029,Rango de precipitación,500,700
+Ixmiquilpan,Hidalgo,C13030,Rango de precipitación,300,1100
+Jacala de Ledezma,Hidalgo,C13031,Rango de precipitación,500,1100
+Jaltocán,Hidalgo,C13032,Rango de precipitación,1900,2100
+Juárez Hidalgo,Hidalgo,C13033,Rango de precipitación,500,1400
+Lolotla,Hidalgo,C13034,Rango de precipitación,1400,2100
+Metepec,Hidalgo,C13035,Rango de precipitación,500,1100
+San Agustín Metzquititlán,Hidalgo,C13036,Rango de precipitación,400,1600
+Metztitlán,Hidalgo,C13037,Rango de precipitación,400,1300
+Mineral del Chico,Hidalgo,C13038,Rango de precipitación,400,1100
+Mineral del Monte,Hidalgo,C13039,Rango de precipitación,500,1100
+La Misión,Hidalgo,C13040,Rango de precipitación,600,1300
+Mixquiahuala de Juárez,Hidalgo,C13041,Rango de precipitación,400,600
+Molango de Escamilla,Hidalgo,C13042,Rango de precipitación,900,1600
+Nicolás Flores,Hidalgo,C13043,Rango de precipitación,800,1100
+Nopala de Villagrán,Hidalgo,C13044,Rango de precipitación,500,800
+Omitlán de Juárez,Hidalgo,C13045,Rango de precipitación,900,1100
+San Felipe Orizatlán,Hidalgo,C13046,Rango de precipitación,1400,2100
+Pacula,Hidalgo,C13047,Rango de precipitación,600,1100
+Pachuca de Soto,Hidalgo,C13048,Rango de precipitación,400,900
+Pisaflores,Hidalgo,C13049,Rango de precipitación,1100,2600
+Progreso de Obregón,Hidalgo,C13050,Rango de precipitación,400,600
+Mineral de la Reforma,Hidalgo,C13051,Rango de precipitación,400,700
+San Agustín Tlaxiaca,Hidalgo,C13052,Rango de precipitación,500,700
+San Bartolo Tutotepec,Hidalgo,C13053,Rango de precipitación,1100,2600
+San Salvador,Hidalgo,C13054,Rango de precipitación,400,600
+Santiago de Anaya,Hidalgo,C13055,Rango de precipitación,300,800
+Santiago Tulantepec de Lugo Guerrero,Hidalgo,C13056,Rango de precipitación,500,900
+Singuilucan,Hidalgo,C13057,Rango de precipitación,400,1100
+Tasquillo,Hidalgo,C13058,Rango de precipitación,300,600
+Tecozautla,Hidalgo,C13059,Rango de precipitación,400,600
+Tenango de Doria,Hidalgo,C13060,Rango de precipitación,1100,2600
+Tepeapulco,Hidalgo,C13061,Rango de precipitación,500,700
+Tepehuacán de Guerrero,Hidalgo,C13062,Rango de precipitación,1100,2100
+Tepeji del Río de Ocampo,Hidalgo,C13063,Rango de precipitación,500,900
+Tepetitlán,Hidalgo,C13064,Rango de precipitación,500,700
+Tetepango,Hidalgo,C13065,Rango de precipitación,500,700
+Villa de Tezontepec,Hidalgo,C13066,Rango de precipitación,400,600
+Tezontepec de Aldama,Hidalgo,C13067,Rango de precipitación,500,600
+Tianguistengo,Hidalgo,C13068,Rango de precipitación,1900,2100
+Tizayuca,Hidalgo,C13069,Rango de precipitación,500,700
+Tlahuelilpan,Hidalgo,C13070,Rango de precipitación,500,600
+Tlahuiltepa,Hidalgo,C13071,Rango de precipitación,400,1300
+Tlanalapa,Hidalgo,C13072,Rango de precipitación,500,700
+Tlanchinol,Hidalgo,C13073,Rango de precipitación,1900,2100
+Tlaxcoapan,Hidalgo,C13074,Rango de precipitación,500,600
+Tolcayuca,Hidalgo,C13075,Rango de precipitación,500,700
+Tula de Allende,Hidalgo,C13076,Rango de precipitación,500,800
+Tulancingo de Bravo,Hidalgo,C13077,Rango de precipitación,500,900
+Xochiatipan,Hidalgo,C13078,Rango de precipitación,1900,2100
+Xochicoatlán,Hidalgo,C13079,Rango de precipitación,1100,2100
+Yahualica,Hidalgo,C13080,Rango de precipitación,1900,2100
+Zacualtipán de Ángeles,Hidalgo,C13081,Rango de precipitación,500,2600
+Zapotlán de Juárez,Hidalgo,C13082,Rango de precipitación,400,700
+Zempoala,Hidalgo,C13083,Rango de precipitación,400,700
+Zimapán,Hidalgo,C13084,Rango de precipitación,400,1100
+Acatic,Jalisco,C14001,Rango de precipitación,800,1000
+Acatlán de Juárez,Jalisco,C14002,Rango de precipitación,600,1000
+Ahualulco de Mercado,Jalisco,C14003,Rango de precipitación,800,1100
+Amacueca,Jalisco,C14004,Rango de precipitación,500,1000
+Amatitán,Jalisco,C14005,Rango de precipitación,800,1100
+Ameca,Jalisco,C14006,Rango de precipitación,800,1100
+San Juanito de Escobedo,Jalisco,C14007,Rango de precipitación,800,1100
+Arandas,Jalisco,C14008,Rango de precipitación,700,1100
+El Arenal,Jalisco,C14009,Rango de precipitación,800,1100
+Atemajac de Brizuela,Jalisco,C14010,Rango de precipitación,700,1100
+Atengo,Jalisco,C14011,Rango de precipitación,800,1100
+Atenguillo,Jalisco,C14012,Rango de precipitación,1100,1300
+Atotonilco el Alto,Jalisco,C14013,Rango de precipitación,800,1000
+Atoyac,Jalisco,C14014,Rango de precipitación,500,1100
+Autlán de Navarro,Jalisco,C14015,Rango de precipitación,700,1300
+Ayotlán,Jalisco,C14016,Rango de precipitación,700,1000
+Ayutla,Jalisco,C14017,Rango de precipitación,800,2000
+La Barca,Jalisco,C14018,Rango de precipitación,700,1000
+Bolaños,Jalisco,C14019,Rango de precipitación,500,1000
+Cabo Corrientes,Jalisco,C14020,Rango de precipitación,800,2000
+Casimiro Castillo,Jalisco,C14021,Rango de precipitación,800,2000
+Cihuatlán,Jalisco,C14022,Rango de precipitación,800,1300
+Zapotlán el Grande,Jalisco,C14023,Rango de precipitación,700,1100
+Cocula,Jalisco,C14024,Rango de precipitación,800,1100
+Colotlán,Jalisco,C14025,Rango de precipitación,600,800
+Concepción de Buenos Aires,Jalisco,C14026,Rango de precipitación,700,1100
+Cuautitlán de García Barragán,Jalisco,C14027,Rango de precipitación,800,2000
+Cuautla,Jalisco,C14028,Rango de precipitación,1100,2000
+Cuquío,Jalisco,C14029,Rango de precipitación,700,1000
+Chapala,Jalisco,C14030,Rango de precipitación,700,1000
+Chimaltitán,Jalisco,C14031,Rango de precipitación,500,1000
+Chiquilistlán,Jalisco,C14032,Rango de precipitación,800,1100
+Degollado,Jalisco,C14033,Rango de precipitación,800,1000
+Ejutla,Jalisco,C14034,Rango de precipitación,700,1000
+Encarnación de Díaz,Jalisco,C14035,Rango de precipitación,500,700
+Etzatlán,Jalisco,C14036,Rango de precipitación,800,1100
+El Grullo,Jalisco,C14037,Rango de precipitación,800,1000
+Guachinango,Jalisco,C14038,Rango de precipitación,700,1100
+Guadalajara,Jalisco,C14039,Rango de precipitación,800,1000
+Hostotipaquillo,Jalisco,C14040,Rango de precipitación,700,1100
+Huejúcar,Jalisco,C14041,Rango de precipitación,500,800
+Huejuquilla el Alto,Jalisco,C14042,Rango de precipitación,500,800
+La Huerta,Jalisco,C14043,Rango de precipitación,600,2000
+Ixtlahuacán de los Membrillos,Jalisco,C14044,Rango de precipitación,800,1000
+Ixtlahuacán del Río,Jalisco,C14045,Rango de precipitación,700,1000
+Jalostotitlán,Jalisco,C14046,Rango de precipitación,600,800
+Jamay,Jalisco,C14047,Rango de precipitación,700,1000
+Jesús María,Jalisco,C14048,Rango de precipitación,700,1100
+Jilotlán de los Dolores,Jalisco,C14049,Rango de precipitación,600,1300
+Jocotepec,Jalisco,C14050,Rango de precipitación,700,1000
+Juanacatlán,Jalisco,C14051,Rango de precipitación,800,1000
+Juchitlán,Jalisco,C14052,Rango de precipitación,700,1000
+Lagos de Moreno,Jalisco,C14053,Rango de precipitación,400,1000
+El Limón,Jalisco,C14054,Rango de precipitación,700,1000
+Magdalena,Jalisco,C14055,Rango de precipitación,800,1100
+Santa María del Oro,Jalisco,C14056,Rango de precipitación,700,1300
+La Manzanilla de la Paz,Jalisco,C14057,Rango de precipitación,800,1100
+Mascota,Jalisco,C14058,Rango de precipitación,800,2000
+Mazamitla,Jalisco,C14059,Rango de precipitación,800,1100
+Mexticacán,Jalisco,C14060,Rango de precipitación,600,800
+Mezquitic,Jalisco,C14061,Rango de precipitación,500,1000
+Mixtlán,Jalisco,C14062,Rango de precipitación,800,1300
+Ocotlán,Jalisco,C14063,Rango de precipitación,700,1000
+Ojuelos de Jalisco,Jalisco,C14064,Rango de precipitación,400,700
+Pihuamo,Jalisco,C14065,Rango de precipitación,600,1300
+Poncitlán,Jalisco,C14066,Rango de precipitación,700,1000
+Puerto Vallarta,Jalisco,C14067,Rango de precipitación,1100,2000
+Villa Purificación,Jalisco,C14068,Rango de precipitación,1100,2500
+Quitupan,Jalisco,C14069,Rango de precipitación,800,1300
+El Salto,Jalisco,C14070,Rango de precipitación,800,1000
+San Cristóbal de la Barranca,Jalisco,C14071,Rango de precipitación,700,1000
+San Diego de Alejandría,Jalisco,C14072,Rango de precipitación,600,800
+San Juan de los Lagos,Jalisco,C14073,Rango de precipitación,500,800
+San Julián,Jalisco,C14074,Rango de precipitación,700,1000
+San Marcos,Jalisco,C14075,Rango de precipitación,800,1100
+San Martín de Bolaños,Jalisco,C14076,Rango de precipitación,500,1000
+San Martín Hidalgo,Jalisco,C14077,Rango de precipitación,800,1100
+San Miguel el Alto,Jalisco,C14078,Rango de precipitación,700,1000
+Gómez Farías,Jalisco,C14079,Rango de precipitación,700,1100
+San Sebastián del Oeste,Jalisco,C14080,Rango de precipitación,700,1300
+Santa María de los Ángeles,Jalisco,C14081,Rango de precipitación,500,800
+Sayula,Jalisco,C14082,Rango de precipitación,600,1100
+Tala,Jalisco,C14083,Rango de precipitación,800,1100
+Talpa de Allende,Jalisco,C14084,Rango de precipitación,800,2500
+Tamazula de Gordiano,Jalisco,C14085,Rango de precipitación,800,1300
+Tapalpa,Jalisco,C14086,Rango de precipitación,700,1100
+Tecalitlán,Jalisco,C14087,Rango de precipitación,800,1300
+Tecolotlán,Jalisco,C14088,Rango de precipitación,700,1100
+Techaluta de Montenegro,Jalisco,C14089,Rango de precipitación,500,1000
+Tenamaxtlán,Jalisco,C14090,Rango de precipitación,700,1100
+Teocaltiche,Jalisco,C14091,Rango de precipitación,500,800
+Teocuitatlán de Corona,Jalisco,C14092,Rango de precipitación,500,1000
+Tepatitlán de Morelos,Jalisco,C14093,Rango de precipitación,700,1100
+Tequila,Jalisco,C14094,Rango de precipitación,700,1100
+Teuchitlán,Jalisco,C14095,Rango de precipitación,800,1100
+Tizapán el Alto,Jalisco,C14096,Rango de precipitación,700,1000
+Tlajomulco de Zúñiga,Jalisco,C14097,Rango de precipitación,900,1100
+Tlaquepaque,Jalisco,C14098,Rango de precipitación,800,1000
+Tolimán,Jalisco,C14099,Rango de precipitación,600,2000
+Tomatlán,Jalisco,C14100,Rango de precipitación,600,2500
+Tonalá,Jalisco,C14101,Rango de precipitación,800,1000
+Tonaya,Jalisco,C14102,Rango de precipitación,600,1100
+Tonila,Jalisco,C14103,Rango de precipitación,1000,1300
+Totatiche,Jalisco,C14104,Rango de precipitación,700,1000
+Tototlán,Jalisco,C14105,Rango de precipitación,800,1000
+Tuxcacuesco,Jalisco,C14106,Rango de precipitación,600,1300
+Tuxcueca,Jalisco,C14107,Rango de precipitación,600,1000
+Tuxpan,Jalisco,C14108,Rango de precipitación,800,1300
+Unión de San Antonio,Jalisco,C14109,Rango de precipitación,600,800
+Unión de Tula,Jalisco,C14110,Rango de precipitación,700,1000
+Valle de Guadalupe,Jalisco,C14111,Rango de precipitación,600,1000
+Valle de Juárez,Jalisco,C14112,Rango de precipitación,800,1300
+San Gabriel,Jalisco,C14113,Rango de precipitación,600,1300
+Villa Corona,Jalisco,C14114,Rango de precipitación,700,1000
+Villa Guerrero,Jalisco,C14115,Rango de precipitación,500,1000
+Villa Hidalgo,Jalisco,C14116,Rango de precipitación,500,800
+Cañadas de Obregón,Jalisco,C14117,Rango de precipitación,600,800
+Yahualica de González Gallo,Jalisco,C14118,Rango de precipitación,600,1000
+Zacoalco de Torres,Jalisco,C14119,Rango de precipitación,500,1000
+Zapopan,Jalisco,C14120,Rango de precipitación,800,1200
+Zapotiltic,Jalisco,C14121,Rango de precipitación,800,1100
+Zapotitlán de Vadillo,Jalisco,C14122,Rango de precipitación,600,1300
+Zapotlán del Rey,Jalisco,C14123,Rango de precipitación,700,1000
+Zapotlanejo,Jalisco,C14124,Rango de precipitación,800,1100
+San Ignacio Cerro Gordo,Jalisco,C14125,Rango de precipitación,800,1100
+Acambay,México,C15001,Rango de precipitación,700,1000
+Acolman,México,C15002,Rango de precipitación,500,700
+Aculco,México,C15003,Rango de precipitación,700,1000
+Almoloya de Alquisiras,México,C15004,Rango de precipitación,1100,2000
+Almoloya de Juárez,México,C15005,Rango de precipitación,700,1500
+Almoloya del Río,México,C15006,Rango de precipitación,800,1100
+Amanalco,México,C15007,Rango de precipitación,800,1300
+Amatepec,México,C15008,Rango de precipitación,1100,2000
+Amecameca,México,C15009,Rango de precipitación,800,1100
+Apaxco,México,C15010,Rango de precipitación,500,700
+Atenco,México,C15011,Rango de precipitación,500,700
+Atizapán,México,C15012,Rango de precipitación,800,1000
+Atizapán de Zaragoza,México,C15013,Rango de precipitación,600,1000
+Atlacomulco,México,C15014,Rango de precipitación,800,1100
+Atlautla,México,C15015,Rango de precipitación,800,1300
+Axapusco,México,C15016,Rango de precipitación,500,700
+Ayapango,México,C15017,Rango de precipitación,800,1000
+Calimaya,México,C15018,Rango de precipitación,800,1500
+Capulhuac,México,C15019,Rango de precipitación,800,1100
+Coacalco de Berriozábal,México,C15020,Rango de precipitación,600,700
+Coatepec Harinas,México,C15021,Rango de precipitación,1100,2000
+Cocotitlán,México,C15022,Rango de precipitación,700,800
+Coyotepec,México,C15023,Rango de precipitación,600,800
+Cuautitlán,México,C15024,Rango de precipitación,600,700
+Chalco,México,C15025,Rango de precipitación,600,1200
+Chapa de Mota,México,C15026,Rango de precipitación,700,1100
+Chapultepec,México,C15027,Rango de precipitación,800,1000
+Chiautla,México,C15028,Rango de precipitación,600,700
+Chicoloapan,México,C15029,Rango de precipitación,500,1000
+Chiconcuac,México,C15030,Rango de precipitación,600,700
+Chimalhuacán,México,C15031,Rango de precipitación,500,700
+Donato Guerra,México,C15032,Rango de precipitación,1000,1200
+Ecatepec de Morelos,México,C15033,Rango de precipitación,500,700
+Ecatzingo,México,C15034,Rango de precipitación,1100,1300
+Huehuetoca,México,C15035,Rango de precipitación,600,800
+Hueypoxtla,México,C15036,Rango de precipitación,500,700
+Huixquilucan,México,C15037,Rango de precipitación,800,1300
+Isidro Fabela,México,C15038,Rango de precipitación,800,1300
+Ixtapaluca,México,C15039,Rango de precipitación,600,1100
+Ixtapan de la Sal,México,C15040,Rango de precipitación,1000,1200
+Ixtapan del Oro,México,C15041,Rango de precipitación,800,1100
+Ixtlahuaca,México,C15042,Rango de precipitación,800,1100
+Xalatlaco,México,C15043,Rango de precipitación,1100,2000
+Jaltenco,México,C15044,Rango de precipitación,600,700
+Jilotepec,México,C15045,Rango de precipitación,600,1000
+Jilotzingo,México,C15046,Rango de precipitación,800,1300
+Jiquipilco,México,C15047,Rango de precipitación,800,1300
+Jocotitlán,México,C15048,Rango de precipitación,800,1100
+Joquicingo,México,C15049,Rango de precipitación,800,1300
+Juchitepec,México,C15050,Rango de precipitación,800,1100
+Lerma,México,C15051,Rango de precipitación,800,1300
+Malinalco,México,C15052,Rango de precipitación,800,1300
+Melchor Ocampo,México,C15053,Rango de precipitación,600,700
+Metepec,México,C15054,Rango de precipitación,700,1000
+Mexicaltzingo,México,C15055,Rango de precipitación,800,1000
+Morelos,México,C15056,Rango de precipitación,800,1300
+Naucalpan de Juárez,México,C15057,Rango de precipitación,600,1300
+Nezahualcóyotl,México,C15058,Rango de precipitación,500,700
+Nextlalpan,México,C15059,Rango de precipitación,500,700
+Nicolás Romero,México,C15060,Rango de precipitación,700,1300
+Nopaltepec,México,C15061,Rango de precipitación,500,700
+Ocoyoacac,México,C15062,Rango de precipitación,800,2000
+Ocuilan,México,C15063,Rango de precipitación,1100,2000
+El Oro,México,C15064,Rango de precipitación,800,1000
+Otumba,México,C15065,Rango de precipitación,600,700
+Otzoloapan,México,C15066,Rango de precipitación,800,1100
+Otzolotepec,México,C15067,Rango de precipitación,800,1300
+Ozumba,México,C15068,Rango de precipitación,800,1100
+Papalotla,México,C15069,Rango de precipitación,600,700
+La Paz,México,C15070,Rango de precipitación,500,700
+Polotitlán,México,C15071,Rango de precipitación,600,800
+Rayón,México,C15072,Rango de precipitación,800,1100
+San Antonio la Isla,México,C15073,Rango de precipitación,800,1000
+San Felipe del Progreso,México,C15074,Rango de precipitación,800,1100
+San Martín de las Pirámides,México,C15075,Rango de precipitación,500,700
+San Mateo Atenco,México,C15076,Rango de precipitación,800,1000
+San Simón de Guerrero,México,C15077,Rango de precipitación,1300,2000
+Santo Tomás,México,C15078,Rango de precipitación,800,1100
+Soyaniquilpan de Juárez,México,C15079,Rango de precipitación,600,1000
+Sultepec,México,C15080,Rango de precipitación,1000,2000
+Tecámac,México,C15081,Rango de precipitación,500,700
+Tejupilco,México,C15082,Rango de precipitación,1000,1700
+Temamatla,México,C15083,Rango de precipitación,600,900
+Temascalapa,México,C15084,Rango de precipitación,500,700
+Temascalcingo,México,C15085,Rango de precipitación,700,900
+Temascaltepec,México,C15086,Rango de precipitación,700,900
+Temoaya,México,C15087,Rango de precipitación,900,1300
+Tenancingo,México,C15088,Rango de precipitación,1000,100
+Tenango del Aire,México,C15089,Rango de precipitación,700,900
+Tenango del Valle,México,C15090,Rango de precipitación,800,1500
+Teoloyucán,México,C15091,Rango de precipitación,600,800
+Teotihuacán,México,C15092,Rango de precipitación,600,700
+Tepetlaoxtoc,México,C15093,Rango de precipitación,600,1200
+Tepetlixpa,México,C15094,Rango de precipitación,800,1200
+Tepotzotlán,México,C15095,Rango de precipitación,600,1200
+Tequixquiac,México,C15096,Rango de precipitación,500,700
+Texcaltitlán,México,C15097,Rango de precipitación,1200,1500
+Texcalyacac,México,C15098,Rango de precipitación,800,1200
+Texcoco,México,C15099,Rango de precipitación,500,1200
+Tezoyuca,México,C15100,Rango de precipitación,500,700
+Tianguistenco,México,C15101,Rango de precipitación,800,1500
+Timilpan,México,C15102,Rango de precipitación,700,1200
+Tlalmanalco,México,C15103,Rango de precipitación,700,1200
+Tlalnepantla de Baz,México,C15104,Rango de precipitación,500,800
+Tlatlaya,México,C15105,Rango de precipitación,1000,1500
+Toluca,México,C15106,Rango de precipitación,800,1500
+Tonatico,México,C15107,Rango de precipitación,1000,1200
+Tultepec,México,C15108,Rango de precipitación,600,700
+Tultitlán,México,C15109,Rango de precipitación,600,700
+Valle de Bravo,México,C15110,Rango de precipitación,1000,1500
+Villa de Allende,México,C15111,Rango de precipitación,1000,1200
+Villa del Carbón,México,C15112,Rango de precipitación,700,1500
+Villa Guerrero,México,C15113,Rango de precipitación,1000,1500
+Villa Victoria,México,C15114,Rango de precipitación,800,1200
+Xonacatlán,México,C15115,Rango de precipitación,800,1500
+Zacazonapan,México,C15116,Rango de precipitación,1000,1500
+Zacualpan,México,C15117,Rango de precipitación,1000,1500
+Zinacantepec,México,C15118,Rango de precipitación,800,1500
+Zumpahuacán,México,C15119,Rango de precipitación,1000,1500
+Zumpango,México,C15120,Rango de precipitación,500,700
+Cuautitlán Izcalli,México,C15121,Rango de precipitación,600,800
+Valle de Chalco Solidaridad,México,C15122,Rango de precipitación,600,800
+Luvianos,México,C15123,Rango de precipitación,800,1500
+San José del Rincón,México,C15124,Rango de precipitación,800,1000
+Tonanitla,México,C15125,Rango de precipitación,500,700
+Acuitzio,Michoacán de Ocampo,C16001,Rango de precipitación,800,1300
+Aguililla,Michoacán de Ocampo,C16002,Rango de precipitación,600,1300
+Álvaro Obregón,Michoacán de Ocampo,C16003,Rango de precipitación,600,1000
+Angamacutiro,Michoacán de Ocampo,C16004,Rango de precipitación,700,800
+Angangueo,Michoacán de Ocampo,C16005,Rango de precipitación,800,1200
+Apatzingán,Michoacán de Ocampo,C16006,Rango de precipitación,500,1300
+Aporo,Michoacán de Ocampo,C16007,Rango de precipitación,800,1000
+Aquila,Michoacán de Ocampo,C16008,Rango de precipitación,800,1300
+Ario,Michoacán de Ocampo,C16009,Rango de precipitación,800,1300
+Arteaga,Michoacán de Ocampo,C16010,Rango de precipitación,400,1200
+Briseñas,Michoacán de Ocampo,C16011,Rango de precipitación,700,800
+Buenavista,Michoacán de Ocampo,C16012,Rango de precipitación,500,1100
+Carácuaro,Michoacán de Ocampo,C16013,Rango de precipitación,700,1000
+Coahuayana,Michoacán de Ocampo,C16014,Rango de precipitación,800,1300
+Coalcomán de Vázquez Pallares,Michoacán de Ocampo,C16015,Rango de precipitación,700,1300
+Coeneo,Michoacán de Ocampo,C16016,Rango de precipitación,800,1200
+Contepec,Michoacán de Ocampo,C16017,Rango de precipitación,700,1000
+Copándaro,Michoacán de Ocampo,C16018,Rango de precipitación,600,1000
+Cotija,Michoacán de Ocampo,C16019,Rango de precipitación,800,1300
+Cuitzeo,Michoacán de Ocampo,C16020,Rango de precipitación,600,1000
+Charapan,Michoacán de Ocampo,C16021,Rango de precipitación,1000,1500
+Charo,Michoacán,C16022,Rango de precipitación,700,1200
+Chavinda,Michoacán de Ocampo,C16023,Rango de precipitación,700,1000
+Cherán,Michoacán de Ocampo,C16024,Rango de precipitación,1000,1200
+Chilchota,Michoacán de Ocampo,C16025,Rango de precipitación,800,1200
+Chinicuila,Michoacán de Ocampo,C16026,Rango de precipitación,600,1300
+Chucándiro,Michoacán de Ocampo,C16027,Rango de precipitación,700,1000
+Churintzio,Michoacán de Ocampo,C16028,Rango de precipitación,800,1000
+Churumuco,Michoacán de Ocampo,C16029,Rango de precipitación,400,1000
+Ecuandureo,Michoacán de Ocampo,C16030,Rango de precipitación,700,1000
+Epitacio Huerta,Michoacán de Ocampo,C16031,Rango de precipitación,700,1000
+Erongarícuaro,Michoacán de Ocampo,C16032,Rango de precipitación,1000,1200
+Gabriel Zamora,Michoacán de Ocampo,C16033,Rango de precipitación,700,1000
+Hidalgo,Michoacán de Ocampo,C16034,Rango de precipitación,800,2000
+La Huacana,Michoacán de Ocampo,C16035,Rango de precipitación,400,1000
+Huandacareo,Michoacán de Ocampo,C16036,Rango de precipitación,700,1000
+Huaniqueo,Michoacán de Ocampo,C16037,Rango de precipitación,800,1000
+Huetamo,Michoacán de Ocampo,C16038,Rango de precipitación,600,1000
+Huiramba,Michoacán de Ocampo,C16039,Rango de precipitación,800,1200
+Indaparapeo,Michoacán de Ocampo,C16040,Rango de precipitación,700,1200
+Irimbo,Michoacán de Ocampo,C16041,Rango de precipitación,800,1100
+Ixtlán,Michoacán de Ocampo,C16042,Rango de precipitación,700,1000
+Jacona,Michoacán de Ocampo,C16043,Rango de precipitación,800,1100
+Jiménez,Michoacán de Ocampo,C16044,Rango de precipitación,800,1000
+Jiquilpan,Michoacán de Ocampo,C16045,Rango de precipitación,700,1000
+Juárez,Michoacán de Ocampo,C16046,Rango de precipitación,800,1100
+Jungapeo,Michoacán de Ocampo,C16047,Rango de precipitación,800,1300
+Lagunillas,Michoacán de Ocampo,C16048,Rango de precipitación,800,1200
+Madero,Michoacán de Ocampo,C16049,Rango de precipitación,800,1300
+Maravatío,Michoacán de Ocampo,C16050,Rango de precipitación,700,2000
+Marcos Castellanos,Michoacán de Ocampo,C16051,Rango de precipitación,700,1000
+Lázaro Cárdenas,Michoacán de Ocampo,C16052,Rango de precipitación,800,1300
+Morelia,Michoacán de Ocampo,C16053,Rango de precipitación,600,1500
+Morelos,Michoacán de Ocampo,C16054,Rango de precipitación,800,1000
+Múgica,Michoacán de Ocampo,C16055,Rango de precipitación,500,800
+Nahuatzen,Michoacán de Ocampo,C16056,Rango de precipitación,1000,1500
+Nocupétaro,Michoacán de Ocampo,C16057,Rango de precipitación,700,1100
+Nuevo Parangaricutiro,Michoacán de Ocampo,C16058,Rango de precipitación,800,2000
+Nuevo Urecho,Michoacán de Ocampo,C16059,Rango de precipitación,700,1100
+Numarán,Michoacán de Ocampo,C16060,Rango de precipitación,700,800
+Ocampo,Michoacán de Ocampo,C16061,Rango de precipitación,800,1100
+Pajacuarán,Michoacán de Ocampo,C16062,Rango de precipitación,700,1000
+Panindícuaro,Michoacán de Ocampo,C16063,Rango de precipitación,800,1000
+Parácuaro,Michoacán de Ocampo,C16064,Rango de precipitación,500,1000
+Paracho,Michoacán de Ocampo,C16065,Rango de precipitación,1000,1500
+Pátzcuaro,Michoacán de Ocampo,C16066,Rango de precipitación,1100,1300
+Penjamillo,Michoacán de Ocampo,C16067,Rango de precipitación,700,1000
+Peribán,Michoacán de Ocampo,C16068,Rango de precipitación,800,2000
+La Piedad,Michoacán de Ocampo,C16069,Rango de precipitación,700,1000
+Purépero,Michoacán de Ocampo,C16070,Rango de precipitación,800,1200
+Puruándiro,Michoacán de Ocampo,C16071,Rango de precipitación,700,1000
+Queréndaro,Michoacán de Ocampo,C16072,Rango de precipitación,600,1500
+Quiroga,Michoacán de Ocampo,C16073,Rango de precipitación,800,1100
+Cojumatlán de Régules,Michoacán de Ocampo,C16074,Rango de precipitación,700,1000
+Los Reyes,Michoacán de Ocampo,C16075,Rango de precipitación,1000,1500
+Sahuayo,Michoacán de Ocampo,C16076,Rango de precipitación,700,1000
+San Lucas,Michoacán de Ocampo,C16077,Rango de precipitación,800,1000
+Santa Ana Maya,Michoacán de Ocampo,C16078,Rango de precipitación,600,1000
+Salvador Escalante,Michoacán de Ocampo,C16079,Rango de precipitación,1100,2000
+Senguio,Michoacán de Ocampo,C16080,Rango de precipitación,800,1100
+Susupuato,Michoacán de Ocampo,C16081,Rango de precipitación,800,1100
+Tacámbaro,Michoacán de Ocampo,C16082,Rango de precipitación,900,1300
+Tancítaro,Michoacán de Ocampo,C16083,Rango de precipitación,700,2000
+Tangamandapio,Michoacán de Ocampo,C16084,Rango de precipitación,700,1100
+Tangancícuaro,Michoacán de Ocampo,C16085,Rango de precipitación,800,1200
+Tanhuato,Michoacán de Ocampo,C16086,Rango de precipitación,700,1000
+Taretan,Michoacán de Ocampo,C16087,Rango de precipitación,800,1500
+Tarímbaro,Michoacán de Ocampo,C16088,Rango de precipitación,600,800
+Tepalcatepec,Michoacán de Ocampo,C16089,Rango de precipitación,600,1100
+Tingambato,Michoacán de Ocampo,C16090,Rango de precipitación,1000,1500
+Tingüindín,Michoacán de Ocampo,C16091,Rango de precipitación,800,1100
+Tiquicheo de Nicolás Romero,Michoacán de Ocampo,C16092,Rango de precipitación,800,1100
+Tlalpujahua,Michoacán de Ocampo,C16093,Rango de precipitación,800,1100
+Tlazazalca,Michoacán de Ocampo,C16094,Rango de precipitación,800,1000
+Tocumbo,Michoacán de Ocampo,C16095,Rango de precipitación,800,1300
+Tumbiscatío,Michoacán de Ocampo,C16096,Rango de precipitación,700,1300
+Turicato,Michoacán de Ocampo,C16097,Rango de precipitación,700,1300
+Tuxpan,Michoacán de Ocampo,C16098,Rango de precipitación,800,1300
+Tuzantla,Michoacán de Ocampo,C16099,Rango de precipitación,800,1300
+Tzintzuntzan,Michoacán de Ocampo,C16100,Rango de precipitación,800,1100
+Tzitzio,Michoacán de Ocampo,C16101,Rango de precipitación,800,1300
+Uruapan,Michoacán de Ocampo,C16102,Rango de precipitación,800,2000
+Venustiano Carranza,Michoacán de Ocampo,C16103,Rango de precipitación,700,800
+Villamar,Michoacán de Ocampo,C16104,Rango de precipitación,700,1000
+Vista Hermosa,Michoacán de Ocampo,C16105,Rango de precipitación,700,1000
+Yurécuaro,Michoacán de Ocampo,C16106,Rango de precipitación,700,1000
+Zacapu,Michoacán de Ocampo,C16107,Rango de precipitación,800,1200
+Zamora,Michoacán de Ocampo,C16108,Rango de precipitación,700,1000
+Zináparo,Michoacán de Ocampo,C16109,Rango de precipitación,700,1000
+Zinapécuaro,Michoacán de Ocampo,C16110,Rango de precipitación,700,1600
+Ziracuaretiro,Michoacán de Ocampo,C16111,Rango de precipitación,1200,2000
+Zitácuaro,Michoacán de Ocampo,C16112,Rango de precipitación,800,1100
+José Sixto Verduzco,Michoacán de Ocampo,C16113,Rango de precipitación,700,800
+Amacuzac,Morelos,C17001,Rango de precipitación,800,1200
+Atlatlahucan,Morelos,C17002,Rango de precipitación,800,1200
+Axochiapan,Morelos,C17003,Rango de precipitación,800,1000
+Ayala,Morelos,C17004,Rango de precipitación,800,1000
+Coatlán del Río,Morelos,C17005,Rango de precipitación,800,1200
+Cuautla,Morelos,C17006,Rango de precipitación,800,1000
+Cuernavaca,Morelos,C17007,Rango de precipitación,800,1600
+Emiliano Zapata,Morelos,C17008,Rango de precipitación,800,1000
+Huitzilac,Morelos,C17009,Rango de precipitación,1200,1600
+Jantetelco,Morelos,C17010,Rango de precipitación,800,1000
+Jiutepec,Morelos,C17011,Rango de precipitación,800,1200
+Jojutla,Morelos,C17012,Rango de precipitación,800,1000
+Jonacatepec,Morelos,C17013,Rango de precipitación,800,1000
+Mazatepec,Morelos,C17014,Rango de precipitación,800,1000
+Miacatlán,Morelos,C17015,Rango de precipitación,800,1200
+Ocuituco,Morelos,C17016,Rango de precipitación,800,1200
+Puente de Ixtla,Morelos,C17017,Rango de precipitación,800,1200
+Temixco,Morelos,C17018,Rango de precipitación,800,1200
+Tepalcingo,Morelos,C17019,Rango de precipitación,800,1000
+Tepoztlán,Morelos,C17020,Rango de precipitación,800,1500
+Tetecala,Morelos,C17021,Rango de precipitación,800,1000
+Tetela del Volcán,Morelos,C17022,Rango de precipitación,800,1200
+Tlalnepantla,Morelos,C17023,Rango de precipitación,1000,1300
+Tlaltizapán,Morelos,C17024,Rango de precipitación,800,1000
+Tlaquiltenango,Morelos,C17025,Rango de precipitación,800,1000
+Tlayacapan,Morelos,C17026,Rango de precipitación,800,1000
+Totolapan,Morelos,C17027,Rango de precipitación,800,1000
+Xochitepec,Morelos,C17028,Rango de precipitación,800,1000
+Yautepec,Morelos,C17029,Rango de precipitación,800,1000
+Yecapixtla,Morelos,C17030,Rango de precipitación,800,1200
+Zacatepec,Morelos,C17031,Rango de precipitación,800,1000
+Zacualpan,Morelos,C17032,Rango de precipitación,800,1200
+Temoac,Morelos,C17033,Rango de precipitación,800,1000
+Acaponeta,Nayarit,C18001,Rango de precipitación,900,1600
+Ahuacatlán,Nayarit,C18002,Rango de precipitación,700,1500
+Amatlán de Cañas,Nayarit,C18003,Rango de precipitación,700,1000
+Compostela,Nayarit,C18004,Rango de precipitación,780,2000
+Huajicori,Nayarit,C18005,Rango de precipitación,800,2000
+Ixtlán del Río,Nayarit,C18006,Rango de precipitación,800,1000
+Jala,Nayarit,C18007,Rango de precipitación,600,1500
+Xalisco,Nayarit,C18008,Rango de precipitación,1200,2000
+Del Nayar,Nayarit,C18009,Rango de precipitación,800,2000
+Rosamorada,Nayarit,C18010,Rango de precipitación,1000,2500
+Ruíz,Nayarit,C18011,Rango de precipitación,1000,2500
+San Blas,Nayarit,C18012,Rango de precipitación,1300,2000
+San Pedro Lagunillas,Nayarit,C18013,Rango de precipitación,700,1500
+Santa María del Oro,Nayarit,C18014,Rango de precipitación,800,1500
+Santiago Ixcuintla,Nayarit,C18015,Rango de precipitación,1000,2500
+Tecuala,Nayarit,C18016,Rango de precipitación,800,2000
+Tepic,Nayarit,C18017,Rango de precipitación,800,2000
+Tuxpan,Nayarit,C18018,Rango de precipitación,1200,2000
+La Yesca,Nayarit,C18019,Rango de precipitación,600,1100
+Bahía de Banderas,Nayarit,C18020,Rango de precipitación,1000,2000
+Abasolo,Nuevo León,C19001,Rango de precipitación,300,500
+Agualeguas,Nuevo León,C19002,Rango de precipitación,500,800
+Los Aldamas,Nuevo León,C19003,Rango de precipitación,500,700
+Allende,Nuevo León,C19004,Rango de precipitación,800,1000
+Anáhuac,Nuevo León,C19005,Rango de precipitación,400,500
+Apodaca,Nuevo León,C19006,Rango de precipitación,500,700
+Aramberri,Nuevo León,C19007,Rango de precipitación,300,1000
+Bustamante,Nuevo León,C19008,Rango de precipitación,300,500
+Cadereyta Jiménez,Nuevo León,C19009,Rango de precipitación,600,900
+Carmen,Nuevo León,C19010,Rango de precipitación,300,600
+Cerralvo,Nuevo León,C19011,Rango de precipitación,600,800
+Ciénega de Flores,Nuevo León,C19012,Rango de precipitación,500,700
+China,Nuevo León,C19013,Rango de precipitación,500,700
+Doctor Arroyo,Nuevo León,C19014,Rango de precipitación,200,600
+Doctor Coss,Nuevo León,C19015,Rango de precipitación,500,700
+Doctor González,Nuevo León,C19016,Rango de precipitación,600,800
+Galeana,Nuevo León,C19017,Rango de precipitación,200,800
+García,Nuevo León,C19018,Rango de precipitación,200,600
+San Pedro Garza García,Nuevo León,C19019,Rango de precipitación,400,700
+General Bravo,Nuevo León,C19020,Rango de precipitación,500,700
+General Escobedo,Nuevo León,C19021,Rango de precipitación,300,600
+General Terán,Nuevo León,C19022,Rango de precipitación,600,900
+General Treviño,Nuevo León,C19023,Rango de precipitación,500,700
+General Zaragoza,Nuevo León,C19024,Rango de precipitación,300,1100
+General Zuazua,Nuevo León,C19025,Rango de precipitación,500,700
+Guadalupe,Nuevo León,C19026,Rango de precipitación,600,900
+Los Herreras,Nuevo León,C19027,Rango de precipitación,500,700
+Higueras,Nuevo León,C19028,Rango de precipitación,500,800
+Hualahuises,Nuevo León,C19029,Rango de precipitación,700,900
+Iturbide,Nuevo León,C19030,Rango de precipitación,500,800
+Juárez,Nuevo León,C19031,Rango de precipitación,600,900
+Lampazos de Naranjo,Nuevo León,C19032,Rango de precipitación,300,500
+Linares,Nuevo León,C19033,Rango de precipitación,500,1100
+Marín,Nuevo León,C19034,Rango de precipitación,600,800
+Melchor Ocampo,Nuevo León,C19035,Rango de precipitación,500,700
+Mier y Noriega,Nuevo León,C19036,Rango de precipitación,300,600
+Mina,Nuevo León,C19037,Rango de precipitación,200,500
+Montemorelos,Nuevo León,C19038,Rango de precipitación,500,1100
+Monterrey,Nuevo León,C19039,Rango de precipitación,500,1000
+Parás,Nuevo León,C19040,Rango de precipitación,500,700
+Pesquería,Nuevo León,C19041,Rango de precipitación,500,700
+Los Ramones,Nuevo León,C19042,Rango de precipitación,500,800
+Rayones,Nuevo León,C19043,Rango de precipitación,300,800
+Sabinas Hidalgo,Nuevo León,C19044,Rango de precipitación,400,800
+Salinas Victoria,Nuevo León,C19045,Rango de precipitación,300,800
+San Nicolás de los Garza,Nuevo León,C19046,Rango de precipitación,500,700
+Hidalgo,Nuevo León,C19047,Rango de precipitación,300,500
+Santa Catarina,Nuevo León,C19048,Rango de precipitación,200,900
+Santiago,Nuevo León,C19049,Rango de precipitación,500,1100
+Vallecillo,Nuevo León,C19050,Rango de precipitación,400,700
+Villaldama,Nuevo León,C19051,Rango de precipitación,300,600
+Abejones,Oaxaca,C20001,Rango de precipitación,600,1000
+Acatlán de Pérez Figueroa,Oaxaca,C20002,Rango de precipitación,1500,3500
+Asunción Cacalotepec,Oaxaca,C20003,Rango de precipitación,1000,2500
+Asunción Cuyotepeji,Oaxaca,C20004,Rango de precipitación,700,800
+Asunción Ixtaltepec,Oaxaca,C20005,Rango de precipitación,800,1500
+Asunción Nochixtlán,Oaxaca,C20006,Rango de precipitación,400,1000
+Asunción Ocotlán,Oaxaca,C20007,Rango de precipitación,600,700
+Asunción Tlacolulita,Oaxaca,C20008,Rango de precipitación,800,1000
+Ayotzintepec,Oaxaca,C20009,Rango de precipitación,3000,4000
+El Barrio de la Soledad,Oaxaca,C20010,Rango de precipitación,1000,2000
+Calihualá,Oaxaca,C20011,Rango de precipitación,800,1000
+Candelaria Loxicha,Oaxaca,C20012,Rango de precipitación,1000,3100
+Ciénega de Zimatlán,Oaxaca,C20013,Rango de precipitación,600,700
+Ciudad Ixtepec,Oaxaca,C20014,Rango de precipitación,800,1200
+Coatecas Altas,Oaxaca,C20015,Rango de precipitación,500,800
+Coicoyán de las Flores,Oaxaca,C20016,Rango de precipitación,1200,2600
+La Compañía,Oaxaca,C20017,Rango de precipitación,600,1000
+Concepción Buenavista,Oaxaca,C20018,Rango de precipitación,400,800
+Concepción Pápalo,Oaxaca,C20019,Rango de precipitación,500,2000
+Constancia del Rosario,Oaxaca,C20020,Rango de precipitación,2500,3000
+Cosolapa,Oaxaca,C20021,Rango de precipitación,1500,3000
+Cosoltepec,Oaxaca,C20022,Rango de precipitación,700,1000
+Cuilápam de Guerrero,Oaxaca,C20023,Rango de precipitación,600,800
+Cuyamecalco Villa de Zaragoza,Oaxaca,C20024,Rango de precipitación,700,2000
+Chahuites,Oaxaca,C20025,Rango de precipitación,1200,1500
+Chalcatongo de Hidalgo,Oaxaca,C20026,Rango de precipitación,800,1500
+Chiquihuitlán de Benito Juárez,Oaxaca,C20027,Rango de precipitación,1500,3000
+Heroica Ciudad de Ejutla de Crespo,Oaxaca,C20028,Rango de precipitación,500,800
+Eloxochitlán de Flores Magón,Oaxaca,C20029,Rango de precipitación,2000,4000
+El Espinal,Oaxaca,C20030,Rango de precipitación,800,1000
+Tamazulápam del Espíritu Santo,Oaxaca,C20031,Rango de precipitación,800,1500
+Fresnillo de Trujano,Oaxaca,C20032,Rango de precipitación,700,1000
+Guadalupe Etla,Oaxaca,C20033,Rango de precipitación,600,700
+Guadalupe de Ramírez,Oaxaca,C20034,Rango de precipitación,700,1000
+Guelatao de Juárez,Oaxaca,C20035,Rango de precipitación,700,1000
+Guevea de Humboldt,Oaxaca,C20036,Rango de precipitación,800,2000
+Mesones Hidalgo,Oaxaca,C20037,Rango de precipitación,1500,3000
+Villa Hidalgo,Oaxaca,C20038,Rango de precipitación,1200,2000
+Heroica Ciudad de Huajuapan de León,Oaxaca,C20039,Rango de precipitación,700,900
+Huautepec,Oaxaca,C20040,Rango de precipitación,1500,3500
+Huautla de Jiménez,Oaxaca,C20041,Rango de precipitación,2000,5000
+Ixtlán de Juárez,Oaxaca,C20042,Rango de precipitación,700,4000
+Heroica Ciudad de Juchitán de Zaragoza,Oaxaca,C20043,Rango de precipitación,800,1200
+Loma Bonita,Oaxaca,C20044,Rango de precipitación,1500,2500
+Magdalena Apasco,Oaxaca,C20045,Rango de precipitación,600,700
+Magdalena Jaltepec,Oaxaca,C20046,Rango de precipitación,500,1100
+Santa Magdalena Jicotlán,Oaxaca,C20047,Rango de precipitación,600,700
+Magdalena Mixtepec,Oaxaca,C20048,Rango de precipitación,700,1000
+Magdalena Ocotlán,Oaxaca,C20049,Rango de precipitación,600,700
+Magdalena Peñasco,Oaxaca,C20050,Rango de precipitación,800,1000
+Magdalena Teitipac,Oaxaca,C20051,Rango de precipitación,600,800
+Magdalena Tequisistlán,Oaxaca,C20052,Rango de precipitación,600,1200
+Magdalena Tlacotepec,Oaxaca,C20053,Rango de precipitación,800,1200
+Magdalena Zahuatlán,Oaxaca,C20054,Rango de precipitación,500,1000
+Mariscala de Juárez,Oaxaca,C20055,Rango de precipitación,700,1000
+Mártires de Tacubaya,Oaxaca,C20056,Rango de precipitación,1200,2000
+Matías Romero Avendaño,Oaxaca,C20057,Rango de precipitación,1200,3000
+Mazatlán Villa de Flores,Oaxaca,C20058,Rango de precipitación,700,2500
+Miahuatlán de Porfirio Díaz,Oaxaca,C20059,Rango de precipitación,500,1000
+Mixistlán de la Reforma,Oaxaca,C20060,Rango de precipitación,1000,1500
+Monjas,Oaxaca,C20061,Rango de precipitación,500,600
+Natividad,Oaxaca,C20062,Rango de precipitación,1000,1200
+Nazareno Etla,Oaxaca,C20063,Rango de precipitación,600,700
+Nejapa de Madero,Oaxaca,C20064,Rango de precipitación,400,2000
+Ixpantepec Nieves,Oaxaca,C20065,Rango de precipitación,800,1000
+Santiago Niltepec,Oaxaca,C20066,Rango de precipitación,1000,2000
+Oaxaca de Juárez,Oaxaca,C20067,Rango de precipitación,600,1000
+Ocotlán de Morelos,Oaxaca,C20068,Rango de precipitación,600,700
+La Pe,Oaxaca,C20069,Rango de precipitación,600,700
+Pinotepa de Don Luis,Oaxaca,C20070,Rango de precipitación,1500,2500
+Pluma Hidalgo,Oaxaca,C20071,Rango de precipitación,1500,3500
+San José del Progreso,Oaxaca,C20072,Rango de precipitación,600,800
+Putla Villa de Guerrero,Oaxaca,C20073,Rango de precipitación,1000,3000
+Santa Catarina Quioquitani,Oaxaca,C20074,Rango de precipitación,600,1200
+Reforma de Pineda,Oaxaca,C20075,Rango de precipitación,1200,1500
+La Reforma,Oaxaca,C20076,Rango de precipitación,1500,2500
+Reyes Etla,Oaxaca,C20077,Rango de precipitación,600,700
+Rojas de Cuauhtémoc,Oaxaca,C20078,Rango de precipitación,600,700
+Salina Cruz,Oaxaca,C20079,Rango de precipitación,800,1200
+San Agustín Amatengo,Oaxaca,C20080,Rango de precipitación,600,1000
+San Agustín Atenango,Oaxaca,C20081,Rango de precipitación,800,1000
+San Agustín Chayuco,Oaxaca,C20082,Rango de precipitación,1500,2500
+San Agustín de las Juntas,Oaxaca,C20083,Rango de precipitación,600,700
+San Agustín Etla,Oaxaca,C20084,Rango de precipitación,600,1200
+San Agustín Loxicha,Oaxaca,C20085,Rango de precipitación,1000,3000
+San Agustín Tlacotepec,Oaxaca,C20086,Rango de precipitación,800,1000
+San Agustín Yatareni,Oaxaca,C20087,Rango de precipitación,600,800
+San Andrés Cabecera Nueva,Oaxaca,C20088,Rango de precipitación,1200,2500
+San Andrés Dinicuiti,Oaxaca,C20089,Rango de precipitación,700,800
+San Andrés Huaxpaltepec,Oaxaca,C20090,Rango de precipitación,1200,2000
+San Andrés Huayápam,Oaxaca,C20091,Rango de precipitación,600,1200
+San Andrés Ixtlahuaca,Oaxaca,C20092,Rango de precipitación,600,1000
+San Andrés Lagunas,Oaxaca,C20093,Rango de precipitación,700,800
+San Andrés Nuxiño,Oaxaca,C20094,Rango de precipitación,800,1000
+San Andrés Paxtlán,Oaxaca,C20095,Rango de precipitación,700,1200
+San Andrés Sinaxtla,Oaxaca,C20096,Rango de precipitación,600,1000
+San Andrés Solaga,Oaxaca,C20097,Rango de precipitación,1200,2000
+San Andrés Teotilálpam,Oaxaca,C20098,Rango de precipitación,1500,5000
+San Andrés Tepetlapa,Oaxaca,C20099,Rango de precipitación,800,1000
+San Andrés Yaá,Oaxaca,C20100,Rango de precipitación,1200,2000
+San Andrés Zabache,Oaxaca,C20101,Rango de precipitación,600,800
+San Andrés Zautla,Oaxaca,C20102,Rango de precipitación,600,1000
+San Antonino Castillo Velasco,Oaxaca,C20103,Rango de precipitación,700,800
+San Antonino el Alto,Oaxaca,C20104,Rango de precipitación,800,1200
+San Antonino Monte Verde,Oaxaca,C20105,Rango de precipitación,700,1000
+San Antonio Acutla,Oaxaca,C20106,Rango de precipitación,600,700
+San Antonio de la Cal,Oaxaca,C20107,Rango de precipitación,700,800
+San Antonio Huitepec,Oaxaca,C20108,Rango de precipitación,800,1200
+San Antonio Nanahuatípam,Oaxaca,C20109,Rango de precipitación,300,800
+San Antonio Sinicahua,Oaxaca,C20110,Rango de precipitación,800,1000
+San Antonio Tepetlapa,Oaxaca,C20111,Rango de precipitación,1500,2500
+San Baltazar Chichicápam,Oaxaca,C20112,Rango de precipitación,600,800
+San Baltazar Loxicha,Oaxaca,C20113,Rango de precipitación,1200,2500
+San Baltazar Yatzachi el Bajo,Oaxaca,C20114,Rango de precipitación,1500,2000
+San Bartolo Coyotepc,Oaxaca,C20115,Rango de precipitación,700,800
+San Bartolmé Ayautla,Oaxaca,C20116,Rango de precipitación,2500,4500
+San Bartolomé Loxicha,Oaxaca,C20117,Rango de precipitación,1000,2500
+San Bartolomé Quialana,Oaxaca,C20118,Rango de precipitación,600,800
+San Bartolomé Yucuañe,Oaxaca,C20119,Rango de precipitación,800,1200
+San Bartolomé Zoogocho,Oaxaca,C20120,Rango de precipitación,1200,2000
+San Bartolo Soyaltepec,Oaxaca,C20121,Rango de precipitación,600,1000
+San Bartolo Yautepec,Oaxaca,C20122,Rango de precipitación,600,800
+San Bernardo Mixtepec,Oaxaca,C20123,Rango de precipitación,700,1200
+San Blas Atempa,Oaxaca,C20124,Rango de precipitación,800,1200
+San Carlos Yautepec,Oaxaca,C20125,Rango de precipitación,400,2500
+San Cristóbal Amatlán,Oaxaca,C20126,Rango de precipitación,500,1200
+San Cristóbal Amoltepec,Oaxaca,C20127,Rango de precipitación,800,1000
+San Cristóbal Lachirioag,Oaxaca,C20128,Rango de precipitación,1500,2000
+San Cristóbal Suchixtlahuaca,Oaxaca,C20129,Rango de precipitación,500,800
+San Dionisio del Mar,Oaxaca,C20130,Rango de precipitación,1000,1200
+San Dionisio Ocotepec,Oaxaca,C20131,Rango de precipitación,500,800
+San Dionisio Ocotlán,Oaxaca,C20132,Rango de precipitación,600,700
+San Esteban Atatlahuca,Oaxaca,C20133,Rango de precipitación,800,1500
+San Felipe Jalapa de Díaz,Oaxaca,C20134,Rango de precipitación,3000,4500
+San Felipe Tejalápam,Oaxaca,C20135,Rango de precipitación,600,1000
+San Felipe Usila,Oaxaca,C20136,Rango de precipitación,1200,5000
+San Francisco Cahuacuá,Oaxaca,C20137,Rango de precipitación,800,2500
+San Francisco Cajonos,Oaxaca,C20138,Rango de precipitación,1200,2000
+San Francisco Chapulapa,Oaxaca,C20139,Rango de precipitación,1000,2200
+San Francisco Chindúa,Oaxaca,C20140,Rango de precipitación,700,1000
+San Francisco del Mar,Oaxaca,C20141,Rango de precipitación,1000,1500
+San Francisco Huehuetlán,Oaxaca,C20142,Rango de precipitación,1500,3000
+San Francisco Ixhuatán,Oaxaca,C20143,Rango de precipitación,1000,1500
+San Francisco Jaltepetongo,Oaxaca,C20144,Rango de precipitación,700,1000
+San Francisco Lachigoló,Oaxaca,C20145,Rango de precipitación,600,800
+San Francisco Logueche,Oaxaca,C20146,Rango de precipitación,500,700
+San Francisco Nuxaño,Oaxaca,C20147,Rango de precipitación,800,1000
+San Francisco Ozolotepec,Oaxaca,C20148,Rango de precipitación,1200,3000
+San Francisco Sola,Oaxaca,C20149,Rango de precipitación,700,1000
+San Francisco Telixtlahuaca,Oaxaca,C20150,Rango de precipitación,400,1000
+San Francisco Teopan,Oaxaca,C20151,Rango de precipitación,600,800
+San Francisco Tlapancingo,Oaxaca,C20152,Rango de precipitación,800,1200
+San Gabriel Mixtepec,Oaxaca,C20153,Rango de precipitación,1000,2500
+San Jorge Nuchita,Oaxaca,C20154,Rango de precipitación,700,1000
+San Ildefonso Sola,Oaxaca,C20155,Rango de precipitación,700,1000
+San Ildefonso Villa Alta,Oaxaca,C20156,Rango de precipitación,1200,2500
+San Jacinto Amilpas,Oaxaca,C20157,Rango de precipitación,600,700
+San Jacinto Tlacotepec,Oaxaca,C20158,Rango de precipitación,1200,2000
+San Jerónimo Coatlán,Oaxaca,C20159,Rango de precipitación,600,2500
+San Jerónimo Silacayoapilla,Oaxaca,C20160,Rango de precipitación,700,1000
+San Jerónimo Sosola,Oaxaca,C20161,Rango de precipitación,400,1000
+San Jerónimo Taviche,Oaxaca,C20162,Rango de precipitación,600,800
+San Jerónimo Tecóatl,Oaxaca,C20163,Rango de precipitación,1000,2500
+San Jorge Nuchita,Oaxaca,C20164,Rango de precipitación,700,1000
+San José Ayuquila,Oaxaca,C20165,Rango de precipitación,800,1000
+San José Chiltepec,Oaxaca,C20166,Rango de precipitación,2000,4000
+San José del Peñasco,Oaxaca,C20167,Rango de precipitación,500,1000
+San José Estancia Grande,Oaxaca,C20168,Rango de precipitación,1000,1500
+San José Independencia,Oaxaca,C20169,Rango de precipitación,3000,5000
+San José Lachiguiri,Oaxaca,C20170,Rango de precipitación,500,700
+San José Tenango,Oaxaca,C20171,Rango de precipitación,3000,5000
+San Juan Achiutla,Oaxaca,C20172,Rango de precipitación,800,1000
+San Juan Atepec,Oaxaca,C20173,Rango de precipitación,600,1200
+Ánimas Trujano,Oaxaca,C20174,Rango de precipitación,600,700
+San Juan Bautista Atatlahuca,Oaxaca,C20175,Rango de precipitación,400,1000
+San Juan Bautista Coixtlahuaca,Oaxaca,C20176,Rango de precipitación,500,1000
+San Juan Bautista Cuicatlán,Oaxaca,C20177,Rango de precipitación,400,1100
+San Juan Bautista Guelache,Oaxaca,C20178,Rango de precipitación,600,900
+San Juan Bautista Jayacatlán,Oaxaca,C20179,Rango de precipitación,500,900
+San Juan Bautista Lo de Soto,Oaxaca,C20180,Rango de precipitación,1000,1400
+San Juan Bautista Suchitepec,Oaxaca,C20181,Rango de precipitación,700,800
+San Juan Bautista Tlacoatzintepec,Oaxaca,C20182,Rango de precipitación,2500,4000
+San Juan Bautista Tlachichilco,Oaxaca,C20183,Rango de precipitación,700,1000
+San Juan Bautista Tuxtepec,Oaxaca,C20184,Rango de precipitación,1500,3500
+San Juan Cacahuatepec,Oaxaca,C20185,Rango de precipitación,1500,2500
+San Juan Cieneguilla,Oaxaca,C20186,Rango de precipitación,600,1000
+San Juan Coatzóspam,Oaxaca,C20187,Rango de precipitación,1500,4500
+San Juan Colorado,Oaxaca,C20188,Rango de precipitación,1500,2500
+San Juan Comaltepec,Oaxaca,C20189,Rango de precipitación,1500,3000
+San Juan Cotzocón,Oaxaca,C20190,Rango de precipitación,1500,3000
+San Juan Chicomezúchil,Oaxaca,C20191,Rango de precipitación,700,900
+San Juan Chilateca,Oaxaca,C20192,Rango de precipitación,600,700
+San Juan del Estado,Oaxaca,C20193,Rango de precipitación,600,1200
+San Juan del Río,Oaxaca,C20194,Rango de precipitación,600,900
+San Juan Diuxi,Oaxaca,C20195,Rango de precipitación,800,1000
+San Juan Evangelista Analco,Oaxaca,C20196,Rango de precipitación,600,1000
+San Juan Guelavía,Oaxaca,C20197,Rango de precipitación,600,800
+San Juan Guichicovi,Oaxaca,C20198,Rango de precipitación,1000,3000
+San Juan Ihualtepec,Oaxaca,C20199,Rango de precipitación,800,1000
+San Juan Juquila Mixes,Oaxaca,C20200,Rango de precipitación,500,2500
+San Juan Juquila Vijanos,Oaxaca,C20201,Rango de precipitación,1200,2000
+San Juan Lachao,Oaxaca,C20202,Rango de precipitación,1000,3500
+San Juan Lachigalla,Oaxaca,C20203,Rango de precipitación,500,800
+San Juan Lajarcia,Oaxaca,C20204,Rango de precipitación,600,1700
+San Juan Lalana,Oaxaca,C20205,Rango de precipitación,1500,4000
+San Juan de los Cués,Oaxaca,C20206,Rango de precipitación,300,1200
+San Juan Mazatlán,Oaxaca,C20207,Rango de precipitación,1500,3000
+San Juan Mixtepec,Oaxaca,C20208,Rango de precipitación,1600,3000
+San Juan Mixtepec,Oaxaca,C20209,Rango de precipitación,600,1200
+San Juan Ñumí,Oaxaca,C20210,Rango de precipitación,800,1000
+San Juan Ozolotepec,Oaxaca,C20211,Rango de precipitación,1000,3000
+San Juan Petlapa,Oaxaca,C20212,Rango de precipitación,1500,3500
+San Juan Quiahijé,Oaxaca,C20213,Rango de precipitación,1000,2500
+San Juan Quiotepec,Oaxaca,C20214,Rango de precipitación,600,2000
+San Juan Sayultepec,Oaxaca,C20215,Rango de precipitación,600,1000
+San Juan Tabaá,Oaxaca,C20216,Rango de precipitación,1500,2000
+San Juan Tamazola,Oaxaca,C20217,Rango de precipitación,800,1500
+San Juan Teita,Oaxaca,C20218,Rango de precipitación,800,1200
+San Juan Teitipac,Oaxaca,C20219,Rango de precipitación,600,800
+San Juan Tepeuxila,Oaxaca,C20220,Rango de precipitación,500,1600
+San Juan Teposcolula,Oaxaca,C20221,Rango de precipitación,700,1000
+San Juan Yaeé,Oaxaca,C20222,Rango de precipitación,1500,3000
+San Juan Yatzona,Oaxaca,C20223,Rango de precipitación,1500,2500
+San Juan Yucuita,Oaxaca,C20224,Rango de precipitación,500,700
+San Lorenzo,Oaxaca,C20225,Rango de precipitación,1500,2500
+San Lorenzo Albarradas,Oaxaca,C20226,Rango de precipitación,500,1000
+San Lorenzo Cacaotepec,Oaxaca,C20227,Rango de precipitación,600,700
+San Lorenzo Cuaunecuiltitla,Oaxaca,C20228,Rango de precipitación,2000,3500
+San Lorenzo Texmelúcan,Oaxaca,C20229,Rango de precipitación,1500,2500
+San Lorenzo Victoria,Oaxaca,C20230,Rango de precipitación,800,1000
+San Lucas Camotlán,Oaxaca,C20231,Rango de precipitación,1200,3000
+San Lucas Ojitlán,Oaxaca,C20232,Rango de precipitación,2000,5000
+San Lucas Quiaviní,Oaxaca,C20233,Rango de precipitación,600,800
+San Lucas Zoquiápam,Oaxaca,C20234,Rango de precipitación,1000,2500
+San Luis Amatlán,Oaxaca,C20235,Rango de precipitación,400,700
+San Marcial Ozolotepec,Oaxaca,C20236,Rango de precipitación,1200,3500
+San Marcos Arteaga,Oaxaca,C20237,Rango de precipitación,700,1000
+San Martín de los Canseco,Oaxaca,C20238,Rango de precipitación,600,700
+San Martín Huamelúlpam,Oaxaca,C20239,Rango de precipitación,700,1000
+San Martín Itunyoso,Oaxaca,C20240,Rango de precipitación,700,1500
+San Martín Lachilá,Oaxaca,C20241,Rango de precipitación,1400,2300
+San Martín Peras,Oaxaca,C20242,Rango de precipitación,800,2500
+San Martín Tilcajete,Oaxaca,C20243,Rango de precipitación,600,700
+San Martín Toxpalan,Oaxaca,C20244,Rango de precipitación,400,1500
+San Martín Zacatepec,Oaxaca,C20245,Rango de precipitación,700,1000
+San Mateo Cajonos,Oaxaca,C20246,Rango de precipitación,1200,1800
+Capulálpam de Méndez,Oaxaca,C20247,Rango de precipitación,800,2000
+San Mateo del Mar,Oaxaca,C20248,Rango de precipitación,1000,1200
+San Mateo Yoloxochitlán,Oaxaca,C20249,Rango de precipitación,2000,3000
+San Mateo Etlatongo,Oaxaca,C20250,Rango de precipitación,600,1000
+San Mateo Nejápam,Oaxaca,C20251,Rango de precipitación,700,1000
+San Mateo Peñasco,Oaxaca,C20252,Rango de precipitación,800,1200
+San Mateo Piñas,Oaxaca,C20253,Rango de precipitación,2000,3500
+San Mateo Río Hondo,Oaxaca,C20254,Rango de precipitación,1000,3000
+San Mateo Sindihui,Oaxaca,C20255,Rango de precipitación,900,1500
+San Mateo Tlapiltepec,Oaxaca,C20256,Rango de precipitación,600,800
+San Melchor Betaza,Oaxaca,C20257,Rango de precipitación,1000,2000
+San Miguel Achiutla,Oaxaca,C20258,Rango de precipitación,800,1000
+San Miguel Ahuehuetitlán,Oaxaca,C20259,Rango de precipitación,800,1000
+San Miguel Aloápam,Oaxaca,C20260,Rango de precipitación,700,1200
+San Miguel Amatitlán,Oaxaca,C20261,Rango de precipitación,700,1000
+San Miguel Amatlán,Oaxaca,C20262,Rango de precipitación,800,1500
+San Miguel Coatlán,Oaxaca,C20263,Rango de precipitación,700,2500
+San Miguel Chicahua,Oaxaca,C20264,Rango de precipitación,600,800
+San Miguel Chimalapa,Oaxaca,C20265,Rango de precipitación,800,2500
+San Miguel del Puerto,Oaxaca,C20266,Rango de precipitación,700,3000
+San Miguel del Río,Oaxaca,C20267,Rango de precipitación,700,1200
+San Miguel Ejutla,Oaxaca,C20268,Rango de precipitación,600,700
+San Miguel el Grande,Oaxaca,C20269,Rango de precipitación,800,1200
+San Miguel Huautla,Oaxaca,C20270,Rango de precipitación,600,800
+San Miguel Mixtepec,Oaxaca,C20271,Rango de precipitación,800,1200
+San Miguel Panixtlahuaca,Oaxaca,C20272,Rango de precipitación,1500,2000
+San Miguel Peras,Oaxaca,C20273,Rango de precipitación,1500,2000
+San Miguel Piedras,Oaxaca,C20274,Rango de precipitación,1000,1200
+San Miguel Quetzaltepec,Oaxaca,C20275,Rango de precipitación,1000,3000
+San Miguel Santa Flor,Oaxaca,C20276,Rango de precipitación,1000,1500
+Villa Sola de Vega,Oaxaca,C20277,Rango de precipitación,600,2500
+San Miguel Soyaltepec,Oaxaca,C20278,Rango de precipitación,1500,4500
+San Miguel Suchixtepec,Oaxaca,C20279,Rango de precipitación,1200,2500
+Villa Talea de Castro,Oaxaca,C20280,Rango de precipitación,1500,2500
+San Miguel Tecomatlán,Oaxaca,C20281,Rango de precipitación,700,1000
+San Miguel Tenango,Oaxaca,C20282,Rango de precipitación,600,1000
+San Miguel Tequixtepec,Oaxaca,C20283,Rango de precipitación,500,800
+San Miguel Tilquiápam,Oaxaca,C20284,Rango de precipitación,600,800
+San Miguel Tlacamama,Oaxaca,C20285,Rango de precipitación,1200,2000
+San Miguel Tlacotepec,Oaxaca,C20286,Rango de precipitación,800,1000
+San Miguel Tulancingo,Oaxaca,C20287,Rango de precipitación,600,800
+San Miguel Yotao,Oaxaca,C20288,Rango de precipitación,1200,2000
+San Nicolás,Oaxaca,C20289,Rango de precipitación,600,800
+San Nicolás Hidalgo,Oaxaca,C20290,Rango de precipitación,700,1000
+San Pablo Coatlán,Oaxaca,C20291,Rango de precipitación,500,2500
+San Pablo Cuatro Venados,Oaxaca,C20292,Rango de precipitación,700,1200
+San Pablo Etla,Oaxaca,C20293,Rango de precipitación,600,1200
+San Pablo Huitzo,Oaxaca,C20294,Rango de precipitación,600,1000
+San Pablo Huixtepec,Oaxaca,C20295,Rango de precipitación,600,800
+San Pablo Macuiltianguis,Oaxaca,C20296,Rango de precipitación,600,2000
+San Pablo Tijaltepec,Oaxaca,C20297,Rango de precipitación,800,1200
+San Pablo Villa de Mitla,Oaxaca,C20298,Rango de precipitación,600,1500
+San Pablo Yaganiza,Oaxaca,C20299,Rango de precipitación,1200,2000
+San Pedro Amuzgos,Oaxaca,C20300,Rango de precipitación,1500,2500
+San Pedro Apóstol,Oaxaca,C20301,Rango de precipitación,600,800
+San Pedro Atoyac,Oaxaca,C20302,Rango de precipitación,1500,2500
+San Pedro Cajonos,Oaxaca,C20303,Rango de precipitación,1200,2000
+San Pedro Coxcaltepec Cántaros,Oaxaca,C20304,Rango de precipitación,400,800
+San Pedro Comitancillo,Oaxaca,C20305,Rango de precipitación,700,1200
+San Pedro el Alto,Oaxaca,C20306,Rango de precipitación,1500,3500
+San Pedro Huamelula,Oaxaca,C20307,Rango de precipitación,700,1000
+San Pedro Huilotepec,Oaxaca,C20308,Rango de precipitación,800,1200
+San Pedro Ixcatlán,Oaxaca,C20309,Rango de precipitación,3000,4500
+San Pedro Ixtlahuaca,Oaxaca,C20310,Rango de precipitación,600,800
+San Pedro Jaltepetongo,Oaxaca,C20311,Rango de precipitación,400,700
+San Pedro Jicayán,Oaxaca,C20312,Rango de precipitación,1500,2500
+San Pedro Jocotipac,Oaxaca,C20313,Rango de precipitación,400,800
+San Pedro Juchatengo,Oaxaca,C20314,Rango de precipitación,1000,1500
+San Pedro Mártir,Oaxaca,C20315,Rango de precipitación,600,800
+San Pedro Mártir Quiechapa,Oaxaca,C20316,Rango de precipitación,500,1000
+San Pedro Mártir Yucuxaco,Oaxaca,C20317,Rango de precipitación,700,1000
+San Pedro Mixtepec,Oaxaca,C20318,Rango de precipitación,800,2000
+San Pedro Mixtepec,Oaxaca,C20319,Rango de precipitación,700,1500
+San Pedro Molinos,Oaxaca,C20320,Rango de precipitación,1000,1200
+San Pedro Nopala,Oaxaca,C20321,Rango de precipitación,600,800
+San Pedro Ocopetatillo,Oaxaca,C20322,Rango de precipitación,2000,3000
+San Pedro Ocotepec,Oaxaca,C20323,Rango de precipitación,1200,3000
+San Pedro Pochutla,Oaxaca,C20324,Rango de precipitación,800,3000
+San Pedro Quiatoni,Oaxaca,C20325,Rango de precipitación,400,1000
+San Pedro Sochiápam,Oaxaca,C20326,Rango de precipitación,1200,3500
+San Pedro Tapanatepec,Oaxaca,C20327,Rango de precipitación,1200,2000
+San Pedro Taviche,Oaxaca,C20328,Rango de precipitación,500,800
+San Pedro Teozacoalco,Oaxaca,C20329,Rango de precipitación,800,1200
+San Pedro Teutila,Oaxaca,C20330,Rango de precipitación,2000,4500
+San Pedro Tidaá,Oaxaca,C20331,Rango de precipitación,900,1000
+San Pedro Topiltepec,Oaxaca,C20332,Rango de precipitación,900,1000
+San Pedro Totolapa,Oaxaca,C20333,Rango de precipitación,400,700
+Villa de Tututepec de Melchor Ocampo,Oaxaca,C20334,Rango de precipitación,800,2000
+San Pedro Yaneri,Oaxaca,C20335,Rango de precipitación,1200,2000
+San Pedro Yolóx,Oaxaca,C20336,Rango de precipitación,800,3500
+San Pedro y San Pablo Ayutla,Oaxaca,C20337,Rango de precipitación,700,1500
+Villa de Etla,Oaxaca,C20338,Rango de precipitación,600,700
+San Pedro y San Pablo Teposcolula,Oaxaca,C20339,Rango de precipitación,700,900
+San Pedro y San Pablo Tequixtepec,Oaxaca,C20340,Rango de precipitación,600,900
+San Pedro Yucunama,Oaxaca,C20341,Rango de precipitación,700,900
+San Raymundo Jalpan,Oaxaca,C20342,Rango de precipitación,600,700
+San Sebastián Abasolo,Oaxaca,C20343,Rango de precipitación,600,700
+San Sebastián Coatlán,Oaxaca,C20344,Rango de precipitación,700,2500
+San Sebastián Ixcapa,Oaxaca,C20345,Rango de precipitación,1500,2500
+San Sebastián Nicananduta,Oaxaca,C20346,Rango de precipitación,700,900
+San Sebastián Río Hondo,Oaxaca,C20347,Rango de precipitación,900,1500
+San Sebastián Tecomaxtlahuaca,Oaxaca,C20348,Rango de precipitación,900,2500
+San Sebastián Teitipac,Oaxaca,C20349,Rango de precipitación,600,700
+San Sebastián Tutla,Oaxaca,C20350,Rango de precipitación,600,700
+San Simón Almolongas,Oaxaca,C20351,Rango de precipitación,500,800
+San Simón Zahuatlán,Oaxaca,C20352,Rango de precipitación,700,900
+Santa Ana,Oaxaca,C20353,Rango de precipitación,600,800
+Santa Ana Ateixtlahuaca,Oaxaca,C20354,Rango de precipitación,2000,4000
+Santa Ana Cuauhtémoc,Oaxaca,C20355,Rango de precipitación,1200,2500
+Santa Ana del Valle,Oaxaca,C20356,Rango de precipitación,600,1000
+Santa Ana Tavela,Oaxaca,C20357,Rango de precipitación,500,1200
+Santa Ana Tlapacoyan,Oaxaca,C20358,Rango de precipitación,600,1000
+Santa Ana Yareni,Oaxaca,C20359,Rango de precipitación,700,1200
+Santa Ana Zegache,Oaxaca,C20360,Rango de precipitación,600,700
+Santa Catalina Quierí,Oaxaca,C20361,Rango de precipitación,600,1200
+Santa Catalina Cuixtla,Oaxaca,C20362,Rango de precipitación,500,800
+Santa Catarina Ixtepeji,Oaxaca,C20363,Rango de precipitación,700,1200
+Santa Catarina Juquila,Oaxaca,C20364,Rango de precipitación,800,2500
+Santa Catarina Lachatao,Oaxaca,C20365,Rango de precipitación,800,1200
+Santa Catarina Loxicha,Oaxaca,C20366,Rango de precipitación,1200,2500
+Santa Catarina Mechoacán,Oaxaca,C20367,Rango de precipitación,1500,2000
+Santa Catarina Minas,Oaxaca,C20368,Rango de precipitación,600,800
+Santa Catarina Quiané,Oaxaca,C20369,Rango de precipitación,600,700
+Santa Catarina Tayata,Oaxaca,C20370,Rango de precipitación,800,1000
+Santa Catarina Ticuá,Oaxaca,C20371,Rango de precipitación,800,1000
+Santa Catarina Yosonotú,Oaxaca,C20372,Rango de precipitación,800,1500
+Santa Catarina Zapoquila,Oaxaca,C20373,Rango de precipitación,500,800
+Santa Cruz Acatepec,Oaxaca,C20374,Rango de precipitación,2000,3000
+Santa Cruz Amilpas,Oaxaca,C20375,Rango de precipitación,600,700
+Santa Cruz de Bravo,Oaxaca,C20376,Rango de precipitación,800,1000
+Santa Cruz Itundujia,Oaxaca,C20377,Rango de precipitación,1200,2500
+Santa Cruz Mixtepec,Oaxaca,C20378,Rango de precipitación,600,1200
+Santa Cruz Nundaco,Oaxaca,C20379,Rango de precipitación,800,1000
+Santa Cruz Papalutla,Oaxaca,C20380,Rango de precipitación,600,700
+Santa Cruz Tacache de Mina,Oaxaca,C20381,Rango de precipitación,700,1000
+Santa Cruz Tacahua,Oaxaca,C20382,Rango de precipitación,800,1200
+Santa Cruz Tayata,Oaxaca,C20383,Rango de precipitación,800,1000
+Santa Cruz Xitla,Oaxaca,C20384,Rango de precipitación,500,800
+Santa Cruz Xoxocotlán,Oaxaca,C20385,Rango de precipitación,600,700
+Santa Cruz Zenzontepec,Oaxaca,C20386,Rango de precipitación,1200,2000
+Santa Gertrudis,Oaxaca,C20387,Rango de precipitación,600,800
+Santa Inés del Monte,Oaxaca,C20388,Rango de precipitación,700,900
+Santa Inés Yatzeche,Oaxaca,C20389,Rango de precipitación,600,700
+Santa Lucía del Camino,Oaxaca,C20390,Rango de precipitación,600,700
+Santa Lucía Miahuatlán,Oaxaca,C20391,Rango de precipitación,700,2000
+Santa Lucía Monteverde,Oaxaca,C20392,Rango de precipitación,1000,2500
+Santa Lucía Ocotlán,Oaxaca,C20393,Rango de precipitación,600,700
+Santa María Alotepec,Oaxaca,C20394,Rango de precipitación,1500,3000
+Santa María Apazco,Oaxaca,C20395,Rango de precipitación,500,800
+Santa María la Asunción,Oaxaca,C20396,Rango de precipitación,2000,3000
+Heroica Ciudad de Tlaxiaco,Oaxaca,C20397,Rango de precipitación,700,1500
+Ayoquezco de Aldama,Oaxaca,C20398,Rango de precipitación,600,1000
+Santa María Atzompa,Oaxaca,C20399,Rango de precipitación,600,700
+Santa María Camotlán,Oaxaca,C20400,Rango de precipitación,700,800
+Santa María Colotepec,Oaxaca,C20401,Rango de precipitación,800,2000
+Santa María Cortijo,Oaxaca,C20402,Rango de precipitación,1000,1500
+Santa María Coyotepec,Oaxaca,C20403,Rango de precipitación,600,700
+Santa María Chachoápam,Oaxaca,C20404,Rango de precipitación,600,800
+Villa de Chilapa de Díaz,Oaxaca,C20405,Rango de precipitación,700,1000
+Santa María Chilchotla,Oaxaca,C20406,Rango de precipitación,3000,4500
+Santa María Chimalapa,Oaxaca,C20407,Rango de precipitación,1000,3500
+Santa María del Rosario,Oaxaca,C20408,Rango de precipitación,800,1000
+Santa María del Tule,Oaxaca,C20409,Rango de precipitación,600,800
+Santa María Ecatepec,Oaxaca,C20410,Rango de precipitación,600,1500
+Santa María Guelacé,Oaxaca,C20411,Rango de precipitación,600,700
+Santa María Guienagati,Oaxaca,C20412,Rango de precipitación,800,2000
+Santa María Huatulco,Oaxaca,C20413,Rango de precipitación,600,3000
+Santa María Huazolotitlán,Oaxaca,C20414,Rango de precipitación,1000,2000
+Santa María Ipalapa,Oaxaca,C20415,Rango de precipitación,1500,2500
+Santa María Ixcatlán,Oaxaca,C20416,Rango de precipitación,400,800
+Santa María Jacatepec,Oaxaca,C20417,Rango de precipitación,2000,4500
+Santa María Jalapa del Marqués,Oaxaca,C20418,Rango de precipitación,600,1200
+Santa María Jaltianguis,Oaxaca,C20419,Rango de precipitación,700,1000
+Santa María Lachixío,Oaxaca,C20420,Rango de precipitación,1000,2000
+Santa María Mixtequilla,Oaxaca,C20421,Rango de precipitación,800,1000
+Santa María Nativitas,Oaxaca,C20422,Rango de precipitación,600,1000
+Santa María Nduayaco,Oaxaca,C20423,Rango de precipitación,700,1000
+Santa María Ozolotepec,Oaxaca,C20424,Rango de precipitación,1000,3000
+Santa María Pápalo,Oaxaca,C20425,Rango de precipitación,700,2000
+Santa María Peñoles,Oaxaca,C20426,Rango de precipitación,700,1200
+Santa María Petapa,Oaxaca,C20427,Rango de precipitación,1000,2500
+Santa María Quiegolani,Oaxaca,C20428,Rango de precipitación,700,1200
+Santa María Sola,Oaxaca,C20429,Rango de precipitación,800,1500
+Santa María Tataltepec,Oaxaca,C20430,Rango de precipitación,1000,1200
+Santa María Tecomavaca,Oaxaca,C20431,Rango de precipitación,300,1000
+Santa María Temaxcalapa,Oaxaca,C20432,Rango de precipitación,1500,2500
+Santa María Temaxcaltepec,Oaxaca,C20433,Rango de precipitación,1500,2500
+Santa María Teopoxco,Oaxaca,C20434,Rango de precipitación,1000,2500
+Santa María Tepantlali,Oaxaca,C20435,Rango de precipitación,800,1500
+Santa María Texcatitlán,Oaxaca,C20436,Rango de precipitación,400,600
+Santa María Tlahuitoltepec,Oaxaca,C20437,Rango de precipitación,1000,1500
+Santa María Tlalixtac,Oaxaca,C20438,Rango de precipitación,1200,2500
+Santa María Tonameca,Oaxaca,C20439,Rango de precipitación,800,1500
+Santa María Totolapilla,Oaxaca,C20440,Rango de precipitación,800,1200
+Santa María Xadani,Oaxaca,C20441,Rango de precipitación,800,1200
+Santa María Yalina,Oaxaca,C20442,Rango de precipitación,1200,2000
+Santa María Yavesía,Oaxaca,C20443,Rango de precipitación,1000,1500
+Santa María Yolotepec,Oaxaca,C20444,Rango de precipitación,1000,1500
+Santa María Yosoyúa,Oaxaca,C20445,Rango de precipitación,800,1200
+Santa María Yucuhiti,Oaxaca,C20446,Rango de precipitación,1200,2500
+Santa María Zacatepec,Oaxaca,C20447,Rango de precipitación,1500,2500
+Santa María Zaniza,Oaxaca,C20448,Rango de precipitación,1500,2500
+Santa María Zoquitlán,Oaxaca,C20449,Rango de precipitación,400,700
+Santiago Amoltepec,Oaxaca,C20450,Rango de precipitación,1500,2500
+Santiago Apoala,Oaxaca,C20451,Rango de precipitación,500,800
+Santiago Apóstol,Oaxaca,C20452,Rango de precipitación,500,800
+Santiago Astata,Oaxaca,C20453,Rango de precipitación,700,1000
+Santiago Atitlán,Oaxaca,C20454,Rango de precipitación,1000,3000
+Santiago Ayuquililla,Oaxaca,C20455,Rango de precipitación,700,1000
+Santiago Cacaloxtepec,Oaxaca,C20456,Rango de precipitación,700,800
+Santiago Camotlán,Oaxaca,C20457,Rango de precipitación,1500,4000
+Santiago Comaltepec,Oaxaca,C20458,Rango de precipitación,800,4000
+Santiago Chazumba,Oaxaca,C20459,Rango de precipitación,600,1000
+Santiago Choápam,Oaxaca,C20460,Rango de precipitación,1500,3000
+Santiago del Río,Oaxaca,C20461,Rango de precipitación,800,1000
+Santiago Huajolotitlán,Oaxaca,C20462,Rango de precipitación,700,800
+Santiago Huauclilla,Oaxaca,C20463,Rango de precipitación,400,700
+Santiago Ihuitlán Plumas,Oaxaca,C20464,Rango de precipitación,600,700
+Santiago Ixcuintepec,Oaxaca,C20465,Rango de precipitación,1500,3000
+Santiago Ixtayutla,Oaxaca,C20466,Rango de precipitación,1500,2500
+Santiago Jamiltepec,Oaxaca,C20467,Rango de precipitación,1000,2500
+Santiago Jocotepec,Oaxaca,C20468,Rango de precipitación,2000,4000
+Santiago Juxtlahuaca,Oaxaca,C20469,Rango de precipitación,800,3000
+Santiago Lachiguiri,Oaxaca,C20470,Rango de precipitación,800,2500
+Santiago Lalopa,Oaxaca,C20471,Rango de precipitación,2000,3000
+Santiago Laollaga,Oaxaca,C20472,Rango de precipitación,800,1200
+Santiago Laxopa,Oaxaca,C20473,Rango de precipitación,800,1200
+Santiago Llano Grande,Oaxaca,C20474,Rango de precipitación,1000,2000
+Santiago Matatlán,Oaxaca,C20475,Rango de precipitación,600,800
+Santiago Miltepec,Oaxaca,C20476,Rango de precipitación,700,800
+Santiago Minas,Oaxaca,C20477,Rango de precipitación,1200,2000
+Santiago Nacaltepec,Oaxaca,C20478,Rango de precipitación,400,800
+Santiago Nejapilla,Oaxaca,C20479,Rango de precipitación,800,1000
+Santiago Nundiche,Oaxaca,C20480,Rango de precipitación,700,1000
+Santiago Nuyoó,Oaxaca,C20481,Rango de precipitación,1000,2500
+Santiago Pinotepa Nacional,Oaxaca,C20482,Rango de precipitación,1000,2000
+Santiago Suchilquitongo,Oaxaca,C20483,Rango de precipitación,600,1000
+Santiago Tamazola,Oaxaca,C20484,Rango de precipitación,700,1000
+Santiago Tapextla,Oaxaca,C20485,Rango de precipitación,1200,1500
+Villa Tejúpam de la Unión,Oaxaca,C20486,Rango de precipitación,600,1000
+Santiago Tenango,Oaxaca,C20487,Rango de precipitación,400,1000
+Santiago Tepetlapa,Oaxaca,C20488,Rango de precipitación,600,700
+Santiago Tetepec,Oaxaca,C20489,Rango de precipitación,1000,2500
+Santiago Texcalcingo,Oaxaca,C20490,Rango de precipitación,1000,2500
+Santiago Textitlán,Oaxaca,C20491,Rango de precipitación,1500,2500
+Santiago Tilantongo,Oaxaca,C20492,Rango de precipitación,800,1200
+Santiago Tillo,Oaxaca,C20493,Rango de precipitación,600,1000
+Santiago Tlazoyaltepec,Oaxaca,C20494,Rango de precipitación,800,1200
+Santiago Xanica,Oaxaca,C20495,Rango de precipitación,1500,3000
+Santiago Xiacuí,Oaxaca,C20496,Rango de precipitación,1000,1500
+Santiago Yaitepec,Oaxaca,C20497,Rango de precipitación,1500,2500
+Santiago Yaveo,Oaxaca,C20498,Rango de precipitación,1500,3000
+Santiago Yolomécatl,Oaxaca,C20499,Rango de precipitación,700,900
+Santiago Yosondúa,Oaxaca,C20500,Rango de precipitación,1000,2000
+Santiago Yucuyachi,Oaxaca,C20501,Rango de precipitación,800,1000
+Santiago Zacatepec,Oaxaca,C20502,Rango de precipitación,1500,3000
+Santiago Zoochila,Oaxaca,C20503,Rango de precipitación,1200,2000
+Nuevo Zoquiápam,Oaxaca,C20504,Rango de precipitación,900,1200
+Santo Domingo Ingenio,Oaxaca,C20505,Rango de precipitación,900,2000
+Santo Domingo Albarradas,Oaxaca,C20506,Rango de precipitación,900,1500
+Santo Domingo Armenta,Oaxaca,C20507,Rango de precipitación,1000,1200
+Santo Domingo Chihuitán,Oaxaca,C20508,Rango de precipitación,900,1200
+Santo Domingo de Morelos,Oaxaca,C20509,Rango de precipitación,900,2000
+Santo Domingo Ixcatlán,Oaxaca,C20510,Rango de precipitación,1000,1200
+Santo Domingo Nuxaá,Oaxaca,C20511,Rango de precipitación,900,1200
+Santo Domingo Ozolotepec,Oaxaca,C20512,Rango de precipitación,1000,1500
+Santo Domingo Petapa,Oaxaca,C20513,Rango de precipitación,1000,2500
+Santo Domingo Roayaga,Oaxaca,C20514,Rango de precipitación,1200,2500
+Santo Domingo Tehuantepec,Oaxaca,C20515,Rango de precipitación,600,1000
+Santo Domingo Teojomulco,Oaxaca,C20516,Rango de precipitación,1200,2500
+Santo Domingo Tepuxtepec,Oaxaca,C20517,Rango de precipitación,700,900
+Santo Domingo Tlatayápam,Oaxaca,C20518,Rango de precipitación,800,1000
+Santo Domingo Tomaltepec,Oaxaca,C20519,Rango de precipitación,600,1200
+Santo Domingo Tonalá,Oaxaca,C20520,Rango de precipitación,700,1000
+Santo Domingo Tonaltepec,Oaxaca,C20521,Rango de precipitación,700,1000
+Santo Domingo Xagacía,Oaxaca,C20522,Rango de precipitación,1200,2000
+Santo Domingo Yanhuitlán,Oaxaca,C20523,Rango de precipitación,600,800
+Santo Domingo Yodohino,Oaxaca,C20524,Rango de precipitación,700,800
+Santo Domingo Zanatepec,Oaxaca,C20525,Rango de precipitación,1200,2500
+Santos Reyes Nopala,Oaxaca,C20526,Rango de precipitación,1000,2500
+Santos Reyes Pápalo,Oaxaca,C20527,Rango de precipitación,500,900
+Santos Reyes Tepejillo,Oaxaca,C20528,Rango de precipitación,800,1000
+Santos Reyes Yucuná,Oaxaca,C20529,Rango de precipitación,700,1000
+Santo Tomás Jalieza,Oaxaca,C20530,Rango de precipitación,600,800
+Santo Tomás Mazaltepec,Oaxaca,C20531,Rango de precipitación,600,900
+Santo Tomás Ocotepec,Oaxaca,C20532,Rango de precipitación,900,2000
+Santo Tomás Tamazulapan,Oaxaca,C20533,Rango de precipitación,600,1200
+San Vicente Coatlán,Oaxaca,C20534,Rango de precipitación,500,800
+San Vicente Lachixío,Oaxaca,C20535,Rango de precipitación,900,2000
+San Vicente Nuñú,Oaxaca,C20536,Rango de precipitación,700,800
+Silacayoápam,Oaxaca,C20537,Rango de precipitación,700,1200
+Sitio de Xitlapehua,Oaxaca,C20538,Rango de precipitación,500,600
+Soledad Etla,Oaxaca,C20539,Rango de precipitación,700,800
+Villa de Tamazulápam del Progreso,Oaxaca,C20540,Rango de precipitación,600,800
+Tanetze de Zaragoza,Oaxaca,C20541,Rango de precipitación,1500,2500
+Taniche,Oaxaca,C20542,Rango de precipitación,600,700
+Tataltepec de Valdés,Oaxaca,C20543,Rango de precipitación,1200,2000
+Teococuilco de Marcos Pérez,Oaxaca,C20544,Rango de precipitación,700,1200
+Teotitlán de Flores Magón,Oaxaca,C20545,Rango de precipitación,300,1200
+Teotitlán del Valle,Oaxaca,C20546,Rango de precipitación,600,1200
+Teotongo,Oaxaca,C20547,Rango de precipitación,600,800
+Tepelmeme Villa de Morelos,Oaxaca,C20548,Rango de precipitación,300,800
+Tezoatlán de Segura y Luna,Oaxaca,C20549,Rango de precipitación,700,900
+San Jerónimo Tlacochahuaya,Oaxaca,C20550,Rango de precipitación,600,900
+Tlacolula de Matamoros,Oaxaca,C20551,Rango de precipitación,400,800
+Tlacotepec Plumas,Oaxaca,C20552,Rango de precipitación,600,700
+Tlalixtac de Cabrera,Oaxaca,C20553,Rango de precipitación,600,1200
+Totontepec Villa de Morelos,Oaxaca,C20554,Rango de precipitación,1000,3000
+Trinidad Zaachila,Oaxaca,C20555,Rango de precipitación,600,800
+La Trinidad Vista Hermosa,Oaxaca,C20556,Rango de precipitación,600,700
+Unión Hidalgo,Oaxaca,C20557,Rango de precipitación,900,1200
+Valerio Trujano,Oaxaca,C20558,Rango de precipitación,400,600
+San Juan Bautista Valle Nacional,Oaxaca,C20559,Rango de precipitación,1200,5000
+Villa Díaz Ordaz,Oaxaca,C20560,Rango de precipitación,600,1500
+Yaxe,Oaxaca,C20561,Rango de precipitación,500,700
+Magdalena Yodocono de Porfirio Díaz,Oaxaca,C20562,Rango de precipitación,700,800
+Yogana,Oaxaca,C20563,Rango de precipitación,600,900
+Yutanduchi de Guerrero,Oaxaca,C20564,Rango de precipitación,900,1200
+Villa de Zaachila,Oaxaca,C20565,Rango de precipitación,600,800
+Zapotitlán del Río,Oaxaca,C20566,Rango de precipitación,900,2500
+Zapotitlán Lagunas,Oaxaca,C20567,Rango de precipitación,700,900
+Zapotitlán Palmas,Oaxaca,C20568,Rango de precipitación,700,900
+Santa Inés de Zaragoza,Oaxaca,C20569,Rango de precipitación,700,1200
+Zimatlán de Álvarez,Oaxaca,C20570,Rango de precipitación,600,2500
+Acajete,Puebla,C21001,Rango de precipitación,700,1100
+Acateno,Puebla,C21002,Rango de precipitación,1400,3600
+Acatlán,Puebla,C21003,Rango de precipitación,700,900
+Acatzingo,Puebla,C21004,Rango de precipitación,600,900
+Acteopan,Puebla,C21005,Rango de precipitación,800,1000
+Ahuacatlán,Puebla,C21006,Rango de precipitación,1400,2100
+Ahuatlán,Puebla,C21007,Rango de precipitación,700,900
+Ahuazotepec,Puebla,C21008,Rango de precipitación,900,1600
+Ahuehuetitla,Puebla,C21009,Rango de precipitación,700,800
+Ajalpan,Puebla,C21010,Rango de precipitación,300,3100
+Albino Zertuche,Puebla,C21011,Rango de precipitación,700,900
+Aljojuca,Puebla,C21012,Rango de precipitación,600,700
+Altepexi,Puebla,C21013,Rango de precipitación,300,500
+Amixtlán,Puebla,C21014,Rango de precipitación,1900,2100
+Amozoc,Puebla,C21015,Rango de precipitación,900,1100
+Aquixtla,Puebla,C21016,Rango de precipitación,600,900
+Atempan,Puebla,C21017,Rango de precipitación,900,1500
+Atexcal,Puebla,C21018,Rango de precipitación,600,800
+Atlixco,Puebla,C21019,Rango de precipitación,900,1300
+Atoyatempan,Puebla,C21020,Rango de precipitación,600,700
+Atzala,Puebla,C21021,Rango de precipitación,800,1000
+Atzitzihuacán,Puebla,C21022,Rango de precipitación,900,1300
+Atzitzintla,Puebla,C21023,Rango de precipitación,400,900
+Axutla,Puebla,C21024,Rango de precipitación,700,900
+Ayotoxco de Guerrero,Puebla,C21025,Rango de precipitación,2400,3600
+Calpan,Puebla,C21026,Rango de precipitación,900,1100
+Caltepec,Puebla,C21027,Rango de precipitación,400,800
+Camocuautla,Puebla,C21028,Rango de precipitación,2000,2500
+Caxhuacan,Puebla,C21029,Rango de precipitación,2900,3600
+Coatepec,Puebla,C21030,Rango de precipitación,2400,2600
+Coatzingo,Puebla,C21031,Rango de precipitación,700,900
+Cohetzala,Puebla,C21032,Rango de precipitación,700,900
+Cohuecan,Puebla,C21033,Rango de precipitación,900,1100
+Coronango,Puebla,C21034,Rango de precipitación,800,1000
+Coxcatlán,Puebla,C21035,Rango de precipitación,300,1100
+Coyomeapan,Puebla,C21036,Rango de precipitación,500,4100
+Coyotepec,Puebla,C21037,Rango de precipitación,600,800
+Cuapiaxtla de Madero,Puebla,C21038,Rango de precipitación,600,800
+Cuautempan,Puebla,C21039,Rango de precipitación,1100,2100
+Cuautinchán,Puebla,C21040,Rango de precipitación,700,900
+Cuautlancingo,Puebla,C21041,Rango de precipitación,800,1000
+Cuayuca de Andrade,Puebla,C21042,Rango de precipitación,700,900
+Cuetzalan del Progreso,Puebla,C21043,Rango de precipitación,1900,4100
+Cuyoaco,Puebla,C21044,Rango de precipitación,600,900
+Chalchicomula de Sesma,Puebla,C21045,Rango de precipitación,400,900
+Chapulco,Puebla,C21046,Rango de precipitación,400,600
+Chiautla,Puebla,C21047,Rango de precipitación,700,900
+Chiautzingo,Puebla,C21048,Rango de precipitación,900,1100
+Chiconcuautla,Puebla,C21049,Rango de precipitación,1400,2100
+Chichiquila,Puebla,C21050,Rango de precipitación,1900,2000
+Chietla,Puebla,C21051,Rango de precipitación,800,1000
+Chigmecatitlán,Puebla,C21052,Rango de precipitación,600,1000
+Chignahuapan,Puebla,C21053,Rango de precipitación,600,900
+Chignautla,Puebla,C21054,Rango de precipitación,600,1600
+Chila,Puebla,C21055,Rango de precipitación,700,900
+Chila de la Sal,Puebla,C21056,Rango de precipitación,600,800
+Honey,Puebla,C21057,Rango de precipitación,1100,1600
+Chilchotla,Puebla,C21058,Rango de precipitación,700,1600
+Chinantla,Puebla,C21059,Rango de precipitación,700,900
+Domingo Arenas,Puebla,C21060,Rango de precipitación,1100,1300
+Eloxochitlán,Puebla,C21061,Rango de precipitación,2400,3100
+Epatlán,Puebla,C21062,Rango de precipitación,800,1000
+Esperanza,Puebla,C21063,Rango de precipitación,300,700
+Francisco Z Mena,Puebla,C21064,Rango de precipitación,1400,1600
+General Felipe Ángeles,Puebla,C21065,Rango de precipitación,600,900
+Guadalupe,Puebla,C21066,Rango de precipitación,600,800
+Guadalupe Victoria,Puebla,C21067,Rango de precipitación,300,900
+Hermenegildo Galeana,Puebla,C21068,Rango de precipitación,2400,3100
+Huaquechula,Puebla,C21069,Rango de precipitación,800,1100
+Huatlatlauca,Puebla,C21070,Rango de precipitación,600,900
+Huauchinango,Puebla,C21071,Rango de precipitación,1400,2100
+Huehuetla,Puebla,C21072,Rango de precipitación,2900,3600
+Huehuetlán el Chico,Puebla,C21073,Rango de precipitación,800,1000
+Huejotzingo,Puebla,C21074,Rango de precipitación,900,1100
+Hueyapan,Puebla,C21075,Rango de precipitación,1400,3600
+Hueytamalco,Puebla,C21076,Rango de precipitación,1500,3600
+Hueytlalpan,Puebla,C21077,Rango de precipitación,2400,3100
+Huitzilan de Serdán,Puebla,C21078,Rango de precipitación,1400,2000
+Huitziltepec,Puebla,C21079,Rango de precipitación,600,700
+Atlequizayan,Puebla,C21080,Rango de precipitación,2400,2600
+Ixcamilpa de Guerrero,Puebla,C21081,Rango de precipitación,700,900
+Ixcaquixtla,Puebla,C21082,Rango de precipitación,600,800
+Ixtacamaxtitlán,Puebla,C21083,Rango de precipitación,600,900
+Ixtepec,Puebla,C21084,Rango de precipitación,2400,3100
+Izúcar de Matamoros,Puebla,C21085,Rango de precipitación,700,900
+Jalpan,Puebla,C21086,Rango de precipitación,1900,2600
+Jolalpan,Puebla,C21087,Rango de precipitación,800,1000
+Jonotla,Puebla,C21088,Rango de precipitación,2400,4100
+Jopala,Puebla,C21089,Rango de precipitación,2900,3100
+Juan C Bonilla,Puebla,C21090,Rango de precipitación,900,1000
+Juan Galindo,Puebla,C21091,Rango de precipitación,1100,1300
+Juan N Méndez,Puebla,C21092,Rango de precipitación,600,800
+La Fragua,Puebla,C21093,Rango de precipitación,300,1100
+Libres,Puebla,C21094,Rango de precipitación,400,900
+La Magdalena Tlatlauquitepec,Puebla,C21095,Rango de precipitación,700,900
+Mazapiltepec de Juárez,Puebla,C21096,Rango de precipitación,500,900
+Mixtla,Puebla,C21097,Rango de precipitación,600,800
+Molcaxac,Puebla,C21098,Rango de precipitación,600,700
+Cañada Morelos,Puebla,C21099,Rango de precipitación,300,600
+Naupan,Puebla,C21100,Rango de precipitación,1900,2100
+Nauzontla,Puebla,C21101,Rango de precipitación,1900,2600
+Nealtican,Puebla,C21102,Rango de precipitación,800,1000
+Nicolás Bravo,Puebla,C21103,Rango de precipitación,400,700
+Nopalucan,Puebla,C21104,Rango de precipitación,500,900
+Ocotepec,Puebla,C21105,Rango de precipitación,500,900
+Ocoyucan,Puebla,C21106,Rango de precipitación,800,1000
+Olintla,Puebla,C21107,Rango de precipitación,2400,3600
+Oriental,Puebla,C21108,Rango de precipitación,300,600
+Pahuatlán,Puebla,C21109,Rango de precipitación,1900,2100
+Palmar de Bravo,Puebla,C21110,Rango de precipitación,300,700
+Pantepec,Puebla,C21111,Rango de precipitación,1900,2000
+Petlalcingo,Puebla,C21112,Rango de precipitación,700,900
+Piaxtla,Puebla,C21113,Rango de precipitación,700,900
+Puebla,Puebla,C21114,Rango de precipitación,400,900
+Quecholac,Puebla,C21115,Rango de precipitación,400,900
+Quimixtlán,Puebla,C21116,Rango de precipitación,1400,2100
+Rafael Lara Grajales,Puebla,C21117,Rango de precipitación,500,700
+Los Reyes de Juárez,Puebla,C21118,Rango de precipitación,600,800
+San Andrés Cholula,Puebla,C21119,Rango de precipitación,800,1000
+San Antonio Cañada,Puebla,C21120,Rango de precipitación,400,700
+San Diego la Mesa Tochimiltzi,Puebla,C21121,Rango de precipitación,800,1000
+San Felipe Teotlalcingo,Puebla,C21122,Rango de precipitación,900,1000
+San Felipe Tepatlán,Puebla,C21123,Rango de precipitación,2500,3000
+San Gabriel Chilac,Puebla,C21124,Rango de precipitación,300,600
+San Gregorio Atzompa,Puebla,C21125,Rango de precipitación,800,1000
+San Jerónimo Tecuanipan,Puebla,C21126,Rango de precipitación,800,1000
+San Jerónimo Xayacatlán,Puebla,C21127,Rango de precipitación,900,1000
+San José Chiapa,Puebla,C21128,Rango de precipitación,400,700
+San José Miahuatlán,Puebla,C21129,Rango de precipitación,300,600
+San Juan Atenco,Puebla,C21130,Rango de precipitación,500,800
+San Juan Atzompa,Puebla,C21131,Rango de precipitación,600,800
+San Martín Texmelucan,Puebla,C21132,Rango de precipitación,800,1000
+San Martín Totoltepec,Puebla,C21133,Rango de precipitación,900,1000
+San Matías Tlalancaleca,Puebla,C21134,Rango de precipitación,900,1000
+San Miguel Ixitlán,Puebla,C21135,Rango de precipitación,700,800
+San Miguel Xoxtla,Puebla,C21136,Rango de precipitación,800,1000
+San Nicolás Buenos Aires,Puebla,C21137,Rango de precipitación,300,700
+San Nicolás de los Ranchos,Puebla,C21138,Rango de precipitación,900,1300
+San Pablo Anicano,Puebla,C21139,Rango de precipitación,700,900
+San Pedro Cholula,Puebla,C21140,Rango de precipitación,800,1000
+San Pedro Yeloixtlahuaca,Puebla,C21141,Rango de precipitación,700,900
+San Salvador El Seco,Puebla,C21142,Rango de precipitación,300,900
+San Salvador El Verde,Puebla,C21143,Rango de precipitación,900,1100
+San Salvador Huixcolotla,Puebla,C21144,Rango de precipitación,1100,1300
+San Sebastián Tlacotepec,Puebla,C21145,Rango de precipitación,2900,4100
+Santa Catarina Tlaltempan,Puebla,C21146,Rango de precipitación,700,900
+Santa Inés Ahuatempan,Puebla,C21147,Rango de precipitación,700,900
+Santa Isabel Cholula,Puebla,C21148,Rango de precipitación,800,1000
+Santiago Miahuatlán,Puebla,C21149,Rango de precipitación,400,600
+Huehuetlán el Grande,Puebla,C21150,Rango de precipitación,700,900
+Santo Tomás Hueyotlipan,Puebla,C21151,Rango de precipitación,600,700
+Soltepec,Puebla,C21152,Rango de precipitación,500,900
+Tecali de Herrera,Puebla,C21153,Rango de precipitación,600,800
+Tecamachalco,Puebla,C21154,Rango de precipitación,500,700
+Tecomatlán,Puebla,C21155,Rango de precipitación,800,1000
+Tehuacán,Puebla,C21156,Rango de precipitación,400,800
+Tehuitzingo,Puebla,C21157,Rango de precipitación,700,900
+Tenampulco,Puebla,C21158,Rango de precipitación,1900,2100
+Teopantlán,Puebla,C21159,Rango de precipitación,800,1000
+Teotlalco,Puebla,C21160,Rango de precipitación,800,1000
+Tepanco de López,Puebla,C21161,Rango de precipitación,400,800
+Tepango de Rodríguez,Puebla,C21162,Rango de precipitación,1900,2100
+Tepatlaxco de Hidalgo,Puebla,C21163,Rango de precipitación,900,1100
+Tepeaca,Puebla,C21164,Rango de precipitación,600,900
+Tepemaxalco,Puebla,C21165,Rango de precipitación,800,1000
+Tepeojuma,Puebla,C21166,Rango de precipitación,800,1000
+Tepetzintla,Puebla,C21167,Rango de precipitación,1100,1600
+Tepexco,Puebla,C21168,Rango de precipitación,800,1000
+Tepexi de Rodríguez,Puebla,C21169,Rango de precipitación,600,900
+Tepeyahualco,Puebla,C21170,Rango de precipitación,300,700
+Tepeyahualco de Cuauhtémoc,Puebla,C21171,Rango de precipitación,600,700
+Tetela de Ocampo,Puebla,C21172,Rango de precipitación,600,1600
+Teteles de Avila Castillo,Puebla,C21173,Rango de precipitación,1400,1600
+Teziutlán,Puebla,C21174,Rango de precipitación,1100,3600
+Tianguismanalco,Puebla,C21175,Rango de precipitación,900,1100
+Tilapa,Puebla,C21176,Rango de precipitación,800,1000
+Tlacotepec de Benito Juárez,Puebla,C21177,Rango de precipitación,400,800
+Tlacuilotepec,Puebla,C21178,Rango de precipitación,2400,2600
+Tlachichuca,Puebla,C21179,Rango de precipitación,500,1300
+Tlahuapan,Puebla,C21180,Rango de precipitación,900,1100
+Tlaltenango,Puebla,C21181,Rango de precipitación,800,1000
+Tlanepantla,Puebla,C21182,Rango de precipitación,600,700
+Tlaola,Puebla,C21183,Rango de precipitación,2400,2600
+Tlapacoya,Puebla,C21184,Rango de precipitación,2400,2600
+Tlapanalá,Puebla,C21185,Rango de precipitación,800,1000
+Tlatlauquitepec Puebla,Puebla,C21186,Rango de precipitación,600,4100
+Tlaxco,Puebla,C21187,Rango de precipitación,2500,2600
+Tochimilco,Puebla,C21188,Rango de precipitación,800,1300
+Tochtepec,Puebla,C21189,Rango de precipitación,600,700
+Totoltepec de Guerrero,Puebla,C21190,Rango de precipitación,700,900
+Tulcingo,Puebla,C21191,Rango de precipitación,700,1000
+Tuzamapan de Galeana,Puebla,C21192,Rango de precipitación,2400,3600
+Tzicatlacoyan,Puebla,C21193,Rango de precipitación,600,800
+Venustiano Carranza,Puebla,C21194,Rango de precipitación,1400,1600
+Vicente Guerrero,Puebla,C21195,Rango de precipitación,500,1100
+Xayacatlán de Bravo,Puebla,C21196,Rango de precipitación,700,900
+Xicotepec,Puebla,C21197,Rango de precipitación,1900,2600
+Xicotlán,Puebla,C21198,Rango de precipitación,700,900
+Xiutetelco,Puebla,C21199,Rango de precipitación,500,2100
+Xochiapulco,Puebla,C21200,Rango de precipitación,900,1600
+Xochiltepec,Puebla,C21201,Rango de precipitación,800,1000
+Xochitlán de Vicente Suárez,Puebla,C21202,Rango de precipitación,1400,2100
+Xochitlán Todos Santos,Puebla,C21203,Rango de precipitación,600,800
+Yaonáhuac,Puebla,C21204,Rango de precipitación,1400,3600
+Yehualtepec,Puebla,C21205,Rango de precipitación,500,700
+Zacapala,Puebla,C21206,Rango de precipitación,600,900
+Zacapoaxtla,Puebla,C21207,Rango de precipitación,700,2100
+Zacatlán,Puebla,C21208,Rango de precipitación,700,2100
+Zapotitlán,Puebla,C21209,Rango de precipitación,400,700
+Zapotitlán de Méndez,Puebla,C21210,Rango de precipitación,2000,2500
+Zaragoza,Puebla,C21211,Rango de precipitación,700,1100
+Zautla,Puebla,C21212,Rango de precipitación,600,1100
+Zihuateutla,Puebla,C21213,Rango de precipitación,2400,2600
+Zinacatepec,Puebla,C21214,Rango de precipitación,300,500
+Zongozotla,Puebla,C21215,Rango de precipitación,1900,2100
+Zoquiapan,Puebla,C21216,Rango de precipitación,2400,2600
+Zoquitlán,Puebla,C21217,Rango de precipitación,500,3100
+Amealco de Bonfil,Querétaro,C22001,Rango de precipitación,700,1000
+Pinal de Amoles,Querétaro,C22002,Rango de precipitación,500,1100
+Arroyo Seco,Querétaro,C22003,Rango de precipitación,600,900
+Cadereyta de Montes,Querétaro,C22004,Rango de precipitación,400,1100
+Colón,Querétaro,C22005,Rango de precipitación,400,800
+Corregidora,Querétaro,C22006,Rango de precipitación,500,800
+Ezequiel Montes,Querétaro,C22007,Rango de precipitación,400,600
+Huimilpan,Querétaro,C22008,Rango de precipitación,500,800
+Jalpan de Serra,Querétaro,C22009,Rango de precipitación,600,3100
+Landa de Matamoros,Querétaro,C22010,Rango de precipitación,600,1300
+El Marqués,Querétaro,C22011,Rango de precipitación,400,800
+Pedro Escobedo,Querétaro,C22012,Rango de precipitación,500,800
+Peñamiller,Querétaro,C22013,Rango de precipitación,400,1100
+Querétaro,Querétaro,C22014,Rango de precipitación,500,700
+San Joaquín,Querétaro,C22015,Rango de precipitación,600,1000
+San Juan del Río,Querétaro,C22016,Rango de precipitación,500,800
+Tequisquiapan,Querétaro,C22017,Rango de precipitación,400,600
+Tolimán,Querétaro,C22018,Rango de precipitación,400,700
+Cozumel,Quintana Roo,C23001,Rango de precipitación,0,1500
+Felipe Carrillo Puerto,Quintana Roo,C23002,Rango de precipitación,1100,1500
+Isla Mujeres,Quintana Roo,C23003,Rango de precipitación,0,1100
+Othón P Blanco,Quintana Roo,C23004,Rango de precipitación,1100,1500
+Benito Juárez,Quintana Roo,C23005,Rango de precipitación,0,1300
+José María Morelos,Quintana Roo,C23006,Rango de precipitación,1100,1300
+Lázaro Cárdenas,Quintana Roo,C23007,Rango de precipitación,0,1500
+Solidaridad,Quintana Roo,C23008,Rango de precipitación,1100,1500
+Tulum,Quintana Roo,C23009,Rango de precipitación,0,1300
+Ahualulco,San Luis Potosí,C24001,Rango de precipitación,200,500
+Alaquines,San Luis Potosí,C24002,Rango de precipitación,300,1600
+Aquismón,San Luis Potosí,C24003,Rango de precipitación,1500,3000
+Armadillo de los Infante,San Luis Potosí,C24004,Rango de precipitación,300,700
+Cárdenas,San Luis Potosí,C24005,Rango de precipitación,300,1200
+Catorce,San Luis Potosí,C24006,Rango de precipitación,300,700
+Cedral,San Luis Potosí,C24007,Rango de precipitación,300,600
+Cerritos,San Luis Potosí,C24008,Rango de precipitación,300,700
+Cerro de San Pedro,San Luis Potosí,C24009,Rango de precipitación,300,500
+Ciudad del Maíz,San Luis Potosí,C24010,Rango de precipitación,300,2100
+Ciudad Fernández,San Luis Potosí,C24011,Rango de precipitación,400,800
+Tancanhuitz,San Luis Potosí,C24012,Rango de precipitación,1500,2500
+Ciudad Valles,San Luis Potosí,C24013,Rango de precipitación,1000,2000
+Coxcatlán,San Luis Potosí,C24014,Rango de precipitación,1500,2500
+Charcas,San Luis Potosí,C24015,Rango de precipitación,300,600
+Ebano,San Luis Potosí,C24016,Rango de precipitación,900,1100
+Guadalcázar,San Luis Potosí,C24017,Rango de precipitación,300,800
+Huehuetlán,San Luis Potosí,C24018,Rango de precipitación,2400,2600
+Lagunillas,San Luis Potosí,C24019,Rango de precipitación,600,900
+Matehuala,San Luis Potosí,C24020,Rango de precipitación,300,500
+Mexquitic de Carmona,San Luis Potosí,C24021,Rango de precipitación,200,500
+Moctezuma,San Luis Potosí,C24022,Rango de precipitación,300,500
+Rayón,San Luis Potosí,C24023,Rango de precipitación,600,1600
+Rioverde,San Luis Potosí,C24024,Rango de precipitación,300,800
+Salinas,San Luis Potosí,C24025,Rango de precipitación,300,500
+San Antonio,San Luis Potosí,C24026,Rango de precipitación,1000,2500
+San Ciro de Acosta,San Luis Potosí,C24027,Rango de precipitación,500,800
+San Luis Potosí,San Luis Potosí,C24028,Rango de precipitación,200,600
+San Martín Chalchicuautla,San Luis Potosí,C24029,Rango de precipitación,1000,2500
+San Nicolás Tolentino,San Luis Potosí,C24030,Rango de precipitación,500,700
+Santa Catarina,San Luis Potosí,C24031,Rango de precipitación,700,2000
+Santa María del Río,San Luis Potosí,C24032,Rango de precipitación,300,800
+Santo Domingo,San Luis Potosí,C24033,Rango de precipitación,300,500
+San Vicente Tancuayalab,San Luis Potosí,C24034,Rango de precipitación,1000,1500
+Soledad de Graciano Sánchez,San Luis Potosí,C24035,Rango de precipitación,200,500
+Tamasopo,San Luis Potosí,C24036,Rango de precipitación,800,2000
+Tamazunchale,San Luis Potosí,C24037,Rango de precipitación,1500,3000
+Tampacán,San Luis Potosí,C24038,Rango de precipitación,1500,2500
+Tampamolón Corona,San Luis Potosí,C24039,Rango de precipitación,1000,2500
+Tamuín,San Luis Potosí,C24040,Rango de precipitación,800,1500
+Tanlajás,San Luis Potosí,C24041,Rango de precipitación,800,1500
+Tanquián de Escobedo,San Luis Potosí,C24042,Rango de precipitación,1200,1500
+Tierra Nueva,San Luis Potosí,C24043,Rango de precipitación,300,800
+Vanegas,San Luis Potosí,C24044,Rango de precipitación,200,600
+Venado,San Luis Potosí,C24045,Rango de precipitación,300,500
+Villa de Arriaga,San Luis Potosí,C24046,Rango de precipitación,400,600
+Villa de Guadalupe,San Luis Potosí,C24047,Rango de precipitación,300,600
+Villa de la Paz,San Luis Potosí,C24048,Rango de precipitación,400,700
+Villa de Ramos,San Luis Potosí,C24049,Rango de precipitación,300,500
+Villa de Reyes,San Luis Potosí,C24050,Rango de precipitación,300,600
+Villa Hidalgo,San Luis Potosí,C24051,Rango de precipitación,300,700
+Villa Juárez,San Luis Potosí,C24052,Rango de precipitación,300,700
+Axtla de Terrazas,San Luis Potosí,C24053,Rango de precipitación,1900,2600
+Xilitla,San Luis Potosí,C24054,Rango de precipitación,1000,3100
+Zaragoza,San Luis Potosí,C24055,Rango de precipitación,300,700
+Villa de Arista,San Luis Potosí,C24056,Rango de precipitación,300,500
+Matlapa,San Luis Potosí,C24057,Rango de precipitación,2000,3000
+Naranjo,San Luis Potosí,C24058,Rango de precipitación,1000,2100
+Ahome,Sinaloa,C25001,Rango de precipitación,Menos de 200,500
+Angostura,Sinaloa,C25002,Rango de precipitación,400,600
+Angostura,Sinaloa,C25003,Rango de precipitación,600,1200
+Concordia,Sinaloa,C25004,Rango de precipitación,800,1700
+Cosalá,Sinaloa,C25005,Rango de precipitación,600,1300
+Culiacán,Sinaloa,C25006,Rango de precipitación,400,1100
+Choix,Sinaloa,C25007,Rango de precipitación,600,1100
+Elota,Sinaloa,C25008,Rango de precipitación,Menos de 400,900
+Escuinapa,Sinaloa,C25009,Rango de precipitación,900,1300
+El Fuerte,Sinaloa,C25010,Rango de precipitación,300,900
+Guasave,Sinaloa,C25011,Rango de precipitación,Menos de 200,600
+Mazatlán,Sinaloa,C25012,Rango de precipitación,700,1300
+Mocorito,Sinaloa,C25013,Rango de precipitación,400,1100
+Rosario,Sinaloa,C25014,Rango de precipitación,900,1600
+Salvador Alvarado,Sinaloa,C25015,Rango de precipitación,400,800
+San Ignacio,Sinaloa,C25016,Rango de precipitación,700,1300
+Sinaloa,Sinaloa,C25017,Rango de precipitación,300,1100
+Navolato,Sinaloa,C25018,Rango de precipitación,400,600
+Aconchi,Sonora,C26001,Rango de precipitación,300,600
+Agua Prieta,Sonora,C26002,Rango de precipitación,300,600
+Álamos,Sonora,C26003,Rango de precipitación,300,900
+Altar,Sonora,C26004,Rango de precipitación,200,400
+Arivechi,Sonora,C26005,Rango de precipitación,500,800
+Arizpe,Sonora,C26006,Rango de precipitación,400,600
+Atil,Sonora,C26007,Rango de precipitación,200,400
+Bacadéhuachi,Sonora,C26008,Rango de precipitación,400,700
+Bacanora,Sonora,C26009,Rango de precipitación,500,900
+Bacerac,Sonora,C26010,Rango de precipitación,400,700
+Bacoachi,Sonora,C26011,Rango de precipitación,400,600
+Bácum,Sonora,C26012,Rango de precipitación,100,500
+Banámichi,Sonora,C26013,Rango de precipitación,400,600
+Baviácora,Sonora,C26014,Rango de precipitación,300,600
+Bavispe,Sonora,C26015,Rango de precipitación,300,700
+Benjamín Hill,Sonora,C26016,Rango de precipitación,200,400
+Heroica Caborca,Sonora,C26017,Rango de precipitación,50,400
+Cajeme,Sonora,C26018,Rango de precipitación,100,400
+Cananea,Sonora,C26019,Rango de precipitación,300,700
+Carbó,Sonora,C26020,Rango de precipitación,200,500
+La Colorada,Sonora,C26021,Rango de precipitación,200,600
+Cucurpe,Sonora,C26022,Rango de precipitación,300,600
+Cumpas,Sonora,C26023,Rango de precipitación,400,600
+Divisaderos,Sonora,C26024,Rango de precipitación,400,600
+Empalme,Sonora,C26025,Rango de precipitación,0,300
+Etchojoa,Sonora,C26026,Rango de precipitación,0,200
+Fronteras,Sonora,C26027,Rango de precipitación,300,700
+Granados,Sonora,C26028,Rango de precipitación,400,600
+Guaymas,Sonora,C26029,Rango de precipitación,Menos de 100,300
+Hermosillo,Sonora,C26030,Rango de precipitación,Menos de 100,500
+Huachinera,Sonora,C26031,Rango de precipitación,400,600
+Huásabas,Sonora,C26032,Rango de precipitación,400,600
+Huatabampo,Sonora,C26033,Rango de precipitación,Menos de 100,200
+Huépac,Sonora,C26034,Rango de precipitación,200,600
+Imuris,Sonora,C26035,Rango de precipitación,300,600
+Magdalena,Sonora,C26036,Rango de precipitación,300,600
+Mazatán,Sonora,C26037,Rango de precipitación,400,600
+Moctezuma,Sonora,C26038,Rango de precipitación,400,600
+Naco,Sonora,C26039,Rango de precipitación,300,600
+Nácori Chico,Sonora,C26040,Rango de precipitación,400,800
+Nacozari de García,Sonora,C26041,Rango de precipitación,300,700
+Navojoa,Sonora,C26042,Rango de precipitación,300,700
+Nogales,Sonora,C26043,Rango de precipitación,300,600
+Onavas,Sonora,C26044,Rango de precipitación,500,800
+Opodepe,Sonora,C26045,Rango de precipitación,200,600
+Oquitoa,Sonora,C26046,Rango de precipitación,200,400
+Pitiquito,Sonora,C26047,Rango de precipitación,Menos de 100,400
+Puerto Peñasco,Sonora,C26048,Rango de precipitación,Menos de 100,300
+Quiriego,Sonora,C26049,Rango de precipitación,300,800
+Rayón,Sonora,C26050,Rango de precipitación,300,600
+Rosario,Sonora,C26051,Rango de precipitación,400,900
+Sahuaripa,Sonora,C26052,Rango de precipitación,500,900
+San Felipe de Jesús,Sonora,C26053,Rango de precipitación,300,600
+San Javier,Sonora,C26054,Rango de precipitación,500,700
+San Luis Río Colorado,Sonora,C26055,Rango de precipitación,Menos de 100,200
+San Miguel de Horcasitas,Sonora,C26056,Rango de precipitación,200,400
+San Pedro de la Cueva,Sonora,C26057,Rango de precipitación,500,700
+Santa Ana,Sonora,C26058,Rango de precipitación,500,1700
+Santa Cruz,Sonora,C26059,Rango de precipitación,400,600
+Sáric,Sonora,C26060,Rango de precipitación,200,500
+Soyopa,Sonora,C26061,Rango de precipitación,500,800
+Suaqui Grande,Sonora,C26062,Rango de precipitación,400,700
+Tepache,Sonora,C26063,Rango de precipitación,400,600
+Trincheras,Sonora,C26064,Rango de precipitación,200,400
+Tubutama,Sonora,C26065,Rango de precipitación,200,500
+Ures,Sonora,C26066,Rango de precipitación,300,600
+Villa Hidalgo,Sonora,C26067,Rango de precipitación,300,700
+Villa Pesqueira,Sonora,C26068,Rango de precipitación,400,600
+Yécora,Sonora,C26069,Rango de precipitación,600,900
+General Plutarco Elías Calles,Sonora,C26070,Rango de precipitación,Menos de 100,300
+Benito Juárez,Sonora,C26071,Rango de precipitación,Menos de 100,300
+San Ignacio Río Muerto,Sonora,C26072,Rango de precipitación,Menos de 100,300
+Balancán,Tabasco,C27001,Rango de precipitación,1500,2500
+Cárdenas,Tabasco,C27002,Rango de precipitación,2000,2500
+Centla,Tabasco,C27003,Rango de precipitación,1500,2000
+Centro,Tabasco,C27004,Rango de precipitación,1500,3000
+Comalcalco,Tabasco,C27005,Rango de precipitación,1500,2500
+Cunduacán,Tabasco,C27006,Rango de precipitación,1500,2500
+Emiliano Zapata,Tabasco,C27007,Rango de precipitación,1500,3000
+Huimanguillo,Tabasco,C27008,Rango de precipitación,2000,3500
+Jalapa,Tabasco,C27009,Rango de precipitación,2000,3500
+Jalpa de Méndez,Tabasco,C27010,Rango de precipitación,1500,2000
+Jonuta,Tabasco,C27011,Rango de precipitación,1500,2500
+Macuspana,Tabasco,C27012,Rango de precipitación,1500,4500
+Nacajuca,Tabasco,C27013,Rango de precipitación,1500,2500
+Paraíso,Tabasco,C27014,Rango de precipitación,1500,2500
+Tacotalpa,Tabasco,C27015,Rango de precipitación,2000,4500
+Teapa,Tabasco,C27016,Rango de precipitación,2000,4500
+Tenosique,Tabasco,C27017,Rango de precipitación,1500,2500
+Abasolo,Tamaulipas,C28001,Rango de precipitación,600,900
+Aldama,Tamaulipas,C28002,Rango de precipitación,900,1100
+Altamira,Tamaulipas,C28003,Rango de precipitación,900,1100
+Antiguo Morelos,Tamaulipas,C28004,Rango de precipitación,1100,1300
+Burgos,Tamaulipas,C28005,Rango de precipitación,600,900
+Bustamante,Tamaulipas,C28006,Rango de precipitación,500,700
+Camargo,Tamaulipas,C28007,Rango de precipitación,400,600
+Casas,Tamaulipas,C28008,Rango de precipitación,600,1200
+Ciudad Madero,Tamaulipas,C28009,Rango de precipitación,900,1100
+Cruillas,Tamaulipas,C28010,Rango de precipitación,600,900
+Gómez Farías,Tamaulipas,C28011,Rango de precipitación,900,1300
+González,Tamaulipas,C28012,Rango de precipitación,700,1100
+Güémez,Tamaulipas,C28013,Rango de precipitación,600,1100
+Guerrero,Tamaulipas,C28014,Rango de precipitación,600,900
+Gustavo Díaz Ordaz,Tamaulipas,C28015,Rango de precipitación,400,600
+Hidalgo,Tamaulipas,C28016,Rango de precipitación,600,1100
+Jaumave,Tamaulipas,C28017,Rango de precipitación,400,1100
+Jiménez,Tamaulipas,C28018,Rango de precipitación,600,900
+Llera,Tamaulipas,C28019,Rango de precipitación,600,1200
+Mainero,Tamaulipas,C28020,Rango de precipitación,700,1100
+El Mante,Tamaulipas,C28021,Rango de precipitación,900,1300
+Matamoros,Tamaulipas,C28022,Rango de precipitación,500,700
+Méndez,Tamaulipas,C28023,Rango de precipitación,500,800
+Mier,Tamaulipas,C28024,Rango de precipitación,400,700
+Miguel Alemán,Tamaulipas,C28025,Rango de precipitación,500,700
+Miquihuana,Tamaulipas,C28026,Rango de precipitación,300,900
+Nuevo Laredo,Tamaulipas,C28027,Rango de precipitación,400,600
+Nuevo Morelos,Tamaulipas,C28028,Rango de precipitación,1100,1600
+Ocampo,Tamaulipas,C28029,Rango de precipitación,900,1600
+Padilla,Tamaulipas,C28030,Rango de precipitación,600,800
+Palmillas,Tamaulipas,C28031,Rango de precipitación,400,900
+Reynosa,Tamaulipas,C28032,Rango de precipitación,400,700
+Río Bravo,Tamaulipas,C28033,Rango de precipitación,400,700
+San Carlos,Tamaulipas,C28034,Rango de precipitación,600,1100
+San Fernando,Tamaulipas,C28035,Rango de precipitación,500,800
+San Nicolás,Tamaulipas,C28036,Rango de precipitación,700,900
+Soto la Marina,Tamaulipas,C28037,Rango de precipitación,700,1100
+Tampico,Tamaulipas,C28038,Rango de precipitación,900,1100
+Tula,Tamaulipas,C28039,Rango de precipitación,300,1300
+Valle Hermoso,Tamaulipas,C28040,Rango de precipitación,500,700
+Victoria,Tamaulipas,C28041,Rango de precipitación,400,1100
+Villagrán,Tamaulipas,C28042,Rango de precipitación,600,1200
+Xicoténcatl,Tamaulipas,C28043,Rango de precipitación,700,1300
+Amaxac de Guerrero,Tlaxcala,C29001,Rango de precipitación,800,1000
+Apetatitlán de Antonio Carvajal,Tlaxcala,C29002,Rango de precipitación,800,1000
+Atlangatepec,Tlaxcala,C29003,Rango de precipitación,600,700
+Altzayanca,Tlaxcala,C29004,Rango de precipitación,600,900
+Apizaco,Tlaxcala,C29005,Rango de precipitación,600,900
+Calpulalpan,Tlaxcala,C29006,Rango de precipitación,500,800
+El Carmen Tequexquitla,Tlaxcala,C29007,Rango de precipitación,400,600
+Cuapiaxtla,Tlaxcala,C29008,Rango de precipitación,500,600
+Cuaxomulco,Tlaxcala,C29009,Rango de precipitación,700,1000
+Chiautempan,Tlaxcala,C29010,Rango de precipitación,800,1000
+Muñoz de Domingo Arenas,Tlaxcala,C29011,Rango de precipitación,600,800
+Españita,Tlaxcala,C29012,Rango de precipitación,700,800
+Huamantla,Tlaxcala,C29013,Rango de precipitación,500,1100
+Hueyotlipan,Tlaxcala,C29014,Rango de precipitación,600,900
+Ixtacuixtla de Mariano Matamoros,Tlaxcala,C29015,Rango de precipitación,800,1000
+Ixtenco,Tlaxcala,C29016,Rango de precipitación,600,1100
+Mazatecochco de José María Morelos,Tlaxcala,C29017,Rango de precipitación,800,1000
+Contla de Juan Cuamatzi,Tlaxcala,C29018,Rango de precipitación,800,1000
+Tepetitla de Lardizábal,Tlaxcala,C29019,Rango de precipitación,800,1000
+Sanctórum de Lázaro Cárdenas,Tlaxcala,C29020,Rango de precipitación,800,1000
+Nanacamilpa de Mariano Arista,Tlaxcala,C29021,Rango de precipitación,700,800
+Acuamanala de Miguel Hidalgo,Tlaxcala,C29022,Rango de precipitación,800,1000
+Natívitas,Tlaxcala,C29023,Rango de precipitación,800,1000
+Panotla,Tlaxcala,C29024,Rango de precipitación,700,1000
+San Pablo del Monte,Tlaxcala,C29025,Rango de precipitación,800,1000
+Santa Cruz Tlaxcala,Tlaxcala,C29026,Rango de precipitación,800,1000
+Tenancingo,Tlaxcala,C29027,Rango de precipitación,800,1000
+Teolocholco,Tlaxcala,C29028,Rango de precipitación,800,1000
+Tepeyanco,Tlaxcala,C29029,Rango de precipitación,800,1000
+Terrenate,Tlaxcala,C29030,Rango de precipitación,600,900
+Tetla de la Solidaridad,Tlaxcala,C29031,Rango de precipitación,600,900
+Tetlatlahuca,Tlaxcala,C29032,Rango de precipitación,800,1000
+Tlaxcala,Tlaxcala,C29033,Rango de precipitación,800,1000
+Tlaxco,Tlaxcala,C29034,Rango de precipitación,600,900
+Tocatlán,Tlaxcala,C29035,Rango de precipitación,600,800
+Totolac,Tlaxcala,C29036,Rango de precipitación,800,1000
+Zitlaltepec de Trinidad Sánchez Santos,Tlaxcala,C29037,Rango de precipitación,600,1100
+Tzompantepec,Tlaxcala,C29038,Rango de precipitación,700,900
+Xaloztoc,Tlaxcala,C29039,Rango de precipitación,700,800
+Xaltocan,Tlaxcala,C29040,Rango de precipitación,700,900
+Papalotla de Xicohténcatl,Tlaxcala,C29041,Rango de precipitación,800,1000
+Xicohtzinco,Tlaxcala,C29042,Rango de precipitación,800,1000
+Yauhquemecan,Tlaxcala,C29043,Rango de precipitación,800,1000
+Zacatelco,Tlaxcala,C29044,Rango de precipitación,800,1000
+Benito Juárez,Tlaxcala,C29045,Rango de precipitación,600,700
+Emiliano Zapata,Tlaxcala,C29046,Rango de precipitación,600,800
+Lázaro Cárdenas,Tlaxcala,C29047,Rango de precipitación,700,800
+La Magdalena Tlaltelulco,Tlaxcala,C29048,Rango de precipitación,800,1000
+San Damián Texoloc,Tlaxcala,C29049,Rango de precipitación,800,1000
+San Francisco Tetlanohcan,Tlaxcala,C29050,Rango de precipitación,800,1000
+San Jerónimo Zacualpan,Tlaxcala,C29051,Rango de precipitación,800,1000
+San José Teacalco,Tlaxcala,C29052,Rango de precipitación,800,1000
+San Juan Huactzinco,Tlaxcala,C29053,Rango de precipitación,800,1000
+San Lorenzo Axocomanitla,Tlaxcala,C29054,Rango de precipitación,800,1000
+San Lucas Tecopilco,Tlaxcala,C29055,Rango de precipitación,600,900
+Santa Ana Nopalucan,Tlaxcala,C29056,Rango de precipitación,800,1000
+Santa Apolonia Teacalco,Tlaxcala,C29057,Rango de precipitación,800,1000
+Santa Catarina Ayometla,Tlaxcala,C29058,Rango de precipitación,800,1000
+Santa Cruz Quilehtla,Tlaxcala,C29059,Rango de precipitación,800,1000
+Santa Isabel Xiloxoxtla,Tlaxcala,C29060,Rango de precipitación,800,1000
+Acajete,Veracruz de Ignacio de la Llave,C30001,Rango de precipitación,1400,1600
+Acatlán,Veracruz de Ignacio de la Llave,C30002,Rango de precipitación,1500,2000
+Acayucan,Veracruz de Ignacio de la Llave,C30003,Rango de precipitación,1400,1600
+Actopan,Veracruz de Ignacio de la Llave,C30004,Rango de precipitación,1100,1300
+Acula,Veracruz de Ignacio de la Llave,C30005,Rango de precipitación,1400,1600
+Acultzingo,Veracruz de Ignacio de la Llave,C30006,Rango de precipitación,500,900
+Camarón de Tejeda,Veracruz de Ignacio de la Llave,C30007,Rango de precipitación,900,1300
+Alpatláhuac,Veracruz de Ignacio de la Llave,C30008,Rango de precipitación,1400,1600
+Alto Lucero de Gutiérrez Barrios,Veracruz de Ignacio de la Llave,C30009,Rango de precipitación,1100,1600
+Altotonga,Veracruz de Ignacio de la Llave,C30010,Rango de precipitación,500,2100
+Alvarado,Veracruz de Ignacio de la Llave,C30011,Rango de precipitación,1400,2100
+Amatitlán,Veracruz de Ignacio de la Llave,C30012,Rango de precipitación,1200,1500
+Naranjos Amatlán,Veracruz de Ignacio de la Llave,C30013,Rango de precipitación,1400,1600
+Amatlán de los Reyes,Veracruz de Ignacio de la Llave,C30014,Rango de precipitación,1900,2600
+Angel R Cabada,Veracruz de Ignacio de la Llave,C30015,Rango de precipitación,1900,3600
+La Antigua,Veracruz de Ignacio de la Llave,C30016,Rango de precipitación,1100,1300
+Apazapan,Veracruz de Ignacio de la Llave,C30017,Rango de precipitación,900,1100
+Aquila,Veracruz de Ignacio de la Llave,C30018,Rango de precipitación,400,700
+Astacinga,Veracruz de Ignacio de la Llave,C30019,Rango de precipitación,1100,2100
+Atlahuilco,Veracruz de Ignacio de la Llave,C30020,Rango de precipitación,1100,2100
+Atoyac,Veracruz de Ignacio de la Llave,C30021,Rango de precipitación,1400,1600
+Atzacan,Veracruz de Ignacio de la Llave,C30022,Rango de precipitación,1900,2100
+Atzalan,Veracruz de Ignacio de la Llave,C30023,Rango de precipitación,1900,2600
+Tlaltetela,Veracruz de Ignacio de la Llave,C30024,Rango de precipitación,900,2100
+Ayahualulco,Veracruz de Ignacio de la Llave,C30025,Rango de precipitación,300,1600
+Banderilla,Veracruz de Ignacio de la Llave,C30026,Rango de precipitación,1400,1600
+Benito Juárez,Veracruz de Ignacio de la Llave,C30027,Rango de precipitación,1900,2100
+Boca del Río,Veracruz de Ignacio de la Llave,C30028,Rango de precipitación,1500,2000
+Calcahualco,Veracruz de Ignacio de la Llave,C30029,Rango de precipitación,900,1600
+Camerino Z Mendoza,Veracruz de Ignacio de la Llave,C30030,Rango de precipitación,900,1600
+Carrillo Puerto,Veracruz de Ignacio de la Llave,C30031,Rango de precipitación,1400,1600
+Catemaco,Veracruz de Ignacio de la Llave,C30032,Rango de precipitación,1900,4600
+Cazones de Herrera,Veracruz de Ignacio de la Llave,C30033,Rango de precipitación,1400,1600
+Cerro Azul,Veracruz de Ignacio de la Llave,C30034,Rango de precipitación,1400,1600
+Citlaltépetl,Veracruz de Ignacio de la Llave,C30035,Rango de precipitación,1400,1600
+Coacoatzintla,Veracruz de Ignacio de la Llave,C30036,Rango de precipitación,1500,2000
+Coahuitlán,Veracruz de Ignacio de la Llave,C30037,Rango de precipitación,2400,2600
+Coatepec,Veracruz de Ignacio de la Llave,C30038,Rango de precipitación,1100,2100
+Coatzacoalcos,Veracruz de Ignacio de la Llave,C30039,Rango de precipitación,2400,2600
+Coatzintla,Veracruz,C30040,Rango de precipitación,1100,1600
+Coetzala,Veracruz de Ignacio de la Llave,C30041,Rango de precipitación,2400,2600
+Colipa,Veracruz de Ignacio de la Llave,C30042,Rango de precipitación,1900,2100
+Comapa,Veracruz de Ignacio de la Llave,C30043,Rango de precipitación,900,1600
+Córdoba,Veracruz de Ignacio de la Llave,C30044,Rango de precipitación,1900,2100
+Cosamaloapan de Carpio,Veracruz de Ignacio de la Llave,C30045,Rango de precipitación,1400,2100
+Cosautlán de Carvajal,Veracruz de Ignacio de la Llave,C30046,Rango de precipitación,1900,2100
+Coscomatepec,Veracruz de Ignacio de la Llave,C30047,Rango de precipitación,1400,1600
+Cosoleacaque,Veracruz de Ignacio de la Llave,C30048,Rango de precipitación,1900,2600
+Cotaxtla,Veracruz de Ignacio de la Llave,C30049,Rango de precipitación,1100,1300
+Coxquihui,Veracruz de Ignacio de la Llave,C30050,Rango de precipitación,1900,3100
+Coyutla,Veracruz de Ignacio de la Llave,C30051,Rango de precipitación,1900,2600
+Cuichapa,Veracruz de Ignacio de la Llave,C30052,Rango de precipitación,2400,2600
+Cuitláhuac,Veracruz de Ignacio de la Llave,C30053,Rango de precipitación,1400,2100
+Chacaltianguis,Veracruz de Ignacio de la Llave,C30054,Rango de precipitación,1400,1600
+Chalma,Veracruz de Ignacio de la Llave,C30055,Rango de precipitación,1400,1600
+Chiconamel,Veracruz de Ignacio de la Llave,C30056,Rango de precipitación,1400,1600
+Chiconquiaco,Veracruz de Ignacio de la Llave,C30057,Rango de precipitación,1500,2000
+Chicontepec,Veracruz de Ignacio de la Llave,C30058,Rango de precipitación,1400,1600
+Chinameca,Veracruz de Ignacio de la Llave,C30059,Rango de precipitación,1900,2600
+Chinampa de Gorostiza,Veracruz de Ignacio de la Llave,C30060,Rango de precipitación,1400,1600
+Las Choapas,Veracruz de Ignacio de la Llave,C30061,Rango de precipitación,2400,3100
+Chocamán,Veracruz de Ignacio de la Llave,C30062,Rango de precipitación,1500,2000
+Chontla,Veracruz de Ignacio de la Llave,C30063,Rango de precipitación,1100,1600
+Chumatlán,Veracruz de Ignacio de la Llave,C30064,Rango de precipitación,2400,2600
+Emiliano Zapata,Veracruz de Ignacio de la Llave,C30065,Rango de precipitación,900,1300
+Espinal,Veracruz de Ignacio de la Llave,C30066,Rango de precipitación,1400,2100
+Filomeno Mata,Veracruz de Ignacio de la Llave,C30067,Rango de precipitación,2900,3100
+Fortín,Veracruz de Ignacio de la Llave,C30068,Rango de precipitación,1900,2100
+Gutiérrez Zamora,Veracruz de Ignacio de la Llave,C30069,Rango de precipitación,1400,1600
+Hidalgotitlán,Veracruz de Ignacio de la Llave,C30070,Rango de precipitación,1900,2600
+Huatusco,Veracruz de Ignacio de la Llave,C30071,Rango de precipitación,1100,1600
+Huayacocotla,Veracruz de Ignacio de la Llave,C30072,Rango de precipitación,500,2600
+Hueyapan de Ocampo,Veracruz de Ignacio de la Llave,C30073,Rango de precipitación,1100,4100
+Huiloapan de Cuauhtémoc,Veracruz de Ignacio de la Llave,C30074,Rango de precipitación,1100,1600
+Ignacio de la Llave,Veracruz de Ignacio de la Llave,C30075,Rango de precipitación,1400,1600
+Ilamatlán,Veracruz de Ignacio de la Llave,C30076,Rango de precipitación,1900,2600
+Isla,Veracruz de Ignacio de la Llave,C30077,Rango de precipitación,1100,1600
+Ixcatepec,Veracruz de Ignacio de la Llave,C30078,Rango de precipitación,1100,1300
+Ixhuacán de los Reyes,Veracruz de Ignacio de la Llave,C30079,Rango de precipitación,900,2100
+Ixhuatlán del Café,Veracruz de Ignacio de la Llave,C30080,Rango de precipitación,1900,2100
+Ixhuatlancillo,Veracruz de Ignacio de la Llave,C30081,Rango de precipitación,1100,1600
+Ixhuatlán del Sureste,Veracruz de Ignacio de la Llave,C30082,Rango de precipitación,1100,1300
+Ixhuatlán de Madero,Veracruz de Ignacio de la Llave,C30083,Rango de precipitación,1400,2100
+Ixmatlahuacan,Veracruz de Ignacio de la Llave,C30084,Rango de precipitación,1400,1600
+Ixtaczoquitlán,Veracruz de Ignacio de la Llave,C30085,Rango de precipitación,1900,2600
+Jalacingo,Veracruz de Ignacio de la Llave,C30086,Rango de precipitación,500,3100
+Xalapa,Veracruz de Ignacio de la Llave,C30087,Rango de precipitación,1100,1600
+Jalcomulco,Veracruz de Ignacio de la Llave,C30088,Rango de precipitación,1100,1300
+Jáltipan,Veracruz de Ignacio de la Llave,C30089,Rango de precipitación,1500,2000
+Jamapa,Veracruz de Ignacio de la Llave,C30090,Rango de precipitación,1100,1300
+Jesús Carranza,Veracruz de Ignacio de la Llave,C30091,Rango de precipitación,1900,2600
+Xico,Veracruz de Ignacio de la Llave,C30092,Rango de precipitación,1100,2100
+Jilotepec,Veracruz de Ignacio de la Llave,C30093,Rango de precipitación,1400,1600
+Juan Rodríguez Clara,Veracruz de Ignacio de la Llave,C30094,Rango de precipitación,1100,1600
+Juchique de Ferrer,Veracruz de Ignacio de la Llave,C30095,Rango de precipitación,1500,2000
+Landero y Coss,Veracruz de Ignacio de la Llave,C30096,Rango de precipitación,1500,2000
+Lerdo de Tejada,Veracruz de Ignacio de la Llave,C30097,Rango de precipitación,2000,2500
+Magdalena,Veracruz de Ignacio de la Llave,C30098,Rango de precipitación,2400,2600
+Maltrata,Veracruz de Ignacio de la Llave,C30099,Rango de precipitación,500,1100
+Manlio Fabio Altamirano,Veracruz de Ignacio de la Llave,C30100,Rango de precipitación,900,1100
+Mariano Escobedo,Veracruz de Ignacio de la Llave,C30101,Rango de precipitación,900,1600
+Martínez de la Torre,Veracruz de Ignacio de la Llave,C30102,Rango de precipitación,1900,2100
+Mecatlán,Veracruz de Ignacio de la Llave,C30103,Rango de precipitación,2900,3100
+Mecayapan,Veracruz de Ignacio de la Llave,C30104,Rango de precipitación,1900,4100
+Medellín,Veracruz de Ignacio de la Llave,C30105,Rango de precipitación,1100,1600
+Miahuatlán,Veracruz de Ignacio de la Llave,C30106,Rango de precipitación,1500,2000
+Las Minas,Veracruz de Ignacio de la Llave,C30107,Rango de precipitación,1100,1600
+Minatitlán,Veracruz de Ignacio de la Llave,C30108,Rango de precipitación,1900,2600
+Misantla,Veracruz de Ignacio de la Llave,C30109,Rango de precipitación,1900,2100
+Mixtla de Altamirano,Veracruz de Ignacio de la Llave,C30110,Rango de precipitación,2400,2600
+Moloacán,Veracruz de Ignacio de la Llave,C30111,Rango de precipitación,2000,2500
+Naolinco,Veracruz de Ignacio de la Llave,C30112,Rango de precipitación,1100,1600
+Naranjal,Veracruz de Ignacio de la Llave,C30113,Rango de precipitación,2400,2600
+Nautla,Veracruz de Ignacio de la Llave,C30114,Rango de precipitación,1400,2100
+Nogales,Veracruz de Ignacio de la Llave,C30115,Rango de precipitación,900,1300
+Oluta,Veracruz de Ignacio de la Llave,C30116,Rango de precipitación,1500,2000
+Omealca,Veracruz de Ignacio de la Llave,C30117,Rango de precipitación,1400,2600
+Orizaba,Veracruz de Ignacio de la Llave,C30118,Rango de precipitación,1500,2000
+Otatitlán,Veracruz de Ignacio de la Llave,C30119,Rango de precipitación,1900,2100
+Oteapan,Veracruz de Ignacio de la Llave,C30120,Rango de precipitación,1900,2100
+Ozuluama de Mascareñas,Veracruz de Ignacio de la Llave,C30121,Rango de precipitación,1100,1300
+Pajapan,Veracruz de Ignacio de la Llave,C30122,Rango de precipitación,1900,4100
+Pánuco,Veracruz de Ignacio de la Llave,C30123,Rango de precipitación,900,1100
+Papantla,Veracruz de Ignacio de la Llave,C30124,Rango de precipitación,1100,1600
+Paso del Macho,Veracruz de Ignacio de la Llave,C30125,Rango de precipitación,1100,1600
+Paso de Ovejas,Veracruz de Ignacio de la Llave,C30126,Rango de precipitación,900,1300
+La Perla,Veracruz de Ignacio de la Llave,C30127,Rango de precipitación,900,1600
+Perote,Veracruz de Ignacio de la Llave,C30128,Rango de precipitación,300,1300
+Platón Sánchez,Veracruz de Ignacio de la Llave,C30129,Rango de precipitación,1200,1500
+Playa Vicente,Veracruz de Ignacio de la Llave,C30130,Rango de precipitación,1400,2600
+Poza Rica de Hidalgo,Veracruz de Ignacio de la Llave,C30131,Rango de precipitación,1100,1300
+Las Vigas de Ramírez,Veracruz de Ignacio de la Llave,C30132,Rango de precipitación,900,1600
+Pueblo Viejo,Veracruz de Ignacio de la Llave,C30133,Rango de precipitación,1100,1200
+Puente Nacional,Veracruz de Ignacio de la Llave,C30134,Rango de precipitación,900,1600
+Rafael Delgado,Veracruz de Ignacio de la Llave,C30135,Rango de precipitación,1400,2100
+Rafael Lucio,Veracruz de Ignacio de la Llave,C30136,Rango de precipitación,1500,2000
+Los Reyes,Veracruz de Ignacio de la Llave,C30137,Rango de precipitación,1900,2600
+Río Blanco,Veracruz de Ignacio de la Llave,C30138,Rango de precipitación,1100,1600
+Saltabarranca,Veracruz de Ignacio de la Llave,C30139,Rango de precipitación,1900,2100
+San Andrés Tenejapan,Veracruz de Ignacio de la Llave,C30140,Rango de precipitación,1900,2100
+San Andrés Tuxtla,Veracruz de Ignacio de la Llave,C30141,Rango de precipitación,1100,4600
+San Juan Evangelista,Veracruz de Ignacio de la Llave,C30142,Rango de precipitación,1400,1600
+Santiago Tuxtla,Veracruz de Ignacio de la Llave,C30143,Rango de precipitación,1400,3600
+Sayula de Alemán,Veracruz de Ignacio de la Llave,C30144,Rango de precipitación,1500,2000
+Soconusco,Veracruz de Ignacio de la Llave,C30145,Rango de precipitación,1500,2000
+Sochiapa,Veracruz de Ignacio de la Llave,C30146,Rango de precipitación,1500,2000
+Soledad Atzompa,Veracruz de Ignacio de la Llave,C30147,Rango de precipitación,700,1300
+Soledad de Doblado,Veracruz de Ignacio de la Llave,C30148,Rango de precipitación,900,1100
+Soteapan,Veracruz de Ignacio de la Llave,C30149,Rango de precipitación,1900,4600
+Tamalín,Veracruz de Ignacio de la Llave,C30150,Rango de precipitación,1400,1600
+Tamiahua,Veracruz de Ignacio de la Llave,C30151,Rango de precipitación,1200,1500
+Tampico Alto,Veracruz de Ignacio de la Llave,C30152,Rango de precipitación,1100,1300
+Tancoco,Veracruz de Ignacio de la Llave,C30153,Rango de precipitación,1100,1500
+Tantima,Veracruz de Ignacio de la Llave,C30154,Rango de precipitación,1400,1600
+Tantoyuca,Veracruz de Ignacio de la Llave,C30155,Rango de precipitación,1100,1300
+Tatatila,Veracruz de Ignacio de la Llave,C30156,Rango de precipitación,1100,1600
+Castillo de Teayo,Veracruz de Ignacio de la Llave,C30157,Rango de precipitación,1200,1500
+Tecolutla,Veracruz de Ignacio de la Llave,C30158,Rango de precipitación,1400,1600
+Tehuipango,Veracruz de Ignacio de la Llave,C30159,Rango de precipitación,1100,2100
+Álamo Temapache,Veracruz de Ignacio de la Llave,C30160,Rango de precipitación,1400,1600
+Tempoal,Veracruz de Ignacio de la Llave,C30161,Rango de precipitación,1100,1300
+Tenampa,Veracruz de Ignacio de la Llave,C30162,Rango de precipitación,1100,1600
+Tenochtitlán,Veracruz de Ignacio de la Llave,C30163,Rango de precipitación,1900,2100
+Teocelo,Veracruz de Ignacio de la Llave,C30164,Rango de precipitación,1400,2100
+Tepatlaxco,Veracruz de Ignacio de la Llave,C30165,Rango de precipitación,1500,2000
+Tepetlán,Veracruz de Ignacio de la Llave,C30166,Rango de precipitación,1100,1600
+Tepetzintla,Veracruz de Ignacio de la Llave,C30167,Rango de precipitación,1400,1600
+Tequila,Veracruz de Ignacio de la Llave,C30168,Rango de precipitación,1400,2600
+José Azueta,Veracruz de Ignacio de la Llave,C30169,Rango de precipitación,1400,1600
+Texcatepec,Veracruz de Ignacio de la Llave,C30170,Rango de precipitación,1900,2600
+Texhuacán,Veracruz de Ignacio de la Llave,C30171,Rango de precipitación,1900,2600
+Texistepec,Veracruz de Ignacio de la Llave,C30172,Rango de precipitación,1900,2100
+Tezonapa,Veracruz de Ignacio de la Llave,C30173,Rango de precipitación,2400,3100
+Tierra Blanca,Veracruz de Ignacio de la Llave,C30174,Rango de precipitación,1400,2100
+Tihuatlán,Veracruz de Ignacio de la Llave,C30175,Rango de precipitación,1100,1300
+Tlacojalpan,Veracruz de Ignacio de la Llave,C30176,Rango de precipitación,1500,2000
+Tlacolulan,Veracruz de Ignacio de la Llave,C30177,Rango de precipitación,1500,2000
+Tlacotalpan,Veracruz de Ignacio de la Llave,C30178,Rango de precipitación,1400,2100
+Tlacotepec de Mejía,Veracruz de Ignacio de la Llave,C30179,Rango de precipitación,1100,1600
+Tlachichilco,Veracruz de Ignacio de la Llave,C30180,Rango de precipitación,1900,2600
+Tlalixcoyan,Veracruz de Ignacio de la Llave,C30181,Rango de precipitación,1400,1600
+Tlalnelhuayocan,Veracruz de Ignacio de la Llave,C30182,Rango de precipitación,1900,2100
+Tlapacoyan,Veracruz de Ignacio de la Llave,C30183,Rango de precipitación,1900,3600
+Tlaquilpa,Veracruz de Ignacio de la Llave,C30184,Rango de precipitación,1100,2100
+Tlilapan,Veracruz de Ignacio de la Llave,C30185,Rango de precipitación,1900,2100
+Tomatlán,Veracruz de Ignacio de la Llave,C30186,Rango de precipitación,1500,2000
+Tonayán,Veracruz de Ignacio de la Llave,C30187,Rango de precipitación,1500,2000
+Totutla,Veracruz de Ignacio de la Llave,C30188,Rango de precipitación,1500,2000
+Tuxpan,Veracruz de Ignacio de la Llave,C30189,Rango de precipitación,1400,1600
+Tuxtilla,Veracruz de Ignacio de la Llave,C30190,Rango de precipitación,1500,2000
+Ursulo Galván,Veracruz de Ignacio de la Llave,C30191,Rango de precipitación,1100,1300
+Vega de Alatorre,Veracruz de Ignacio de la Llave,C30192,Rango de precipitación,1400,2100
+Veracruz,Veracruz de Ignacio de la Llave,C30193,Rango de precipitación,1100,1600
+Villa Aldama,Veracruz de Ignacio de la Llave,C30194,Rango de precipitación,600,1100
+Xoxocotla,Veracruz de Ignacio de la Llave,C30195,Rango de precipitación,100,1100
+Yanga,Veracruz de Ignacio de la Llave,C30196,Rango de precipitación,1900,2600
+Yecuatla,Veracruz de Ignacio de la Llave,C30197,Rango de precipitación,1900,2100
+Zacualpan,Veracruz de Ignacio de la Llave,C30198,Rango de precipitación,1100,2600
+Zaragoza,Veracruz de Ignacio de la Llave,C30199,Rango de precipitación,1900,2100
+Zentla,Veracruz de Ignacio de la Llave,C30200,Rango de precipitación,1100,1600
+Zongolica,Veracruz de Ignacio de la Llave,C30201,Rango de precipitación,2400,3100
+Zontecomatlán de López y Fuentes,Veracruz de Ignacio de la Llave,C30202,Rango de precipitación,2400,2600
+Zozocolco de Hidalgo,Veracruz de Ignacio de la Llave,C30203,Rango de precipitación,2400,3600
+Agua Dulce,Veracruz de Ignacio de la Llave,C30204,Rango de precipitación,50,70
+El Higo,Veracruz de Ignacio de la Llave,C30205,Rango de precipitación,1100,1300
+Nanchital de Lázaro Cárdenas del Río,Veracruz de Ignacio de la Llave,C30206,Rango de precipitación,2400,2600
+Tres Valles,Veracruz de Ignacio de la Llave,C30207,Rango de precipitación,1900,2100
+Carlos A Carrillo,Veracruz de Ignacio de la Llave,C30208,Rango de precipitación,1400,1600
+Tatahuicapan de Juárez,Veracruz de Ignacio de la Llave,C30209,Rango de precipitación,2500,4500
+Uxpanapa,Veracruz de Ignacio de la Llave,C30210,Rango de precipitación,2900,3100
+San Rafael,Veracruz de Ignacio de la Llave,C30211,Rango de precipitación,1400,1600
+Santiago Sochiapan,Veracruz de Ignacio de la Llave,C30212,Rango de precipitación,1900,2600
+Abalá,Yucatán,C31001,Rango de precipitación,1000,1100
+Acanceh,Yucatán,C31002,Rango de precipitación,1000,1100
+Akil,Yucatán,C31003,Rango de precipitación,1000,1100
+Baca,Yucatán,C31004,Rango de precipitación,500,1100
+Bokobá,Yucatán,C31005,Rango de precipitación,1000,1100
+Buctzotz,Yucatán,C31006,Rango de precipitación,600,1100
+Cacalchén,Yucatán,C31007,Rango de precipitación,1000,1100
+Calotmul,Yucatán,C31008,Rango de precipitación,1000,1300
+Cansahcab,Yucatán,C31009,Rango de precipitación,700,1100
+Cantamayec,Yucatán,C31010,Rango de precipitación,1000,1100
+Celestún,Yucatán,C31011,Rango de precipitación,600,1000
+Cenotillo,Yucatán,C31012,Rango de precipitación,1000,1200
+Conkal,Yucatán,C31013,Rango de precipitación,700,1100
+Cuncunul,Yucatán,C31014,Rango de precipitación,1100,1300
+Cuzamá,Yucatán,C31015,Rango de precipitación,1000,1100
+Chacsinkín,Yucatán,C31016,Rango de precipitación,1000,1100
+Chankom,Yucatán,C31017,Rango de precipitación,1100,1300
+Chapab,Yucatán,C31018,Rango de precipitación,1000,1100
+Chemax,Yucatán,C31019,Rango de precipitación,1200,1500
+Chicxulub Pueblo,Yucatán,C31020,Rango de precipitación,600,1000
+Chichimilá,Yucatán,C31021,Rango de precipitación,1200,1300
+Chikindzonot,Yucatán,C31022,Rango de precipitación,1100,1300
+Chocholá,Yucatán,C31023,Rango de precipitación,800,1100
+Chumayel,Yucatán,C31024,Rango de precipitación,1000,1100
+Dzán,Yucatán,C31025,Rango de precipitación,1000,1100
+Dzemul,Yucatán,C31026,Rango de precipitación,500,1000
+Dzidzantún,Yucatán,C31027,Rango de precipitación,500,1000
+Dzilam de Bravo,Yucatán,C31028,Rango de precipitación,500,700
+Dzilam González,Yucatán,C31029,Rango de precipitación,500,1000
+Dzitás,Yucatán,C31030,Rango de precipitación,1000,1200
+Dzoncauich,Yucatán,C31031,Rango de precipitación,1000,1100
+Espita,Yucatán,C31032,Rango de precipitación,1000,1200
+Halachó,Yucatán,C31033,Rango de precipitación,800,1100
+Hocabá,Yucatán,C31034,Rango de precipitación,1000,1100
+Hoctún,Yucatán,C31035,Rango de precipitación,1000,1100
+Homún,Yucatán,C31036,Rango de precipitación,1000,1100
+Huhí,Yucatán,C31037,Rango de precipitación,1000,1100
+Hunucmá,Yucatán,C31038,Rango de precipitación,400,1100
+Ixil,Yucatán,C31039,Rango de precipitación,500,1000
+Izamal,Yucatán,C31040,Rango de precipitación,1000,1100
+Kanasín,Yucatán,C31041,Rango de precipitación,1000,1100
+Kantunil,Yucatán,C31042,Rango de precipitación,1000,1100
+Kaua,Yucatán,C31043,Rango de precipitación,1100,1300
+Kinchil,Yucatán,C31044,Rango de precipitación,600,1000
+Kopomá,Yucatán,C31045,Rango de precipitación,1000,1100
+Mama,Yucatán,C31046,Rango de precipitación,1000,1100
+Maní,Yucatán,C31047,Rango de precipitación,1000,1100
+Maxcanú,Yucatán,C31048,Rango de precipitación,700,1100
+Mayapán,Yucatán,C31049,Rango de precipitación,1000,1100
+Mérida,Yucatán,C31050,Rango de precipitación,500,1100
+Mocochá,Yucatán,C31051,Rango de precipitación,600,1100
+Motul,Yucatán,C31052,Rango de precipitación,500,1100
+Muna,Yucatán,C31053,Rango de precipitación,1000,1100
+Muxupip,Yucatán,C31054,Rango de precipitación,800,1100
+Opichén,Yucatán,C31055,Rango de precipitación,1000,1100
+Oxkutzcab,Yucatán,C31056,Rango de precipitación,1000,1100
+Panabá,Yucatán,C31057,Rango de precipitación,500,1100
+Peto,Yucatán,C31058,Rango de precipitación,1000,1300
+Progreso,Yucatán,C31059,Rango de precipitación,0,700
+Quintana Roo,Yucatán,C31060,Rango de precipitación,1000,1200
+Río Lagartos,Yucatán,C31061,Rango de precipitación,500,1000
+Sacalum,Yucatán,C31062,Rango de precipitación,1000,1100
+Samahil,Yucatán,C31063,Rango de precipitación,600,1100
+Sanahcat,Yucatán,C31064,Rango de precipitación,1000,1100
+San Felipe,Yucatán,C31065,Rango de precipitación,500,1000
+Santa Elena,Yucatán,C31066,Rango de precipitación,1000,1100
+Seyé,Yucatán,C31067,Rango de precipitación,1000,1100
+Sinanché,Yucatán,C31068,Rango de precipitación,500,1100
+Sotuta,Yucatán,C31069,Rango de precipitación,1000,1100
+Sucilá,Yucatán,C31070,Rango de precipitación,800,1100
+Sudzal,Yucatán,C31071,Rango de precipitación,1000,1100
+Suma,Yucatán,C31072,Rango de precipitación,800,1100
+Tahdziú,Yucatán,C31073,Rango de precipitación,700,1200
+Tahmek,Yucatán,C31074,Rango de precipitación,1000,1100
+Teabo,Yucatán,C31075,Rango de precipitación,1000,1100
+Tecoh,Yucatán,C31076,Rango de precipitación,1000,1100
+Tekal de Venegas,Yucatán,C31077,Rango de precipitación,1000,1100
+Tekantó,Yucatán,C31078,Rango de precipitación,1000,1100
+Tekax,Yucatán,C31079,Rango de precipitación,1000,1100
+Tekit,Yucatán,C31080,Rango de precipitación,1000,1100
+Tekom,Yucatán,C31081,Rango de precipitación,1200,1300
+Telchac Pueblo,Yucatán,C31082,Rango de precipitación,500,1000
+Telchac Puerto,Yucatán,C31083,Rango de precipitación,500,600
+Temax,Yucatán,C31084,Rango de precipitación,700,1100
+Temozón,Yucatán,C31085,Rango de precipitación,1100,1500
+Tepakán,Yucatán,C31086,Rango de precipitación,1000,1100
+Tetiz,Yucatán,C31087,Rango de precipitación,600,800
+Teya,Yucatán,C31088,Rango de precipitación,1000,1100
+Ticul,Yucatán,C31089,Rango de precipitación,1000,1100
+Timucuy,Yucatán,C31090,Rango de precipitación,1000,1100
+Tinum,Yucatán,C31091,Rango de precipitación,1100,1200
+Tixcacalcupul,Yucatán,C31092,Rango de precipitación,1200,1300
+Tixkokob,Yucatán,C31093,Rango de precipitación,1000,1100
+Tixméhuac,Yucatán,C31094,Rango de precipitación,1000,1100
+Tixpéhual,Yucatán,C31095,Rango de precipitación,1000,1100
+Tizimín,Yucatán,C31096,Rango de precipitación,600,1500
+Tunkás,Yucatán,C31097,Rango de precipitación,1000,1100
+Tzucacab,Yucatán,C31098,Rango de precipitación,1000,1200
+Uayma,Yucatán,C31099,Rango de precipitación,1100,1300
+Ucú,Yucatán,C31100,Rango de precipitación,500,800
+Umán,Yucatán,C31101,Rango de precipitación,700,1100
+Valladolid,Yucatán,C31102,Rango de precipitación,1100,1500
+Xocchel,Yucatán,C31103,Rango de precipitación,1000,1100
+Yaxcabá,Yucatán,C31104,Rango de precipitación,1000,1300
+Yaxkukul,Yucatán,C31105,Rango de precipitación,800,1100
+Yobaín,Yucatán,C31106,Rango de precipitación,600,800
+Apozol,Zacatecas,C32001,Rango de precipitación,700,1000
+Apulco,Zacatecas,C32002,Rango de precipitación,600,800
+Atolinga,Zacatecas,C32003,Rango de precipitación,700,1000
+Benito Juárez,Zacatecas,C32004,Rango de precipitación,800,1000
+Calera,Zacatecas,C32005,Rango de precipitación,400,500
+Cañitas de Felipe Pescador,Zacatecas,C32006,Rango de precipitación,300,600
+Concepción de Oro,Zacatecas,C32007,Rango de precipitación,200,600
+Cuauhtémoc,Zacatecas,C32008,Rango de precipitación,400,700
+Chalchihuites,Zacatecas,C32009,Rango de precipitación,500,700
+Fresnillo,Zacatecas,C32010,Rango de precipitación,300,700
+Trinidad García de la Cadena,Zacatecas,C32011,Rango de precipitación,800,1000
+Genaro Codína,Zacatecas,C32012,Rango de precipitación,400,800
+General Enrique Estrada,Zacatecas,C32013,Rango de precipitación,400,500
+General Francisco R Murguía,Zacatecas,C32014,Rango de precipitación,200,500
+El Plateado de Joaquín Amaro,Zacatecas,C32015,Rango de precipitación,500,1000
+General Pánfilo Natera,Zacatecas,C32016,Rango de precipitación,400,500
+Guadalupe,Zacatecas,C32017,Rango de precipitación,400,600
+Huanusco,Zacatecas,C32018,Rango de precipitación,600,800
+Jalpa,Zacatecas,C32019,Rango de precipitación,600,1000
+Jerez,Zacatecas,C32020,Rango de precipitación,400,800
+Jiménez del Teul,Zacatecas,C32021,Rango de precipitación,500,700
+Juan Aldama,Zacatecas,C32022,Rango de precipitación,400,500
+Juchipila,Zacatecas,C32023,Rango de precipitación,700,1000
+Loreto,Zacatecas,C32024,Rango de precipitación,400,500
+Luis Moya,Zacatecas,C32025,Rango de precipitación,400,500
+Mazapil,Zacatecas,C32026,Rango de precipitación,200,600
+Melchor Ocampo,Zacatecas,C32027,Rango de precipitación,200,600
+Mezquítal del Oro,Zacatecas,C32028,Rango de precipitación,700,1000
+Miguel Auza,Zacatecas,C32029,Rango de precipitación,400,700
+Momax,Zacatecas,C32030,Rango de precipitación,700,1000
+Monte Escobedo,Zacatecas,C32031,Rango de precipitación,600,800
+Morelos,Zacatecas,C32032,Rango de precipitación,400,500
+Moyahua de Estrada,Zacatecas,C32033,Rango de precipitación,700,1000
+Nochistlán de Mejía,Zacatecas,C32034,Rango de precipitación,700,1000
+Noria de los Ángeles,Zacatecas,C32035,Rango de precipitación,300,500
+Ojocaliente,Zacatecas,C32036,Rango de precipitación,400,500
+Pánuco,Zacatecas,C32037,Rango de precipitación,400,500
+Pinos,Zacatecas,C32038,Rango de precipitación,400,600
+Río Grande,Zacatecas,C32039,Rango de precipitación,300,600
+Saín Alto,Zacatecas,C32040,Rango de precipitación,400,700
+El Salvador,Zacatecas,C32041,Rango de precipitación,300,600
+Sombrerete,Zacatecas,C32042,Rango de precipitación,400,700
+Susticacán,Zacatecas,C32043,Rango de precipitación,500,800
+Tabasco,Zacatecas,C32044,Rango de precipitación,500,800
+Tepechitlán,Zacatecas,C32045,Rango de precipitación,700,1000
+Tepetongo,Zacatecas,C32046,Rango de precipitación,500,800
+Teul de González Ortega,Zacatecas,C32047,Rango de precipitación,800,1000
+Tlaltenango de Sánchez Román,Zacatecas,C32048,Rango de precipitación,700,1000
+Valparaíso,Zacatecas,C32049,Rango de precipitación,500,1000
+Vetagrande,Zacatecas,C32050,Rango de precipitación,400,500
+Villa de Cos,Zacatecas,C32051,Rango de precipitación,300,500
+Villa García,Zacatecas,C32052,Rango de precipitación,400,600
+Villa González Ortega,Zacatecas,C32053,Rango de precipitación,300,500
+Villa Hidalgo,Zacatecas,C32054,Rango de precipitación,300,500
+Villanueva,Zacatecas,C32055,Rango de precipitación,500,800
+Zacatecas,Zacatecas,C32056,Rango de precipitación,400,600
+Trancoso,Zacatecas,C32057,Rango de precipitación,400,500
+Santa María de la Paz,Zacatecas,C32058,Rango de precipitación,800,1000
