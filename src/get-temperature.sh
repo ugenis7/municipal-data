@@ -1,6 +1,8 @@
-echo "municipality,state,code,variable,min_temperature,max_temperature" > temperature.csv
+#!/usr/bin/env bash
 
-cat weather.csv |\
+echo "municipality,state,code,variable,min_temperature,max_temperature" > output/temperature.csv
+
+cat output/weather.csv |\
 	grep 'temperatura' |\
 	uniq |\
 	sed 's/\-/,/g' |\
@@ -17,5 +19,5 @@ cat weather.csv |\
 	sed 's/ *, */,/g' |\
 	sed 's/\([0-9]\) \([0-9]\)/\1\2/g' |\
 	sed 's/,Distr [0-9]*,//g' |\
-	sed 's/,,/,/g' >> temperature.csv
+	sed 's/,,/,/g' >> output/temperature.csv
 

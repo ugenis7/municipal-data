@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 for var in "$@"
 do
 	LIBRO="$(pdftotext -q -layout $var -)"
@@ -22,9 +22,9 @@ do
 		sed 's/\.pdf$/,/g' |\
 		sed 's/^/C/g')"
 
-	if [ ! -f weather.csv ]; then
-		echo "municipality,state,code,variable,value" > weather.csv
+	if [ ! -f output/weather.csv ]; then
+		echo "municipality,state,code,variable,value" > output/weather.csv
 	fi
 
-	echo "$CLIMA" | awk -v datos="$DATOS" -v code="$CODE" '{print datos code $0}' >> weather.csv
+	printf "$CLIMA" | awk -v datos="$DATOS" -v code="$CODE" '{print datos code $0}' >> output/weather.csv
 done
